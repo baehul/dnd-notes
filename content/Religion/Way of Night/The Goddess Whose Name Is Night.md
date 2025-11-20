@@ -4,6 +4,7 @@ tags:
   - cult-of-night
   - the-goddess-whose-name-is-night
   - way-of-night
+  - religion
 ---
 **The Goddess Whose Name Is Night** is the primary deity of the [[Way Of Night (Religion)|Way Of Night]] philosophical and religious movement. She is revered as the divine author of the *[[Way Of Night (Book)|Way Of Night]]* sacred text, though her faith encourages skepticism of all sources of knowledge, including herself. 
 

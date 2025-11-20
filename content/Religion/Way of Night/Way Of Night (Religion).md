@@ -4,6 +4,7 @@ tags:
   - cult-of-night
   - the-goddess-whose-name-is-night
   - way-of-night
+  - religion
 aliases:
   - Way Of Night
 ---

@@ -4,6 +4,7 @@ tags:
   - cult-of-night
   - the-goddess-whose-name-is-night
   - way-of-night
+  - religion
 aliases:
   - Way Of Night
 ---
@@ -26,6 +27,30 @@ A few stanzas are widely accepted as originating from the primary manuscript giv
 > All truths are empty but this:  
 > You must choose.  
 
+>O Great Night,  
+>remind that which I know:  
+>I have always been and will be blind.  
+>To be blind is to see  
+>Night is blind.  
+
+>If you are,  
+>then you must also be.
+>Is Silver silver just for its name?  
+>It acts as Silver must,
+>so it is.  
+
+>Fear only  
+>knowing what is The Light; 
+>for this is the rejection of Night.  
+>Fear not the being lost.  
+>Fear no Night.  
+
+> Am I Night?
+> How do you know my voice?
+> I live only within what you know.
+> You are me, and I, you.
+> You are Night.
+
 >The sculptor,  
 >has given you their tools.  
 >Is mastery recreating her?  
@@ -35,7 +60,7 @@ A few stanzas are widely accepted as originating from the primary manuscript giv
 > The forest  
 > has many paths to find  
 > They may split; they all reach the same end.  
-> Why then curse other paths  
+> Why then spurn other paths  
 > for this one? 
 
 >"Who are you?"  
@@ -85,12 +110,6 @@ A few stanzas are widely accepted as originating from the primary manuscript giv
 >It sings in the ear of all who hear;  
 >but the source was the wind,  
 >not the word.  
-
->The high wall,  
->claiming to divide all.  
->When we sleep, you are me, and I, you.  
->The darkness covers us both.  
->Both are Night.  
 
 >The harvest.  
 >You are me, and I, you.  

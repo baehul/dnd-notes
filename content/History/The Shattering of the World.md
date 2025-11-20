@@ -17,7 +17,7 @@ The second day of the Shattering marked the first visible and large-scale fragme
 
 ![[TheShatteringDay2Early.png]]
 
-Many eyewitness records suggest that these fragmentations occurred along existing [[Ley Lines]] though this interpretation is widely contested amongst arcanologists. The landmasses began to rapidly drift from one another while previously molten subterranean [[strata]] were exposed and rapidly cooled. Scholars disagree as to whether this rapid cooling caused further fragmentation of the lower layers or if the same forces responsible for the upper fractures had already affected the deeper [[strata]] before cooling occurred.
+Many eyewitness records suggest that these fragmentations occurred along existing [[Ley Lines]] though this interpretation is widely contested amongst arcanologists. The landmasses began to rapidly drift from one another while previously molten subterranean [[Strata]] were exposed and rapidly cooled. Scholars disagree as to whether this rapid cooling caused further fragmentation of the lower layers or if the same forces responsible for the upper fractures had already affected the deeper [[Strata]] before cooling occurred.
 ![[TheShatteringDay2End.png]]
 ## The Third Day
 The third day of the Shattering is widely regarded as the most devastating phase of the event. Following the initial ruptures and separation of major landmasses during the second day, the fragmented continental bodies entered into unstable orbit around the planetary core. Contemporary accounts and later arcano-geological reconstructions indicate that many of these fragments collided with one another repeatedly over the course of several hours.

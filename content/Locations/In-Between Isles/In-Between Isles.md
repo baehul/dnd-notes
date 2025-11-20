@@ -7,6 +7,5 @@ tags:
   - cult-of-night
   - ancient-ones
 aliases:
-  - The Middle
-  - The Shadow Lands
+  - The Isles
 ---
