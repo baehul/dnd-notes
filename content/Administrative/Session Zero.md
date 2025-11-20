@@ -29,6 +29,7 @@ Below are some important links to help you familiarize yourself with the campaig
 - [[House Rules]] - Here you can find all the rules we are going to be playing with for the campaign including character creation (subject to change)
 - [[The Shattering of the World]] - This is the basic foundational event that sets up the history of the world
 # Opening Scene
+![[OpeningSceneImage.png]]
 On a small [[Tectonic Island]] somewhere in the [[In-Between Isles]] [[strata]], we see a strange-looking tavern. Cloaked figures of various shapes and sizes disembark from three ships that have been moored on the island and hurriedly rush into the tavern lest they be spotted. Inside, members of [[The Resistance]] are discussing what to do in response to the news of the capture of their top agent, Lancaster Slickwhistle, by [[The Crusade]]. Lancaster had claimed to have found something that could tilt the conflict in favor of [[The Resistance]] but was arrested before he could share his findings. There are rumblings of the commission of a secret task force to extract Lancaster before it is too late but who to send?
 # Character Creation
 ## Rolling For Stats

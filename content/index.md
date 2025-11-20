@@ -5,6 +5,7 @@ title: The Shattered World
 >  
 >"...Say that again"*
 
+![[The Shatted World Landing Picture.png]]
 # THE SHATTERED WORLD
 [[Session Zero]]
 
