@@ -8,7 +8,7 @@ tags:
   - organization
   - crusade
 ---
-**The Crusade** is the dominant theocratic and military power operating out of their headquarters, [[Cittadella Lumina]] within the [[Upper Crust]] [[strata]], the organization commands the active loyalty of an estimated 75% of the total populace. The Crusade frames its mission as a divinely mandated quest from the sun god, [[Solaris]], to unify the world and permanently end the darkness lingering from [[The Shattering of the World|The Shattering]].
+**The Crusade** is the dominant theocratic and military power operating out of their headquarters, [[Cittadella Lumina]] within the [[Upper Crust]] [[Strata|Stratum]], the organization commands the active loyalty of an estimated 75% of the total populace. The Crusade frames its mission as a divinely mandated quest from the sun god, [[Solaris and The Solari Faith]], to unify the world and permanently end the darkness lingering from [[The Shattering of the World|The Shattering]].
 
 The organization is built upon three groups that serve as its founding pillars: the [[Ecclesia Solari]], the [[Upper Crust Houses]] , and the [[Golden Sails Trading & Shipping Company]]. Together, these groups form the Crusade and actively combat the forces of [[The Resistance]] wherever they can.
 

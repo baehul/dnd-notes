@@ -30,7 +30,7 @@ Below are some important links to help you familiarize yourself with the campaig
 - [[The Shattering of the World]] - This is the basic foundational event that sets up the history of the world
 # Opening Scene
 ![[OpeningSceneImage.png]]
-On a small [[Tectonic Island]] somewhere in the [[In-Between Isles]] [[strata]], we see a strange-looking tavern. Cloaked figures of various shapes and sizes disembark from three ships that have been moored on the island and hurriedly rush into the tavern lest they be spotted. Inside, members of [[The Resistance]] are discussing what to do in response to the news of the capture of their top agent, Lancaster Slickwhistle, by [[The Crusade]]. Lancaster had claimed to have found something that could tilt the conflict in favor of [[The Resistance]] but was arrested before he could share his findings. There are rumblings of the commission of a secret task force to extract Lancaster before it is too late but who to send?
+On a small [[Tectonic Island]] somewhere in the [[In-Between Isles]] [[Strata|Stratum]], we see a strange-looking tavern. Cloaked figures of various shapes and sizes disembark from three ships that have been moored on the island and hurriedly rush into the tavern lest they be spotted. Inside, members of [[The Resistance]] are discussing what to do in response to the news of the capture of their top agent, Lancaster Slickwhistle, by [[The Crusade]]. Lancaster had claimed to have found something that could tilt the conflict in favor of [[The Resistance]] but was arrested before he could share his findings. There are rumblings of the commission of a secret task force to extract Lancaster before it is too late but who to send?
 # Character Creation
 ## Rolling For Stats
 We are going to take a simple approach to generating stat arrays. Everyone will roll a stat array via the standard 4d6 drop the lowest method. From there, we will collect all the stat arrays, and all of them will be available to pick from.
@@ -80,7 +80,7 @@ The group your character is a part of makes up one of the three branches of [[Th
 
 - What does your character think [[The Resistance]] should do?
 - How does your character feel about the other groups that make up [[The Resistance]]?
-- What are your character's dreams for the people of the [[In-Between Isles]] strata?
+- What are your character's dreams for the people of the [[In-Between Isles]] [[Strata|Stratum]]?
 - Does your character mention that they are part of The [[The Resistance|Resistance]]?
 ### The Mission
 Your character is about to be sent on a very important mission on behalf of [[The Resistance]] to rescue a member of [[The Resistance]] who is suspected to have been captured in the midst of a very important discovery that they claim reveals [[The Crusade]]'s plan.
@@ -94,4 +94,4 @@ In general, your characters are going to be running into characters that are par
 - How does your character respond to seeing [[Golden Sails Trading & Shipping Company]] ships? Have they done business with them before?
 - Has your character been questioned by paladins of the [[Ecclesia Solari]]? What did they do?
 - What does your character think of [[Upper Crust Houses|The Upper Houses]]?
-- What does your character know/what are some assumptions they've made about the people that live in the [[Upper Crust]] strata?
+- What does your character know/what are some assumptions they've made about the people that live in the [[Upper Crust]] [[Strata|Stratum]]?
