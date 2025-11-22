@@ -11,6 +11,7 @@ aliases:
 **Strata** refers to the unique geological and atmospheric arrangement of the world following [[The Shattering of the World]]. No longer a single spherical crust, the world’s landmasses have fractured and settled into three distinct orbital rings made of [[Tectonic Islands|Tectonic Islands]], known as strata, which revolve around the exposed, semi-molten planetary core. 
 
 Gravity pulls toward the core, meaning "Down" is always toward the center of the formation, and "Up" is toward the sun and the stars. Travel between these layers is perilous and strictly controlled, primarily achieved via the Weavesilk ships of the [[Golden Sails Trading & Shipping Company|Golden Sails Company]].
+![[MapOfStrata.png]]
 
 # The Upper Crust Stratum
 The [[Upper Crust]], is the outermost ring of the world, located furthest from the core and closest to the sun.

@@ -16,6 +16,7 @@ The GSC's power stems from its exclusive control over the material known as Weav
 A ship equipped with Weavesilk sails is capable of sailing and navigating the volatile, broken [[Ley Lines]] that permeate the void between the [[tectonic islands]]. Without this technology, larger vessels are unable to reliably navigate the rifts, effectively giving the GSC sovereignty over maritime commerce.
 
 The Golden Sails Company employs an extensive tracking system, registering every Weavesilk sail manufactured and sold, along with the identity of the ship's owner. This allows [[The Crusade]] to maintain a complete census of all legal commerce and shipping.  The GSC is also responsible for outfitting [[The Crusade]]’s vessels with specialized magical wards. These wards allow the sailing forces of [[The Crusade]] to remotely shut down the Weavesilk sail of a target vessel, rendering it immobile and helpless in the void, facilitating boarding and inspection by Crusade authorities.
+![[GoldenSailsShip.png]]
 
 # Demographics
 The Golden Sails Company actively welcomes all species within the company, especially members of species who are not part of [[Upper Crust Houses|The Upper Houses]] or the chosen of [[Ecclesia Solari|The Church]]. The more predominant species of employees tend to be:

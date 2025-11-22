@@ -15,7 +15,7 @@ aliases:
 
 Despite its name, the organization is not representative of the majority of adherents of the [[Way Of Night (Religion)|Way Of Night]]. The vast majority of followers are not affiliated with The Cult; rather, The Cult represent a small, extremist subsection of the religion that applies its tenets to radical scientific and political ends.
 
-A substantial portion of its membership are scientists, arcanists, and scholars who ascribe to the philosophical tenets of the  *[[Way Of Night (Religion)|Way Of Night]]*. The group’s core doctrine emphasizes the active pursuit of knowledge from diverse, numerous, and non-traditional sources.
+A substantial portion of its membership are scientists, arcanists, and scholars who ascribe to the philosophical tenets of the *[[Way Of Night (Religion)|Way Of Night]]*. The group’s core doctrine emphasizes the active pursuit of knowledge from diverse, numerous, and non-traditional sources.
 
 This commitment to non-absolute truth and boundless inquiry has led to significant debate. which emphasize seeking out knowledge in all forms from many sources. Critics argue that this doctrine drives the organization to pursue unethical or dangerous magic and research. Conversely, members of the Cult assert that no source of knowledge, regardless of its moral implications, should be considered off-limits to investigation.
 
@@ -33,7 +33,6 @@ Some of the most prominent species in the group include:
 - Deep Gnomes
 - Gith
 - Shadar-Kai
-- Changelings
 
 # Leadership
 The Cult of the Goddess Whose Name Is Night operates without any permanent or established leadership structure. Governance is conducted through a democratic assembly model, where all active members possess an equal vote on matters related to internal policy, resource allocation, and actions taken as part of [[The Resistance]].
