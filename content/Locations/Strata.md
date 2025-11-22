@@ -22,7 +22,7 @@ The [[Upper Crust]] enjoys perpetual, unfiltered sunlight. The weather is temper
 # The In-Between Isles Stratum
 Located directly beneath the [[Upper Crust]] is the [[In-Between Isles]]. This stratum consists of thousands of fractured, medium-to-small islands that drift in a chaotic, shifting orbit.
 ## Geography
-The landmasses here are jagged and scarred, often colliding with one another. The void between islands is filled with debris and broken ley lines.
+The landmasses here are jagged and scarred, often colliding with one another. The void between islands is filled with debris and broken [[ley lines]].
 ## Climate
 The defining feature of this stratum is The Great Shadow. Because the of the plates of the [[Upper Crust]] orbiting directly above, the [[In-Between Isles]] are cast in perpetual twilight. True direct sunlight is rare, appearing only briefly through cracks in the stratum above.
 
