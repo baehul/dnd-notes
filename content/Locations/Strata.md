@@ -8,14 +8,14 @@ tags:
 aliases:
   - Stratum
 ---
-**Strata** refers to the unique geological and atmospheric arrangement of the world following [[The Shattering of the World]]. No longer a single spherical crust, the world’s landmasses have fractured and settled into three distinct orbital rings made of [[Tectonic Island|Tectonic Islands]], known as strata, which revolve around the exposed, semi-molten planetary core. 
+**Strata** refers to the unique geological and atmospheric arrangement of the world following [[The Shattering of the World]]. No longer a single spherical crust, the world’s landmasses have fractured and settled into three distinct orbital rings made of [[Tectonic Islands|Tectonic Islands]], known as strata, which revolve around the exposed, semi-molten planetary core. 
 
 Gravity pulls toward the core, meaning "Down" is always toward the center of the formation, and "Up" is toward the sun and the stars. Travel between these layers is perilous and strictly controlled, primarily achieved via the Weavesilk ships of the [[Golden Sails Trading & Shipping Company|Golden Sails Company]].
 
 # The Upper Crust Stratum
 The [[Upper Crust]], is the outermost ring of the world, located furthest from the core and closest to the sun.
 ## Geography
-This stratum is composed of the largest, most stable, and resource-rich [[Tectonic Island|Tectonic Islands]]. These islands are vast with abundant water and stable ecosystems.
+This stratum is composed of the largest, most stable, and resource-rich [[Tectonic Islands|Tectonic Islands]]. These islands are vast with abundant water and stable ecosystems.
 ## Climate
 The [[Upper Crust]] enjoys perpetual, unfiltered sunlight. The weather is temperate to tropical, free from the erratic magical storms that plague the lower levels.
 

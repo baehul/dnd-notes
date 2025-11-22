@@ -16,7 +16,7 @@ The organization is built upon three groups that serve as its founding pillars: 
 The Crusade is governed by a **Triumvirate**, ensuring that the three founding pillars share equal control over military, spiritual, and economic policy. This shared command structure provides the organization with highly centralized power and clear vision. The Triumvirate consists of:
 1. **The Pontifex Maximus** ([[Ecclesia Solari]]): The spiritual and ideological head, focused on driving the mission of purification.
 2. **The High Baron** ([[Upper Crust Houses]]): The political leader, responsible for consolidating legal power and managing the aristocracy.
-3. **The Lord Governor** ([[Golden Sails Trading & Shipping Company|Golden Sails Company]]): The logistical master, who controls all vital transit between the tectonic islands and manages the war economy.
+3. **The Lord Governor** ([[Golden Sails Trading & Shipping Company|Golden Sails Company]]): The logistical master, who controls all vital transit between the [[tectonic islands]] and manages the war economy.
 # Ideology
 The core of the Crusade's power lies in its appeal to a populace searching for order, security, and a sense of divine purpose. The founding of The Crusade listed 3 divinely ordained tasks:
 1. Winning lands and territories for children of the Sun.

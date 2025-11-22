@@ -22,7 +22,7 @@ Many eyewitness records suggest that these fragmentations occurred along existin
 ## The Third Day
 The third day of the Shattering is widely regarded as the most devastating phase of the event. Following the initial ruptures and separation of major landmasses during the second day, the fragmented continental bodies entered into unstable orbit around the planetary core. Contemporary accounts and later arcano-geological reconstructions indicate that many of these fragments collided with one another repeatedly over the course of several hours.
 
-These collisions resulted in the further fragmentation of the continental plates into smaller structures now known as Tectonic Islands. The process caused immense structural damage to the already destabilized landscape and is believed to have been accompanied by extreme arcane and seismic activity.
+These collisions resulted in the further fragmentation of the continental plates into smaller structures now known as [[Tectonic Islands]]. The process caused immense structural damage to the already destabilized landscape and is believed to have been accompanied by extreme arcane and seismic activity.
 
 # Calendar
 The cataclysmic nature of The Shattering caused a fundamental shift in how people approached the calendar. In the immediate aftermath, people began to reference all events - both personal and historical - by when they happened in reference to The Shattering itself. Over the next decades, this usage became so prevalent that it coalesced into the standard method of referencing dates. Official record-keepers, historians, and scholars codified this system and officially adopted The Shattering Calendar system which designated the third day of the event as Day Zero of Year Zero.
