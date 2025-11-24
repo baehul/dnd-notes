@@ -10,7 +10,7 @@ aliases:
 ---
 The **Way Of Night** is the foundational sacred text of the [[Way Of Night (Religion)|Way Of Night]] religious and philosophical movement. Adherents regard the text as the primary doctrinal guide for approaching life. The text is traditionally believed by its followers to have been directly authored or divinely revealed by [[The Goddess Whose Name Is Night]].
 
-The text is structurally unique, composed of many five stanzas that follow a 3-6-9-6-3 syllable pattern. This triadic meter is cited as a primary cultural catalyst for symbolic importance of the [[number three]] in cultures across the world.
+The text is structurally unique, composed of many five stanzas that follow a 3-6-9-6-3 syllable pattern. This triadic meter is cited as a primary cultural catalyst for symbolic importance of the [[The Universal Constant|the number three]] in cultures across the world.
 
 The *Way Of Night*'s central thesis is the rejection of absolute truth and the promotion of intellectual skepticism. This theological stance is reflected in the text's composition: no single authoritative version exists. While adherents frequently compose and add new stanzas to their personal copies, core doctrines and consensus beliefs are established through the frequency of their appearance across the widest range of extant manuscripts.
 

@@ -14,7 +14,7 @@ While anchored, the islands possess a natural, slow "drift." This movement is us
 # The Edge
 The perimeter of a Tectonic Island is known as The Edge. It is a hard boundary where the rock ends and the void begins. 
 
-Physics at the Edge behaves strangely due to the clash between the island's gravity and the vacuum of the void. Water that flows off the side of an island does not fall endlessly into the [[Underworld]]. Instead, upon passing the threshold of the rock, the water instantly atomizes into a dense, magical mist. This mist rises along the sides of the island, forming a ring of clouds that eventually drift inward and rain the water back down.
+Physics at the Edge behaves strangely due to the clash between the island's gravity and the vacuum of the void. Water that flows off the side of an island does not fall endlessly down into the [[Underworld]]. Instead, upon passing the threshold of the rock, the water instantly atomizes into a dense, magical mist. This mist rises along the sides of the island, forming a ring of clouds that eventually drift inward and rain the water back down.
 # The Underside
 The underside of a Tectonic Island is considered a "Dead Zone."
 

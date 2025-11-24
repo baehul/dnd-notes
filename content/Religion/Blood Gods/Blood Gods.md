@@ -5,7 +5,7 @@ tags:
   - religion
   - blood-gods
 ---
-The **Blood Gods** is the collective, catch-all term used by external observers and scholars to denote the disparate pantheon of tribal, familial, and ancestral deities revered by the various groups composing **[[The Blood Horde (Fictional Organization)|The Blood Horde]]**. The term is rarely used by the followers themselves, who instead reference their specific patron deities, spirits, or venerated ancestors by name or title.
+The **Blood Gods** is the collective, catch-all term used by external observers and scholars to denote the disparate pantheon of tribal, familial, and ancestral deities revered by the various groups composing [[The Blood Horde]]. The term is rarely used by the followers themselves, who instead reference their specific patron deities, spirits, or venerated ancestors by name or title.
 
 # Theological Identity
 The Blood Gods do not constitute a single, unified religion or centralized pantheon. Their theology is fundamentally decentralized, mirroring the tribalistic structure and familial focus of [[Blood Horde|the Horde]] itself. The sheer number of deities and spirits within the collective is considered innumerable. They include ancient totemic spirits, gods associated with specific natural elements or locations on lost ancestral lands, and powerful, deified ancestors of major bloodlines.
