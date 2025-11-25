@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "baehul.github.io/dnd-notes",
     ignorePatterns: ["private", "templates", ".obsidian", "**/*private*", "*private*", "Private Notes"],
     defaultDateType: "modified",
     theme: {
