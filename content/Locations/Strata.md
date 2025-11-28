@@ -5,6 +5,7 @@ tags:
   - strata
   - upper-crust
   - underworld
+  - location
 aliases:
   - Stratum
 ---

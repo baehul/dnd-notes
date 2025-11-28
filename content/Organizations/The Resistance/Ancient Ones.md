@@ -12,6 +12,8 @@ aliases:
 
 Composed of beings whose lifespans measure in centuries or millennia, the organization views the current war against [[The Crusade]] as a temporary historical blip. However, recognizing that [[The Crusade]]’s dogma poses an existential threat to their chaotic and magical natures, they have entered into a strategic pact with [[The Resistance]]. They provide their significant resources, both material and magical, to the coalition in exchange for concealment and the guarantee that [[The Resistance]] will act as a buffer force, keeping the actual fighting away from the Ancient Ones' lairs.
 
+As survivors of the pre-[[The Shattering of the World|Shattering]] era, the Ancient Ones are the primary adherents of [[Old Path|The Old Path]], preserving the memories and rituals of the world as it existed before [[The Shattering of the World|The Shattering]].
+
 # Demographics
 The membership of the Ancient Ones is exclusive, restricted to beings of immense power who originated on the material plane prior to or shortly after [[The Shattering of the World|The Shattering]]. Chromatic dragons, powerful undead, hags, ancient elementals, and giants are some of the most well-known members though many scholars theorize that many more powerful creatures make up their ranks. Their followers tend to be species that have historically served these powerful creatures such as:
 - Chromatic Dragonborn

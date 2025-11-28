@@ -10,7 +10,7 @@ tags:
 aliases:
   - Resistance
 ---
-**The Resistance** is a disparate political and military coalition operating within the [[In-Between Isles]]. The organization was founded as a direct, unified response to the formation of [[The Crusade]]. The coalition is primarily composed of three distinct and ideologically opposed factions: the **[[Blood Horde]]**, the **[[Cult of the Goddess Whose Name Is Night]]**, and the **[[Ancient Ones]]**.
+**The Resistance** is a disparate political and military coalition operating within the [[In-Between Isles]]. The organization was founded as a direct, unified response to the formation of [[The Crusade]]. The coalition is primarily composed of three distinct and ideologically opposed factions: the [[Blood Horde]], the [[Cult of the Goddess Whose Name Is Night]], and the [[Ancient Ones]].
 
 While The Resistance asserts that it represents the interests of all free inhabitants of [[In-Between Isles|the Isles]], contemporary scholars and military analysts estimate its active membership to encompass between 1-10% of the total population. In contrast, [[The Crusade]] maintains the active support of an estimated 75% of the [[Upper Crust]] [[Strata|Stratum]].
 

@@ -2,6 +2,8 @@
 title: Tectonic Islands
 aliases:
   - Tectonic Island
+tags:
+  - location
 ---
 **Tectonic Islands** are the fractured, floating landmasses that constitute the habitable surface of the world following [[The Shattering of the World|The Shattering]]. Suspended in the void around the planetary core, these islands function as self-contained ecosystems. 
 
