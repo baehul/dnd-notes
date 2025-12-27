@@ -20,9 +20,13 @@ While there are many families that make up the Upper Houses, the dynamic is domi
 | House Cuprum   | Law, Masonry, Engineering      | Dwarves | *Ours Is To Endure*              | Copper Anvil And Hammer                    |
 | House Aurum    | Trade, Combat, Magics          | Humans  | *Born Of Steel, Crowned By Gold* | Golden Crown above crossed sword and staff |
 # Leadership
-The Upper Houses derive their authority not from wealth, but from blood purity. They are defined by their ability to trace their lineage back to the Pre-Shattering era, claiming direct descent from the old kings, queens, lords, and barons of the world before the cataclysm. This heritage grants them unquestioned legal and political leadership. 
+The Upper Houses derive their authority not from wealth, but from blood purity. They are defined by their ability to trace their lineage back to the Pre-Shattering era, claiming direct descent from the old kings, queens, lords, and barons of the world before the cataclysm. This heritage grants them unquestioned legal and political leadership.
 
-The position of **The High Baron** is non-hereditary, preventing any single lineage from gaining permanent control. The High Baron is selected by a council of the patriarchs and matriarchs of the three Great Houses. To secure the title, a candidate must also gain two key political endorsements: an official Blessing of Bounty from the Pontifex Maximus of the [[Ecclesia Solari]] and a Promise of Trade from the Lord Governor of the [[Golden Sails Trading & Shipping Company]]. Given how many voices are involved in the picking of the High Baron, lots of politicking and deal-making happens in the course of the selection.
+## The High Baron
+The High Baron serves as the representative of the Upper Crust Houses within the Triumvirate. The po
+
+The position of the High Baron is non-hereditary, preventing any single lineage from gaining permanent control. The High Baron is selected by a council of the patriarchs and matriarchs of the three Great Houses. To secure the title, a candidate must also gain two key political endorsements: an official Blessing of Bounty from the Pontifex Maximus of the [[Ecclesia Solari]] and a Promise of Trade from the Lord Governor of the [[Golden Sails Trading & Shipping Company]]. Given how many voices are involved in the picking of the High Baron, lots of politicking and deal-making happens in the course of the selection.
+
 
 # Political Ideology
 The Upper Crust Houses believe that their long, pure bloodlines were chosen and prepared by [[Solaris and The Solari Faith]] over many millennia to act as the true custodians of civilization. They view their inherited superiority as a sacred burden that allowed their families to endure [[The Shattering of the World|The Shattering]] and remain the only ones fit to guide the populace back to order. 
