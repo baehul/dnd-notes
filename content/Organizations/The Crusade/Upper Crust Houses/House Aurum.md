@@ -26,7 +26,7 @@ The second son of the previous High Baron and Magnus Aurum's older brother. A br
 **Role:** The Enforcer
 
 The third son of Magnus Aurum. Valerius is the living embodiment of House Aurum's words. He is a terrifying combatant, an accomplished mage, and a sharp political mind. He is rumored to be the favored son to inherit the Barony of House Aurum following his father's death. He serves the High Baron as their enforcer.
-### Lord __ Aurum
+### Lord Eobard Aurum
 **Role:** (Deceased)
 
 The deceased ninth son of Magnus Aurum. Was considered by House Aurum to be the fated scion of the House. Died in an ambush by a [[Blood Horde]] tribe before coming of age. 
