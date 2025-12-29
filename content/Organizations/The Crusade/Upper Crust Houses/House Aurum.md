@@ -15,7 +15,7 @@ It is common knowledge that House Aurum holds a superstitious reverence for [[Th
 
 # Prominent Figures
 ### High Baron Magnus Aurum
-**Role:** Patriarch of House Aurum, High Baron of [[The Crusade]]
+**Role:** Patriarch of House Aurum, High Baron, Triumvirate Member
 
 The third son of the previous High Baron, Magnus is the leader of House Aurum. A political genius who has held the High Barony for two decades. He expertly maintains powers, outmaneuvering both the Triumvirate and the [[Upper Crust Houses]].
 ### Duke Ephraim Aurum

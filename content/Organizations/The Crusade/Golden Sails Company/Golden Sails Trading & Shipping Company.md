@@ -41,3 +41,22 @@ The Golden Sails Company's official stance is founded on a specific interpretati
 The GSC views the [[Ecclesia Solari]] as a necessary hindrance. [[Ecclesia Solari|The Church]]'s public legitimacy and divine mandate are essential for maintaining the GSC’s trade monopoly without political challenge. Furthermore, specialized divine magics from [[Ecclesia Solari|the Church]] are required to treat and stabilize the Weavesilk used in their sails so that they don't fail from prolonged exposure to sunlight. In return for this vital service, the GSC is required to tithe significant resources to [[Ecclesia Solari|the Church]] and use its global shipping routes to actively spread the word of [[Solaris and The Solari Faith|Solaris]].
 
 The GSC harbors deep resentment toward the [[Upper Crust Houses]]. As a company of self-made commercial tycoons, they despise the Baron and the aristocracy for having been gifted power and for their perceived laziness and inefficiency. Despite this contempt, the GSC relies heavily on the Houses: they require the noble class's influence to secure market access (selling goods to the populace) and their guards to protect GSC ships. This dependency forces the GSC to constantly pay large bribes and taxes to the Houses, viewing the entire transaction as the cost of doing business.
+
+# Prominent Figures
+### Lord Governor Mullstone Goldleaf
+**Role:** Lord Governor of the GSC, Triumvirate Member
+
+Visionary halfling industrialist that acts as the chief executive of the Golden Sails Company. Widely considered the wealthiest individual in the world. Acts as the final authority on all logistical and financial policy for [[The Crusade]].
+### Vice Governor Esmerelda Fleetfoot
+**Role:** Vice Governor of Weavesilk Manufacturing, Head of Philanthropy
+
+Eccentric halfling scientist. Oversees production and maintenance of Weavesilk as well as GSC's philanthropic efforts. Has personally donated Weavesilk ships to displaced In-Between Isles families. Famously obsessed with quality control and safety.
+### Chief Officer Thrammar Cuprum
+**Role:** Chief Officer of Resource Extraction
+
+Dwarf responsible for harvesting of raw materials for the company. Formerly the heir to [[House Cuprum]] who was disowned for unknown reasons. Known for ruthless efficiency and credited with record profits.
+### Master Gnepnos
+**Role:** Master of Registration, Head of Security
+
+Fearsome gnome that manages the Weavesilk sail registry as well as security for the Golden Sails Company. His department issues captain licenses, collects tariffs, and assists Crusade military forces in searching ships in trading lanes. Former paladin of the [[Ecclesia Solari]]. 
+

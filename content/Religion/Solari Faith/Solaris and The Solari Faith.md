@@ -9,7 +9,6 @@ aliases:
   - Solaris
   - Solari faith
 ---
-
 **Solaris** is the supreme deity of the [[Ecclesia Solari]] and the central figure of worship for the majority of the [[Upper Crust]]. The Solari Faith is a religion centered on light, order, and divine judgment, teaching that the physical sun is the literal manifestation of Solaris's watchful eye and divine power.
 
 # Mythology
