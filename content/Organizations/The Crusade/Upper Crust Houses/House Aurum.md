@@ -25,7 +25,7 @@ The second son of the previous High Baron and Magnus Aurum's older brother. A br
 ### Lord Romauld Aurum
 **Role:** The Enforcer
 
-The third son of Magnus Aurum. Valerius is the living embodiment of House Aurum's words. He is a terrifying combatant, an accomplished mage, and a sharp political mind. He is rumored to be the favored son to inherit the Barony of House Aurum following his father's death. He serves the High Baron as their enforcer.
+The third son of Magnus Aurum. Romauld is the living embodiment of House Aurum's words. He is a terrifying combatant, an accomplished mage, and a sharp political mind. He is rumored to be the favored son to inherit the Barony of House Aurum following his father's death. He serves the High Baron as their enforcer.
 ### Lord Eobard Aurum
 **Role:** (Deceased)
 
