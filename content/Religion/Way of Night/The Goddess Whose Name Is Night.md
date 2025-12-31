@@ -15,7 +15,7 @@ Her mythological role primarily centers on the communication of her text not in 
 - Dreams
 # Iconography and Symbolism
 The Goddess Whose Name Is Night has no standard depiction. However, depictions tend to include some common iconography. She is most commonly depicted as a veiled silhouette of a woman. Her form is usually rendered as being composed of the night sky, with her silhouette filled by stars, nebulae, and deep void.
-![[TheGoddessWhoseNameIsNight.png]]
+![[TheGoddessWhoseNameIsNightArt.png]]
 # Philosophical Reverence and Practice
 
 Worship of The Goddess Whose Name Is Night is primarily philosophical and behavioral, focusing on internal reflection and alignment with the principles she represents, rather than traditional devotional rituals.

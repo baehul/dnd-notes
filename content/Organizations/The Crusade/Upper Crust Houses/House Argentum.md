@@ -12,7 +12,7 @@ tags:
 Their motto, *"Form Untainted, Soul Untamed*, represents a philosophy of radical purity and preservation. House Argentum believes that [[The Shattering of the World|The Shattering]] was a corruption of nature. Consequently, they are obsessed with maintaining the purity of their souls, their bodies, and their lands. They believe it is their divine duty to preserve the beauty of the world. They maintain private Silver Glades, fiercely guarding them against industrial expansion and the "common rabble".
 
 House Argentum controls the vast majority of the arable land in the [[Upper Crust]]. They produce the grain, wine, and meat that feeds [[The Crusade]]. They practice a secret form of animal husbandry that borders on nature magic, raising the premier beasts of [[The Crusade]] whether for war, labor, or luxury.
-## Relationship with The Church
+## Relationship with [[Ecclesia Solari|The Church]]
 Of all the Great Houses, House Argentum is the most closely aligned with the [[Ecclesia Solari]]. They are [[Ecclesia Solari|The Church]]'s most devout patrons; funding cathedrals, commissioning statues, and ensuring their children are educated in the deepest dogmas of the faith.
 # Prominent Figures
 ### [[Baroness Elanaril Argentum]]

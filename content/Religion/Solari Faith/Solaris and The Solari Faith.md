@@ -20,7 +20,7 @@ The faith acknowledges the existence of other entities (such as the [[Cult of th
 
 # Depictions
 Solaris is depicted in religious iconography as a towering, perfect humanoid male composed of blinding molten gold and white fire whose head is the Sun. Theologically, he is considered one and the same as the sun. The sun is not merely his creation; it is his physical body in this world.
-![[Solaris.png]]
+![[SolarisArt.png]]
 
 # Rituals and Worship
 The daily life of a Solari follower is regimented by the movement of the sun.

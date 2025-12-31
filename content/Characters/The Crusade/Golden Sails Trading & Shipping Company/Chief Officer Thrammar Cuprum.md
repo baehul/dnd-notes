@@ -8,4 +8,4 @@ tags:
 ---
 **Role:** Chief Officer of Resource Extraction
 
-Dwarf responsible for harvesting of raw materials for the company. Formerly the heir to [[House Cuprum]] who was disowned for unknown reasons. Known for ruthless efficiency and credited with record profits.
+Dwarf responsible for harvesting of raw materials for [[Golden Sails Trading & Shipping Company|the company]]. Formerly the heir to [[House Cuprum]] who was disowned for unknown reasons. Known for ruthless efficiency and credited with record profits.
