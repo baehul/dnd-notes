@@ -1,0 +1,11 @@
+---
+aliases:
+  - Mullstone Goldleaf
+tags:
+  - golden-sails-trading-and-shipping-company
+  - crusade
+  - upper-crust
+---
+**Role:** Lord Governor of the GSC, Triumvirate Member
+
+Visionary halfling industrialist that acts as the chief executive of the Golden Sails Company. Widely considered the wealthiest individual in the world. Acts as the final authority on all logistical and financial policy for [[The Crusade]].

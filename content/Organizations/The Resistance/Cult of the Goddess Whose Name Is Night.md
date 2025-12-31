@@ -54,3 +54,16 @@ Despite being a founding member of [[The Resistance]], the Cult of the Goddess W
 The Cult of the Goddess Whose Name Is Night maintains a policy of strategic neutrality toward its two allies, though its private assessments are highly judgmental. The [[Blood Horde]] is regarded as an unpredictable, though essential, military asset; one that is dangerously constrained by its own  adherence to vengeance and primal instinct. The Cult often sees [[Blood Horde|the Horde]]'s actions as needlessly volatile and a risk to the long-term goal of preserving intellectual freedom. 
 
 Conversely, the [[Ancient Ones]] are viewed as a critical logistical resource. The Cult accepts the [[Ancient Ones]]' isolationism as a pragmatic division of labor, valuing the rare reagents and funding they supply over their physical presence. However, Cult leadership often views [[Ancient Ones|the Ancients]] with intellectual frustration, seeing them as stagnant hoarders of lore who must be constantly negotiated with to release the resources necessary to fuel the Cult’s research and the war effort.
+# Prominent Figures
+### [[Sendryr Ogami]]
+**Role:** Cleric of [[The Goddess Whose Name Is Night]]
+
+A Drow cleric who wears a permanent silk blindfold and leads the religious wing of the Cult of Night. She speaks almost exclusively in shifting verses from the [[Way Of Night (Book)|Way Of Night]], serving as the Cult's spiritual anchor. It is rare to get a straight answer from her but she is the biggest voice of support for [[The Resistance]] within the Cult.
+### [[Broomhilda Bonebelly]]
+**Role:** Master Biomancer
+
+A Duergar whose own physiology has been altered through self-experimentation with biomancy. Fiercely argues that the Cult should abandon [[The Resistance]] and retreat to deeper towards the Underworld.
+### [[Professor Jitterhop]]
+**Role:** Lead Artificer, Dean of Research and Education
+
+A frantic Deep Gnome often covered in strange stains, burns, and chalk. Leads the Cult's faction of scientists as its lead scholar. Head of education and scholarly studies at the Cult. Maintains that the Cult should have a policy of neutrality as neither [[The Goddess Whose Name Is Night]] nor science takes sides.

@@ -4,10 +4,13 @@ tags:
   - upper-crust
   - upper-crust-houses
   - organization
+  - house-aurum
+  - house-argentum
+  - house-cuprum
 aliases:
   - The Upper Houses
 ---
-**The Upper Crust Houses**, sometimes referred to as **The Upper Houses**, are a collection of noble houses representing the political authority, legal stability, and aristocratic tradition necessary to govern the vast territories liberated in the name of [[Solaris and The Solari Faith]]. They are a key member of [[The Crusade]] and are represented in the Triumvirate by the High Baron Magnus Aurum.
+**The Upper Crust Houses**, sometimes referred to as **The Upper Houses**, are a collection of noble houses representing the political authority, legal stability, and aristocratic tradition necessary to govern the vast territories liberated in the name of [[Solaris and The Solari Faith]]. They are a key member of [[The Crusade]] and are represented in the Triumvirate by the [[High Baron Magnus Aurum]].
 
 # Demographics
 
@@ -29,8 +32,8 @@ The High Baron acts as the supreme judge for internal disputes between noble fam
 The position of the High Baron is non-hereditary, preventing any single lineage from gaining permanent control. The High Baron is selected by a council of the patriarchs and matriarchs of the three Great Houses. To secure the title, a candidate must also gain two key political endorsements: an official Blessing of Bounty from the Pontifex Maximus of the [[Ecclesia Solari]] and a Promise of Trade from the Lord Governor of the [[Golden Sails Trading & Shipping Company]].
 
 Once elected, a High Baron holds their seat indefinitely, serving until they die or are deposed. A High Baron can only be deposed by the election of a new High Baron. Given the challenge in uniting the Upper Houses behind a new candidate who also has the favor of [[Ecclesia Solari|The Church]] and [[Golden Sails Trading & Shipping Company|The Company]], deposing the High Baron requires a great deal of secret politicking and deal-making.
-### Current High Baron: Magnus Aurum
-The current position of High Baron is held by Magnus Aurum,. the patriarch of [[House Aurum]].  Magnus has held the position for 20 years following the death of his father, the previous High Baron. Magnus is known as a shrewd political mind who has united the Upper Houses in the Crusade's mission.
+### Current High Baron: [[High Baron Magnus Aurum|Magnus Aurum]]
+The current position of High Baron is held by [[High Baron Magnus Aurum|Magnus Aurum]],. the patriarch of [[House Aurum]].  Magnus has held the position for 20 years following the death of his father, the previous High Baron. Magnus is known as a shrewd political mind who has united the Upper Houses in the Crusade's mission.
 
 # Political Ideology
 The Upper Crust Houses believe that their long, pure bloodlines were chosen and prepared by [[Solaris and The Solari Faith]] over many millennia to act as the true custodians of civilization. They view their inherited superiority as a sacred burden that allowed their families to endure [[The Shattering of the World|The Shattering]] and remain the only ones fit to guide the populace back to order. 

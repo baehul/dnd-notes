@@ -3,6 +3,8 @@ title: House Argentum
 tags:
   - upper-crust
   - upper-crust-houses
+  - house-argentum
+  - organization
 ---
 **House Argentum** is the oldest and most culturally traditional of the three Great Houses of the [[Upper Crust Houses]]. Composed entirely of Elves, they are the self-appointed cultural and spiritual guardians of [[Upper Crust Houses|The Upper Houses]]. Additionally, House Argentum acts the primary source of food for [[The Crusade]] as its largest producer of crops and livestock.
 
@@ -13,12 +15,12 @@ House Argentum controls the vast majority of the arable land in the [[Upper Crus
 ## Relationship with The Church
 Of all the Great Houses, House Argentum is the most closely aligned with the [[Ecclesia Solari]]. They are [[Ecclesia Solari|The Church]]'s most devout patrons; funding cathedrals, commissioning statues, and ensuring their children are educated in the deepest dogmas of the faith.
 # Prominent Figures
-### Baroness Elanaril Argentum
+### [[Baroness Elanaril Argentum]]
 **Role:** Matriarch of House Argentum
 
 Elanaril has been the head of House Argentum since well before [[The Shattering of the World|The Shattering]] and personally recalls the world it. A figure of immense gravity and sorrow. She leads her house with a serene, unyielding patience.
-### Lady Tanya Argentum
+### [[Lady Tanya Argentum]]
 **Role:** Liason to the [[Ecclesia Solari]]
 
-Elanaril Argentum's eldest daughter. She is the bridge between the [[Upper Crust Houses]] and [[Ecclesia Solari|The Church]]. She frequently audits other noble houses for spiritual lapses on behalf of [[Ecclesia Solari|The Church]]. 
+[[Baroness Elanaril Argentum|Elanaril Argentum]]'s eldest daughter. She is the bridge between the [[Upper Crust Houses]] and [[Ecclesia Solari|The Church]]. She frequently audits other noble houses for spiritual lapses on behalf of [[Ecclesia Solari|The Church]]. 
 A militant zealot. Believes [[The Crusade]] must be more aggressive in pursuing its doctrine of purification and [[Upper Crust Houses|The Upper Houses]] must do more within their own houses.
