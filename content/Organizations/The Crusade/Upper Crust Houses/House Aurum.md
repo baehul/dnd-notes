@@ -11,7 +11,7 @@ tags:
 # Culture
 House Aurum's family words *"Born of Steel, Crowned by Gold"* serves as the foundation of their identity. It represents a culture of meritocratic ruthlessness. House Aurum lands are hubs of activity, training and production. Their nobles are expected to lead by example both in matters of governance and combat. A member of House Aurum who cannot fight on the front lines and bend magic to their will is considered as much a failure as one who cannot expertly wield their finances.
 %%
-## Resonance Crystals
+## [[Resonance Crystals]]
 House Aurum uses [[Resonance Crystals]] to enhance the magic of their house. Like PED's, if you aren't ahead you are behind.
 %%
 

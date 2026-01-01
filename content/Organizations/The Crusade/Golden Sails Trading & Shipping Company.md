@@ -50,7 +50,7 @@ Visionary halfling industrialist that acts as the chief executive of the Golden 
 ### [[Vice Governor Esmerelda Fleetfoot]]
 **Role:** Vice Governor of Weavesilk Manufacturing, Head of Philanthropy
 
-Eccentric halfling scientist. Oversees production and maintenance of Weavesilk as well as GSC's philanthropic efforts. Has personally donated Weavesilk ships to displaced In-Between Isles families. Famously obsessed with quality control and safety.
+Eccentric halfling scientist. Oversees production and maintenance of Weavesilk as well as GSC's philanthropic efforts. Has personally donated Weavesilk ships to displaced [[In-Between Isles]] families. Famously obsessed with quality control and safety.
 ### [[Chief Officer Thrammar Cuprum]]
 **Role:** Chief Officer of Resource Extraction
 

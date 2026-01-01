@@ -16,7 +16,7 @@ draft: "true"
 - Attitude: Using Trey's character ([[Lord Eobard Aurum|Eobard Aurum]]) as his eyes outside the island and also leverage if needed
 - Allies: [[Ancient Ones|The Ancients]]
 - Enemies: [[The Crusade]]
-- Capabilities: Ancient Green Dragon, can do magic of the mind and control the swamp anywhere on his tectonic island
+- Capabilities: Ancient Green Dragon, can do magic of the mind and control the swamp anywhere on his [[Tectonic Islands|tectonic island]]
 %%
 # Portrait
 ![[LuweiPortrait.png]]

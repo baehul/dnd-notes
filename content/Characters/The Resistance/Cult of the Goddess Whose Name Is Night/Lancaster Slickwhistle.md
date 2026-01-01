@@ -18,7 +18,7 @@ aliases:
 - Enemies: [[The Crusade]]
 - Capabilities: NO MAGIC, can have magic gadgets but always spy themed, master spy
 %%
-Drow elf super-spy extraordinaire. The Resistance's top agent.
+Drow elf super-spy extraordinaire. [[The Resistance]]'s top agent.
 %%
 # Portrait
 ![[LancasterSlickwhistlePortrait.png]]

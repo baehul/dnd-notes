@@ -75,7 +75,7 @@ Your characters are each part of one of three organizations: [[Cult of the Godde
 - What are their goals for the future of the organization? 
 - How does your character feel about the leaders/direction of this organization?
 - Does your character mention to others that they are a part of this group?
-### The Resistance
+### [[The Resistance]]
 The group your character is a part of makes up one of the three branches of [[The Resistance]]. They should generally want The [[The Resistance|Resistance]] to succeed in its goals though they don't necessarily have to agree on what those goals are or what success looks like.
 
 - What does your character think [[The Resistance]] should do?
@@ -88,7 +88,7 @@ Your character is about to be sent on a very important mission on behalf of [[Th
 - Why did your character volunteer/get chosen for this mission?
 - How does your character feel about the other PCs joining you on this mission?
 - This mission will probably take you behind enemy lines. How does your character feel about that?
-### The Crusade
+### [[The Crusade]]
 In general, your characters are going to be running into characters that are part of [[The Crusade]]. They are an important force in the story and will most likely be prevalent throughout it.
 
 - How does your character respond to seeing [[Golden Sails Trading & Shipping Company]] ships? Have they done business with them before?
