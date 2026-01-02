@@ -1,5 +1,6 @@
 ---
-aliases: Magnus Aurum
+aliases:
+  - Magnus Aurum
 tags:
   - upper-crust
   - crusade
