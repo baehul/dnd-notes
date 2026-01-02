@@ -4,7 +4,7 @@ I am writing a tool to automatically sync Google Docs to our Campaign Wiki. You
 
 The Google Doc needs to be shared with my gmail or it needs to be publicly accessible via url with the ability to view.
 
-As an example, the source google doc for this can be found here: [https://docs.google.com/document/d/1FKxwh-4thyKI8Ek-kT4yV9JLh-UJnyPmvwZy9B2SOi4/edit?usp=sharing](https://www.google.com/url?q=https://docs.google.com/document/d/1FKxwh-4thyKI8Ek-kT4yV9JLh-UJnyPmvwZy9B2SOi4/edit?usp%3Dsharing&sa=D&source=editors&ust=1767254357702608&usg=AOvVaw3wvLZ9J3RaCSyfSFxDss1M)
+As an example, the source google doc for this can be found here: [https://docs.google.com/document/d/1FKxwh-4thyKI8Ek-kT4yV9JLh-UJnyPmvwZy9B2SOi4/edit?usp=sharing](https://www.google.com/url?q=https://docs.google.com/document/d/1FKxwh-4thyKI8Ek-kT4yV9JLh-UJnyPmvwZy9B2SOi4/edit?usp%3Dsharing&sa=D&source=editors&ust=1767322690714130&usg=AOvVaw19Xzjhb26rWNsx3R3O5mcd)
 
 # Use "Styles"
 
@@ -31,7 +31,7 @@ You can do [[Links]] to link to reference pages such as existing notes within th
 
 > I talked to an NPC [[Lancaster Slickwhistle]] who has a page of background info. I also found out some new lore this session about the [[Crest Of Cinders]], a magic item that seems important but there’s no page for yet.
 
-## Secrets & DM Notes (Hidden Text)
+# Secrets & DM Notes (Hidden Text)
 
 If you want to write something that is **hidden** from the public page (like a secret backstory element or a note for the DM), enclose the text in double percentage signs: \%\%. Everything inside the double percentage signs will be invisible on the final Wiki page. You can also comment out blocks of text.
 
@@ -75,18 +75,18 @@ If you want to write something that is **hidden** from the public page (like a 
 
 > I love sharing loot with my party.
 
-## Lists
+# Lists
 
 Always use the standard **Bullet List** or **Numbered List** buttons.
 
 * **Nested Lists:** You can press "Tab" to nest items.
   + Like this.
 
-## Tables
+# Tables
 
 Simple tables work well. **Do not merge cells**, as this breaks the format. Keep it a simple grid. Markdown requires tables to have a Header Row (titles at the top) so always use the first row of your table for labels (e.g., "Item Name", "Notes").
 
-| Item Name | Weight | Notes |
-| --- | --- | --- |
-| Longsword | 3 lbs | Silvered |
-| Potion | 0.5 lbs | Red liquid, smells like cinnamon |
+| Item Name | Notes |
+| --- | --- |
+| Longsword | Silvered |
+| Potion | Red liquid, smells like cinnamon |
