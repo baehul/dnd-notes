@@ -4,7 +4,7 @@ I am writing a tool to automatically sync Google Docs to our Campaign Wiki. You
 
 The Google Doc needs to be shared with my gmail or it needs to be publicly accessible via url with the ability to view.
 
-As an example, the source google doc for this can be found here: [https://docs.google.com/document/d/1FKxwh-4thyKI8Ek-kT4yV9JLh-UJnyPmvwZy9B2SOi4/edit?usp=sharing](https://www.google.com/url?q=https://docs.google.com/document/d/1FKxwh-4thyKI8Ek-kT4yV9JLh-UJnyPmvwZy9B2SOi4/edit?usp%3Dsharing&sa=D&source=editors&ust=1767322690714130&usg=AOvVaw19Xzjhb26rWNsx3R3O5mcd)
+As an example, the source google doc for this can be found here: [https://docs.google.com/document/d/1FKxwh-4thyKI8Ek-kT4yV9JLh-UJnyPmvwZy9B2SOi4/edit?usp=sharing](https://www.google.com/url?q=https://docs.google.com/document/d/1FKxwh-4thyKI8Ek-kT4yV9JLh-UJnyPmvwZy9B2SOi4/edit?usp%3Dsharing&sa=D&source=editors&ust=1767336587000727&usg=AOvVaw3lnlzbmzS3kQDScvzd4Yd5)
 
 # Use "Styles"
 
@@ -25,11 +25,15 @@ These things will disappear:
 
 # Links
 
-You can do [[Links]] to link to reference pages such as existing notes within the campaign wiki,  characters you would like to be able to reference, or things you would like to give dedicated pages someday
+You can create links to reference pages such as existing notes within the campaign wiki,  characters you would like to be able to reference, or things you would like to give dedicated pages someday. Links are done by using double brackets which creates a link of anything inside the link such that `[[title of page I am linking to]]` becomes  [[title of page I am linking to]]. You can also condense the links so they appear neater by using a vertical bar such that `[[title of page I am linking to|page]]` becomes  [[title of page I am linking to|page]].
 
-**Example:**
+**Example in Google Doc:**
 
-> I talked to an NPC [[Lancaster Slickwhistle]] who has a page of background info. I also found out some new lore this session about the [[Crest Of Cinders]], a magic item that seems important but there’s no page for yet.
+> I talked to an NPC `[[Lancaster Slickwhistle]]` who has a page of background info. I also found out some new lore this session about the `[[Crest Of Cinders]]`, a magic item that seems important but there’s no page for yet. `[[This super duper long link becomes|short]]`.
+
+**Example in Campaign Wiki**
+
+> I talked to an NPC [[Lancaster Slickwhistle]] who has a page of background info. I also found out some new lore this session about the [[Crest Of Cinders]], a magic item that seems important but there’s no page for yet. [[This super duper long link becomes|short]].
 
 # Secrets & DM Notes (Hidden Text)
 
@@ -37,42 +41,28 @@ If you want to write something that is **hidden** from the public page (like a 
 
 **Example in Google Doc:**
 
-> Everyone thinks I am a Bard. \%\% But actually, I am a Warlock in disguise.\%\% This part is visible again.
+> Everyone thinks I am a Bard. \%\% But actually, I am a Warlock in disguise.\%\%. This part is visible again.
 
-> \%\%
-
-> This block of text will be hidden.
-
-> I love writing secret lore.
-
-> I am plotting to TPK the party and steal all their gold.
-
-> \%\%
-
-> This block of text is visible.
-
-> I hate secrets.
-
+> \%\%  
+> This block of text will be hidden.  
+> I love writing secret lore.  
+> I am plotting to TPK the party and steal all their gold.  
+> \%\%  
+> This block of text is visible.  
+> I hate secrets.  
 > I love sharing loot with my party.
 
 **Example Displayed on Wiki:**
 
-> Everyone thinks I am a Bard. %% But actually, I am a Warlock in disguise. %% This part is visible again.
+> Everyone thinks I am a Bard. %% But actually, I am a Warlock in disguise. %%. This part is visible again.
 
-> %%
-
-> This block of text will be hidden.
-
-> I love writing secret lore.
-
-> I am plotting to TPK the party and steal all their gold.
-
-> %%
-
-> This block of text is visible.
-
-> I hate secrets.
-
+> %%  
+> This block of text will be hidden.  
+> I love writing secret lore.  
+> I am plotting to TPK the party and steal all their gold.  
+> %%  
+> This block of text is visible.  
+> I hate secrets.  
 > I love sharing loot with my party.
 
 # Lists
