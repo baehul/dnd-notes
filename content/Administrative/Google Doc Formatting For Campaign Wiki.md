@@ -4,7 +4,7 @@ I am writing a tool to automatically sync Google Docs to our Campaign Wiki. You
 
 The Google Doc needs to be shared with my gmail or it needs to be publicly accessible via url with the ability to view.
 
-As an example, the source google doc for this can be found here: [https://docs.google.com/document/d/1FKxwh-4thyKI8Ek-kT4yV9JLh-UJnyPmvwZy9B2SOi4/edit?usp=sharing](https://www.google.com/url?q=https://docs.google.com/document/d/1FKxwh-4thyKI8Ek-kT4yV9JLh-UJnyPmvwZy9B2SOi4/edit?usp%3Dsharing&sa=D&source=editors&ust=1767336793923630&usg=AOvVaw1nKhfGmLcpnl6uY-u6Dzqv)
+As an example, the source google doc for this can be found here: [https://docs.google.com/document/d/1FKxwh-4thyKI8Ek-kT4yV9JLh-UJnyPmvwZy9B2SOi4/edit?usp=sharing](https://www.google.com/url?q=https://docs.google.com/document/d/1FKxwh-4thyKI8Ek-kT4yV9JLh-UJnyPmvwZy9B2SOi4/edit?usp%3Dsharing&sa=D&source=editors&ust=1767385891914446&usg=AOvVaw0b4bl1lduav9zl1W1zH7D6)
 
 # Use "Styles"
 
