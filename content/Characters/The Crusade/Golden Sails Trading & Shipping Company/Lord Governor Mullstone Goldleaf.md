@@ -1,6 +1,7 @@
 ---
 aliases:
   - Mullstone Goldleaf
+  - The Lord Governor
 tags:
   - golden-sails-trading-and-shipping-company
   - crusade

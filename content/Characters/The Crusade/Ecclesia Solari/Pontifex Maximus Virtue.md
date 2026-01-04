@@ -1,6 +1,8 @@
 ---
 aliases:
   - Virtue
+  - The Pontifex
+  - The Pontifex Maximus
 tags:
   - ecclesia-solari
   - crusade

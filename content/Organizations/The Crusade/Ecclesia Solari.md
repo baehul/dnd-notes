@@ -9,7 +9,7 @@ tags:
 aliases:
   - The Church
 ---
-The **Ecclesia Solari**, sometimes simply called **The Church**, is the powerful theocratic institution dedicated to the worship of [[Solaris and The Solari Faith]]. Led by the Pontifex Maximus, currently a planetar named [[Pontifex Maximus Virtue|Virtue]], the Church provides the ideological mandate and spiritual authority that underpins [[The Crusade]].
+The **Ecclesia Solari**, sometimes simply called **The Church**, is the powerful theocratic institution dedicated to the worship of [[Solaris and The Solari Faith]]. Led by [[Pontifex Maximus Virtue|the Pontifex]] Maximus, currently a planetar named [[Pontifex Maximus Virtue|Virtue]], the Church provides the ideological mandate and spiritual authority that underpins [[The Crusade]].
 
 # Demographics
 The Church accepts almost anyone with open arms. Many of their upper ranks are beings who have ascended by the blessing of [[Solaris and The Solari Faith|Solaris]] to more powerful forms such as celestials. However, their priests tend to come from species that are blessed with divine favor such as:
@@ -18,7 +18,7 @@ The Church accepts almost anyone with open arms. Many of their upper ranks are b
 - Kalashtar
 
 # Leadership
-The Church is ruled by the Pontifex Maximus, currently a planetar name [[Pontifex Maximus Virtue|Virtue]], who acts as the voice of [[Solaris and The Solari Faith]] on this world. The Church maintains a dual structure of administration and militant enforcement. 
+The Church is ruled by [[Pontifex Maximus Virtue|the Pontifex Maximus]], currently a planetar name [[Pontifex Maximus Virtue|Virtue]], who acts as the voice of [[Solaris and The Solari Faith]] on this world. The Church maintains a dual structure of administration and militant enforcement. 
 
 The Paladins Templar are the Church's feared militant arm and investigative force. Composed of highly trained holy warriors and inquisitors, the Paladins Templar are responsible for hunting down dark magic users, tracking suspected blasphemers, and maintaining the faith within Solari territories. 
 
@@ -34,7 +34,7 @@ The Church views the [[Upper Crust Houses]]' claim to a divine right to rule as 
 ### [[Pontifex Maximus Virtue]]
 **Role:** Pontifex Maximus of Ecclesia Solari, Member of Triumvirate
 
-Takes the form of a Planetar. [[Pontifex Maximus Virtue|Virtue]] is the literal Voice of [[Solaris and The Solari Faith|Solaris]] on the Shattered World. Pilgrims who have attended the Pontifex's sermons speak of a voice that resonates in the chest like a church bell, commanding absolute obedience and reverence. Serving as the active spiritual guide of [[the Crusade]].
+Takes the form of a Planetar. [[Pontifex Maximus Virtue|Virtue]] is the literal Voice of [[Solaris and The Solari Faith|Solaris]] on the Shattered World. Pilgrims who have attended [[Pontifex Maximus Virtue|the Pontifex]]'s sermons speak of a voice that resonates in the chest like a church bell, commanding absolute obedience and reverence. Serving as the active spiritual guide of [[the Crusade]].
 ### [[Lord Commander Regus]]
 **Role:** Lord Commander of the Paladins Templar
 

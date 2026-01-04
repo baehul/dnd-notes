@@ -1,6 +1,7 @@
 ---
 aliases:
   - Magnus Aurum
+  - The High Baron
 tags:
   - upper-crust
   - crusade

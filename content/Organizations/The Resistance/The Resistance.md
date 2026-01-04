@@ -14,6 +14,9 @@ aliases:
 
 While The Resistance asserts that it represents the interests of all free inhabitants of [[In-Between Isles|the Isles]], contemporary scholars and military analysts estimate its active membership to encompass between 1-10% of the total population. In contrast, [[The Crusade]] maintains the active support of an estimated 75% of the [[Upper Crust]] [[Strata|Stratum]].
 
+# History
+While the component groups of The Resistance have existed over a century as a loose collection of survivors within the [[In-Between Isles]], The Resistance was founded 30 years ago (120 E.I.) as a political, scientific, and economic alliance in response to increased pressure from [[The Crusade]]. About five years ago, conflicts between the two rapidly increased in frequency and impact, leading to The Resistance deepening military ties between its member groups.
+
 # Composition
 Military historians often describe The Resistance not as a unified army, but as a "symbiotic machine" where each faction fulfills a specific, indispensable role that compensates for the others' weaknesses. The alliance is widely regarded as fragile, held together only by the mutual existential threat of [[The Crusade]].
 - The [[Cult of the Goddess Whose Name Is Night]] provides the coalition’s intelligence, logistical coordination, and advanced technomancy. They act as the organization's engineers and strategists, utilizing their research to determine where resources are best applied and supplying the coalition with experimental technology.
