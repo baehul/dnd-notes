@@ -1,10 +1,24 @@
+---
+
+title: Google Doc Formatting For Campaign Wiki
+
+aliases:  Doc Formatting
+
+tags:
+
+- how-to-guide
+
+- meta-article
+
+---
+
 I am writing a tool to automatically sync Google Docs to our Campaign Wiki. You can structure your document however you like (backstories, session notes, etc), but you **must** follow these formatting rules so the tool can read your Google Doc.
 
 # Google Doc Sharing
 
 The Google Doc needs to be shared with my gmail or it needs to be publicly accessible via url with the ability to view.
 
-As an example, the source google doc for this can be found here: [https://docs.google.com/document/d/1FKxwh-4thyKI8Ek-kT4yV9JLh-UJnyPmvwZy9B2SOi4/edit?usp=sharing](https://www.google.com/url?q=https://docs.google.com/document/d/1FKxwh-4thyKI8Ek-kT4yV9JLh-UJnyPmvwZy9B2SOi4/edit?usp%3Dsharing&sa=D&source=editors&ust=1767418101051056&usg=AOvVaw1hrvw63-UXQjT_-Lqp34nL)
+As an example, the source google doc for this can be found here: [https://docs.google.com/document/d/1FKxwh-4thyKI8Ek-kT4yV9JLh-UJnyPmvwZy9B2SOi4/edit?usp=sharing](https://www.google.com/url?q=https://docs.google.com/document/d/1FKxwh-4thyKI8Ek-kT4yV9JLh-UJnyPmvwZy9B2SOi4/edit?usp%3Dsharing&sa=D&source=editors&ust=1767499153268101&usg=AOvVaw0Wz3XWi1WPehX3ykpoQV0m)
 
 # Use "Styles"
 
@@ -22,6 +36,20 @@ These things will disappear:
 
 * **NO Images:** Do not paste character art or maps into this doc. Send those files directly to the DM or upload them to the Discord.
 * **NO Page Breaks:** The Wiki is one continuous scroll; page breaks are ignored.
+
+# Front matter
+
+The text block at the top of the doc is called front matter. It should be at the top of your doc and will help your article be found easier when searching and linking. Title refers to the title your article will appear with (by default it will use the name of the google doc if not provided) Aliases are other names for your article that might come up in other articles (for characters these are often titles or names). Tags are categorizers; you might use `player-character` for a PC or `session-notes` for session notes.
+
+**Example:**
+
+> \-\-\-  
+> title: Barnabas Huxley  
+> aliases:  Barnabas  
+> tags:  
+>   - player-character  
+>   - bbeg  
+> \-\-\-
 
 # Links
 
