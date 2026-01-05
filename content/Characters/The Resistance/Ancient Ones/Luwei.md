@@ -53,12 +53,9 @@ Recently, Luwei has gathered intelligence suggesting that [[The Crusade]]—spec
 
 While [[The Resistance]] views this as a doomsday scenario, Luwei views it with calculated opportunity. He has not shared this with his allies, but he is investigating whether this Crusade technology could be co-opted to create a perfect, stable paradise for his heir, regardless of the cost to the rest of the [[In-Between Isles]].
 %%
-%%
 # Minions and Servants
 
 The Jade Fragment is tended by a fanatic hierarchy of servants made up of green dragonborn/kobolds and grung who revere Luwei as a god-emperor.
 
-- **The Tenders:** These servants are responsible for the physical care of the egg and the maintenance of the bamboo groves. They are forbidden from speaking above a whisper.
+- **The Tenders:** These servants are responsible for tedning to Luwei and the maintenance of the bamboo groves.
 - **The Ambushers:** Servants who patrol the perimeter of the swamp. They utilize the shifting paths created by Luwei to strike intruders from the mist before vanishing.
-
-%%
