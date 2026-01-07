@@ -25,7 +25,10 @@ One day, he was tinkering with one of his latest machines on campus. The usual g
 
 Wants his farming equipment inventions to revolutionize agriculture, but thinks he needs to prove himself with inventions for war first.
 
+%%
+
 ---
-**Local Notes (Not Synced):**
+# Local Notes
 
-
+Sean
+%%

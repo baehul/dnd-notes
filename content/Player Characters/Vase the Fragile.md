@@ -76,7 +76,10 @@ So far, the compendium contains:
 * Vase has been in fights before, but has never killed someone, and doesn’t see a reason to.
 * Vase is very curious about religion but shies away from doctrine. Still he thinks there is truth in every religion and is curious to explore them.
 
+%%
+
 ---
-**Local Notes (Not Synced):**
+# Local Notes
 
-
+Dugan
+%%

@@ -40,7 +40,10 @@ A year after his adventure, he finally found his way to the [[Monastery of Night
 
 After realizing that they were not fully ready to settle down with HER, as they still had a strong desire to tend to those fighting [[The Crusade]] and those affected by it, JG made his way to [[The Resistance]] proper and began to help out. With a year under his belt, JG is known to be a strong backbone for people to rely on, and someone who is always ready to debate and discuss philosophy (and impart what seem like words of wisdom for those seeking advice or a listening ear).
 
+%%
+
 ---
-**Local Notes (Not Synced):**
+# Local Notes
 
-
+Armaan
+%%

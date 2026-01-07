@@ -18,7 +18,7 @@ I am writing a tool to automatically sync Google Docs to our Campaign Wiki. You
 
 The Google Doc needs to be shared with my gmail or it needs to be publicly accessible via url with the ability to view.
 
-As an example, the source google doc for this can be found here: [https://docs.google.com/document/d/1FKxwh-4thyKI8Ek-kT4yV9JLh-UJnyPmvwZy9B2SOi4/edit?usp=sharing](https://www.google.com/url?q=https://docs.google.com/document/d/1FKxwh-4thyKI8Ek-kT4yV9JLh-UJnyPmvwZy9B2SOi4/edit?usp%3Dsharing&sa=D&source=editors&ust=1767766536211017&usg=AOvVaw3IVTHqDtON2DZ0U01OfikC)
+As an example, the source google doc for this can be found here: [https://docs.google.com/document/d/1FKxwh-4thyKI8Ek-kT4yV9JLh-UJnyPmvwZy9B2SOi4/edit?usp=sharing](https://www.google.com/url?q=https://docs.google.com/document/d/1FKxwh-4thyKI8Ek-kT4yV9JLh-UJnyPmvwZy9B2SOi4/edit?usp%3Dsharing&sa=D&source=editors&ust=1767830487641887&usg=AOvVaw1dU5HHkoixbqgeG-e1U-zG)
 
 # Use "Styles"
 
@@ -109,8 +109,8 @@ Simple tables work well. **Do not merge cells**, as this breaks the format. Keep
 | Longsword | Silvered |
 | Potion | Red liquid, smells like cinnamon |
 
+%%
+
 ---
-**Local Notes (Not Synced):**
-
-
+# Local Notes
 

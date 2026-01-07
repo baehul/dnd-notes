@@ -30,7 +30,7 @@ Otis is a gentle-giant. He has a large and intimidating figure but first impress
 
 Otis grew up in a peaceful tribe that worshipped nature. His family lived off the land, and life was simple until House Argentum arrived. Claiming it was their “divine duty” to “preserve the beauty of the world,” House Argentum took the tribe’s land, as they had done to many others, and cast them into camps provided by the House.Though advertised as a great new home, these camps turned out to be dirty and overcrowded, filled with other displaced tribes. Otis and his people made the best life they could, but anger began to boil within him. His parents and the tribal chieftain are pacifists and want no part in war or unnecessary violence. The chieftain’s son, however—a young warrior—joined the Blood Horde. His choice inspired Otis to do the same.
 
-Otis has now been part of the Blood Horde for about 2 months only taking on a handful of missions. Most notably, he was paired with Vodus, an unkillable warrior who is also lacking a tribe to fight with. They made a name for themselves after returning as the sole survivors of a prison break mission. Otis and Vodus arrive at the Resistance meeting for Lancaster Slickwhistle on a freshly commandeered House Argentum ship.
+Otis has now been part of the Blood Horde for about 2 months only taking on a handful of missions. Most notably, he was paired with Vaxen, an unkillable warrior who is also lacking a tribe to fight with. They made a name for themselves after returning as the sole survivors of a prison break mission. Otis and Vaxen arrive at the Resistance meeting for Lancaster Slickwhistle on a freshly commandeered House Argentum ship.
 
 %%
 
@@ -57,7 +57,7 @@ Your character should generally want to be part of an adventuring party. They sh
 
 There are some questions specific to this setting/campaign that you might find interesting to consider
 
-* What kind of[Tectonic Islands](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Locations/Tectonic-Islands&sa=D&source=editors&ust=1767766487505727&usg=AOvVaw3er54N1Y-F_WTSe-reLy0V) interest your character? Are there any you want to see/settle on?
+* What kind of[Tectonic Islands](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Locations/Tectonic-Islands&sa=D&source=editors&ust=1767830490107756&usg=AOvVaw2VjPzsrrYEAoww3TLBXEy_) interest your character? Are there any you want to see/settle on?
   + He would likely gravitate towards the largest nature areas that were the least disturbed by the shattering (if that’s even possibl)
 
 * If the world could be restored to its original state, would your character do it? What would they change?
@@ -86,7 +86,7 @@ There are certainly religions (check out the Religion folder for more info) that
 
 ### **Personal Affiliation**
 
-Your characters are each part of one of three organizations:[The Cult](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Resistance/Cult-of-the-Goddess-Whose-Name-Is-Night&sa=D&source=editors&ust=1767766487508029&usg=AOvVaw2WO5RRYWa9il4kJoXZw4XR),[The Horde](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Resistance/Blood-Horde&sa=D&source=editors&ust=1767766487508183&usg=AOvVaw0gy0w3CNvSBr8G8r4mK2yB), or[The Ancients](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Resistance/Ancient-Ones&sa=D&source=editors&ust=1767766487508342&usg=AOvVaw0AlI_rkRAeQ8ulNZ3e4DIC) (we will try to make sure each organization has at least one player unless everyone is interested in just one group).
+Your characters are each part of one of three organizations:[The Cult](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Resistance/Cult-of-the-Goddess-Whose-Name-Is-Night&sa=D&source=editors&ust=1767830490111355&usg=AOvVaw0PzbLSVXqrtyauv_vqpfYT),[The Horde](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Resistance/Blood-Horde&sa=D&source=editors&ust=1767830490111629&usg=AOvVaw1baDM9sr4GoFlPA1dtDdWE), or[The Ancients](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Resistance/Ancient-Ones&sa=D&source=editors&ust=1767830490111872&usg=AOvVaw1v0WkxGtZV-Fsd3O3LdVIW) (we will try to make sure each organization has at least one player unless everyone is interested in just one group).
 
 * How/why did your character become a member of this organization?
   + The ancients to do his part in preservation of the First Tree and the Great Cycle
@@ -106,19 +106,19 @@ Your characters are each part of one of three organizations:[The Cult](https://w
 
 ### **The Resistance**
 
-The group your character is a part of makes up one of the three branches of[The Resistance](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Resistance/The-Resistance&sa=D&source=editors&ust=1767766487509974&usg=AOvVaw1nXxP7mci4vtq0PF7WuyZQ). They should generally want The[Resistance](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Resistance/The-Resistance&sa=D&source=editors&ust=1767766487510148&usg=AOvVaw3DEKpOqF80iV8GhXVwG5iA) to succeed in its goals though they don’t necessarily have to agree on what those goals are or what success looks like.
+The group your character is a part of makes up one of the three branches of[The Resistance](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Resistance/The-Resistance&sa=D&source=editors&ust=1767830490114348&usg=AOvVaw3cBwUukqecu5MKKzpu2Nlb). They should generally want The[Resistance](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Resistance/The-Resistance&sa=D&source=editors&ust=1767830490114637&usg=AOvVaw0ECuo5SpfB7DfAOsiAJHYS) to succeed in its goals though they don’t necessarily have to agree on what those goals are or what success looks like.
 
-* What does your character think[The Resistance](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Resistance/The-Resistance&sa=D&source=editors&ust=1767766487510477&usg=AOvVaw0GEftLaquykxER1PkDkPHi) should do?
+* What does your character think[The Resistance](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Resistance/The-Resistance&sa=D&source=editors&ust=1767830490115159&usg=AOvVaw2QuCoVhy5TEdU_gnlgRHFv) should do?
 
-* How does your character feel about the other groups that make up[The Resistance](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Resistance/The-Resistance&sa=D&source=editors&ust=1767766487510757&usg=AOvVaw0J7Y_smmYAnvbG47fD3T2b)?
+* How does your character feel about the other groups that make up[The Resistance](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Resistance/The-Resistance&sa=D&source=editors&ust=1767830490115621&usg=AOvVaw09cJezuG0WT32IusDSxhGy)?
 
-* What are your character’s dreams for the people of the[In-Between Isles](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/In-Between-Isles&sa=D&source=editors&ust=1767766487511007&usg=AOvVaw01XO4QuTv1BMofOmFMHWTv)[Stratum](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Locations/Strata&sa=D&source=editors&ust=1767766487511108&usg=AOvVaw28does7s1zSb9qUyPPbYIN)?
+* What are your character’s dreams for the people of the[In-Between Isles](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/In-Between-Isles&sa=D&source=editors&ust=1767830490116016&usg=AOvVaw3il5DjHsFdjN42E96qwlZZ)[Stratum](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Locations/Strata&sa=D&source=editors&ust=1767830490116185&usg=AOvVaw2XVCVCNtqoSaJ9-A9uw4bs)?
 
-* Does your character mention that they are part of The[Resistance](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Resistance/The-Resistance&sa=D&source=editors&ust=1767766487511384&usg=AOvVaw35TWSb67ZJLgpdP_UYhtAw)?
+* Does your character mention that they are part of The[Resistance](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Resistance/The-Resistance&sa=D&source=editors&ust=1767830490116617&usg=AOvVaw2wm2ge8-vSJcTO4hYrDyqV)?
 
 ### **The Mission**
 
-Your character is about to be sent on a very important mission on behalf of[The Resistance](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Resistance/The-Resistance&sa=D&source=editors&ust=1767766487511800&usg=AOvVaw2z7zHnQ80_04K22evvXqjj) to rescue a member of[The Resistance](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Resistance/The-Resistance&sa=D&source=editors&ust=1767766487512008&usg=AOvVaw1cz2XhsIk3q2cbL_Jdph7B) who is suspected to have been captured in the midst of a very important discovery that they claim reveals[The Crusade](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Crusade/The-Crusade&sa=D&source=editors&ust=1767766487512268&usg=AOvVaw3rAluRD2WF5NredTbtdXCM)’s plan.
+Your character is about to be sent on a very important mission on behalf of[The Resistance](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Resistance/The-Resistance&sa=D&source=editors&ust=1767830490117184&usg=AOvVaw3PwEQN0GAWJeMCe-cOEmAJ) to rescue a member of[The Resistance](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Resistance/The-Resistance&sa=D&source=editors&ust=1767830490117461&usg=AOvVaw1fsZEZHyho8nLzgLvepiqp) who is suspected to have been captured in the midst of a very important discovery that they claim reveals[The Crusade](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Crusade/The-Crusade&sa=D&source=editors&ust=1767830490117858&usg=AOvVaw1xGXSyIPEbRz_o4hQNPPXa)’s plan.
 
 * Does your character know about this mission before the meeting? Do they know they’re about to go on it?
 
@@ -130,18 +130,18 @@ Your character is about to be sent on a very important mission on behalf of[The 
 
 ### **The Crusade**
 
-In general, your characters are going to be running into characters that are part of[The Crusade](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Crusade/The-Crusade&sa=D&source=editors&ust=1767766487513236&usg=AOvVaw2buA-SSh-YIgJbvB_0xCxX). They are an important force in the story and will most likely be prevalent throughout it.
+In general, your characters are going to be running into characters that are part of[The Crusade](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Crusade/The-Crusade&sa=D&source=editors&ust=1767830490119258&usg=AOvVaw205wE8lZQoWUIl9kGc_B0A). They are an important force in the story and will most likely be prevalent throughout it.
 
-* How does your character respond to seeing[Golden Sails Trading & Shipping Company](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Crusade/Golden-Sails-Company/Golden-Sails-Trading--and--Shipping-Company&sa=D&source=editors&ust=1767766487513619&usg=AOvVaw3mkQPvtizAfG55NbWeRYBh) ships? Have they done business with them before?
+* How does your character respond to seeing[Golden Sails Trading & Shipping Company](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Crusade/Golden-Sails-Company/Golden-Sails-Trading--and--Shipping-Company&sa=D&source=editors&ust=1767830490119912&usg=AOvVaw0qt1F6PMLGnbsJ0y0mrLvu) ships? Have they done business with them before?
   + no
 
-* Has your character been questioned by paladins of the[Ecclesia Solari](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Crusade/Ecclesia-Solari/Ecclesia-Solari&sa=D&source=editors&ust=1767766487513952&usg=AOvVaw23kg1c26MpjcNiTrwAMX4u)? What did they do?
+* Has your character been questioned by paladins of the[Ecclesia Solari](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Crusade/Ecclesia-Solari/Ecclesia-Solari&sa=D&source=editors&ust=1767830490120505&usg=AOvVaw2uRS-FAerHX-mTcx0X6QwX)? What did they do?
   + no
 
-* What does your character think of[The Upper Houses](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Crusade/Upper-Crust-Houses/Upper-Crust-Houses&sa=D&source=editors&ust=1767766487514254&usg=AOvVaw2gLUwn9Jx6kZ0jKdshTNXv)?
+* What does your character think of[The Upper Houses](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Organizations/The-Crusade/Upper-Crust-Houses/Upper-Crust-Houses&sa=D&source=editors&ust=1767830490121110&usg=AOvVaw3BYelpWl9eaNvdEv5jfpuD)?
   + Hates House of Argentum
 
-* What does your character know/what are some assumptions they’ve made about the people that live in the[Upper Crust](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Upper-Crust&sa=D&source=editors&ust=1767766487514574&usg=AOvVaw36tQLY-AnsHCQAO3740XFh)[Stratum](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Locations/Strata&sa=D&source=editors&ust=1767766487514683&usg=AOvVaw0ng99f9VH7-0YhGywMpIwD)?
+* What does your character know/what are some assumptions they’ve made about the people that live in the[Upper Crust](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Upper-Crust&sa=D&source=editors&ust=1767830490121612&usg=AOvVaw2iO482VJNKspU-HtCHDJ0-)[Stratum](https://www.google.com/url?q=https://baehul.github.io/dnd-notes/Locations/Strata&sa=D&source=editors&ust=1767830490121778&usg=AOvVaw05hf8nPqjanZBB01QLA8Aq)?
 
 # General Notes
 
@@ -192,7 +192,10 @@ In general, your characters are going to be running into characters that are par
 
 %%
 
+%%
+
 ---
-**Local Notes (Not Synced):**
+# Local Notes
 
-
+Jonny
+%%

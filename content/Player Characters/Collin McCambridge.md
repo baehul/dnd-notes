@@ -94,13 +94,16 @@ Through his workings with [[Luwei]] Collin has learned that [[Mithbarakaz|Mithba
 
 [[Mithbarakaz]] has a nephew who works for him in the Silver Moon named [[Vase the Fragile]], [[Vase the Fragile|Vase]] is five years younger than Collin but has just as curious of a mind. [[Vase the Fragile|Vase]] reminds Collin a little of himself at a young age so Collin feels a kinship with him. Whenever Collin visits the Silver Moon he makes sure to set some time aside to speak to [[Vase the Fragile|Vase]] about the book series they are both into, “The Adventures of Collin Thorpe” and about mysterious such as the [[Ley Lines]] and the events around [[The Shattering of the World|The Shattering]]. They enjoy academic talks but if [[Vase the Fragile|Vase]] tries to talk about Collin’s personal life he tries to steer the conversation in a different direction. [[Vase the Fragile|Vase]] is currently trying to collect items and writings of times before [[The Shattering of the World|The Shattering]] and event leading up to and surrounding [[The Shattering of the World|The Shattering]], Collin somewhat excitedly promises that he’ll keep his eye out for anything of note in his travels when he has time.
 
-## John Guy & Votis The Unkillable
+## John Guy & Vaxen The Unkillable
 
-Collin worked a mission with senior resistance member Rat Detective alongside two recruits for the mission JG and Votis members of the [[Cult of the Goddess Whose Name Is Night]] and the [[Blood Horde]] respectively. The mission was to stop a member of [[The Crusade]] from spreading propaganda on the island \_\_\_\_\_\_, where none of us are quite certain what exactly happened except we were all hammered at some point and Rat Detective is a crucial member of [[The Resistance]].
+Collin worked a mission with senior resistance member Rat Detective alongside two recruits for the mission JG and Vaxen members of the [[Cult of the Goddess Whose Name Is Night]] and the [[Blood Horde]] respectively. The mission was to stop a member of [[The Crusade]] from spreading propaganda on during the mission known as ‘Pour Decisions’, where none of us are quite certain what exactly happened except we were all hammered at some point and Rat Detective is a crucial member of [[The Resistance]].
+
+%%
 
 %%
 
 ---
-**Local Notes (Not Synced):**
+# Local Notes
 
-
+Trey
+%%
