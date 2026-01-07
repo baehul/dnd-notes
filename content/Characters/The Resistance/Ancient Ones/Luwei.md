@@ -41,7 +41,7 @@ Luwei can mentally command the bamboo and reeds to shift, closing paths or openi
 %%
 # The Unhatched Egg
 
-Luwei guards a single, massive dragon egg—the last clutch laid before [[The Shattering]]. The egg has remained in stasis for 150 years. Luwei believes that the egg possesses a divine sensitivity; it refuses to hatch into a broken, unstable world.
+Luwei guards a single, massive dragon egg—the last clutch laid before [[The Shattering of the World|The Shattering]]. The egg has remained in stasis for 150 years. Luwei believes that the egg possesses a divine sensitivity; it refuses to hatch into a broken, unstable world.
 %%
 
 %%

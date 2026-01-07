@@ -11,7 +11,7 @@ aliases:
   - The Cult
   - The Cult of Night
 ---
-**The Cult of the Goddess Whose Name Is Night** is a contemporary religious, scientific, and political coalition operating out of their headquarters, [[The Monastery of Night]], within the [[In-Between Isles]]. The group was formally established in the aftermath of [[The Shattering of the World|The Shattering]] (Year 0 B.F.) and is currently major constituent group of [[The Resistance]]. 
+**The Cult of the Goddess Whose Name Is Night** is a contemporary religious, scientific, and political coalition operating out of their headquarters, the [[Monastery of Night]], within the [[In-Between Isles]]. The group was formally established in the aftermath of [[The Shattering of the World|The Shattering]] (Year 0 B.F.) and is currently major constituent group of [[The Resistance]]. 
 
 Despite its name, the organization is not representative of the majority of adherents of the [[Way Of Night (Religion)|Way Of Night]]. The vast majority of followers are not affiliated with The Cult; rather, The Cult represent a small, extremist subsection of the religion that applies its tenets to radical scientific and political ends.
 
