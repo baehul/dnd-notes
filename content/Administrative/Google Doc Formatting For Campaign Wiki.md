@@ -18,7 +18,7 @@ I am writing a tool to automatically sync Google Docs to our Campaign Wiki. You
 
 The Google Doc needs to be shared with my gmail or it needs to be publicly accessible via url with the ability to view.
 
-As an example, the source google doc for this can be found here: [https://docs.google.com/document/d/1FKxwh-4thyKI8Ek-kT4yV9JLh-UJnyPmvwZy9B2SOi4/edit?usp=sharing](https://www.google.com/url?q=https://docs.google.com/document/d/1FKxwh-4thyKI8Ek-kT4yV9JLh-UJnyPmvwZy9B2SOi4/edit?usp%3Dsharing&sa=D&source=editors&ust=1767757303707519&usg=AOvVaw2lZnmOHI6LGglDNZYcYJDJ)
+As an example, the source google doc for this can be found here: [https://docs.google.com/document/d/1FKxwh-4thyKI8Ek-kT4yV9JLh-UJnyPmvwZy9B2SOi4/edit?usp=sharing](https://www.google.com/url?q=https://docs.google.com/document/d/1FKxwh-4thyKI8Ek-kT4yV9JLh-UJnyPmvwZy9B2SOi4/edit?usp%3Dsharing&sa=D&source=editors&ust=1767766536211017&usg=AOvVaw3IVTHqDtON2DZ0U01OfikC)
 
 # Use "Styles"
 
@@ -34,7 +34,7 @@ Instead, use the **Styles Dropdown** in the toolbar:
 
 These things will disappear:
 
-* **NO Images:** Do not paste character art or maps into this doc. Send those files directly to the DM or upload them to the Discord.
+* **NO Images:** Do not paste character art or maps into this doc. Send those files directly to the DM or upload them to the Discord. I will send you a link to embed in the doc which you can put on its own line.
 * **NO Page Breaks:** The Wiki is one continuous scroll; page breaks are ignored.
 
 # Front matter
@@ -108,3 +108,9 @@ Simple tables work well. **Do not merge cells**, as this breaks the format. Keep
 | --- | --- |
 | Longsword | Silvered |
 | Potion | Red liquid, smells like cinnamon |
+
+---
+**Local Notes (Not Synced):**
+
+
+

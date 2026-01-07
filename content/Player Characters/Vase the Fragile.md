@@ -75,3 +75,8 @@ So far, the compendium contains:
 * Vase is in love with every woman he meets
 * Vase has been in fights before, but has never killed someone, and doesn’t see a reason to.
 * Vase is very curious about religion but shies away from doctrine. Still he thinks there is truth in every religion and is curious to explore them.
+
+---
+**Local Notes (Not Synced):**
+
+

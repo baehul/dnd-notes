@@ -49,3 +49,8 @@ Vaxen’s true path began when they were paired with [[Otis Thulu]], the only wa
 ## The Argentum Upgrade
 
 Vaxen and Otis are currently tasked with rescuing [[Lancaster Slickwhistle]] and uncovering why the Crusade is aggressively seizing Blood Horde land. The Horde could only afford to provide a scuffed, low-budget ship for the journey. However, Vaxen and Otis intercepted a luxury [[House Argentum]] vessel and eliminated the crew. They are now arriving at the meeting in a decked-out ship, ready to find what would be next in their journey.
+
+---
+**Local Notes (Not Synced):**
+
+

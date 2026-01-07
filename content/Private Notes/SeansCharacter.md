@@ -24,3 +24,8 @@ While the Cult follows its philosophy of exploring different truths, it only man
 One day, he was tinkering with one of his latest machines on campus. The usual group of bullies saw his unorthodox designs and prototype, laughing and asking him, “Is this your best creation yet, NAME?”. After yet another failure attempting to imbue this creation with magic, he felt the despair seep in. But that despair was soon replaced with anger, rage, and fury. All his fellow students ever did was doubt him. Even his teachers doubted him, despite their attempts to hide it. He wanted more than anything to show them that they were wrong about him. The words echoed in his mind, *is this your best creation yet?* You know what, YES, this WAS his best creation yet. This sudden rush of belief and confidence swirled within him as his latest attempt succeeded with flying colors. For perhaps the first time, his hard work and perseverance truly had paid off. At first, thought of showing off his new skills to those who mocked him, but now he had bigger dreams. This single contraption would not impress them. It would not impress his teachers. He set out now to prove his abilities to everyone around him. And what better way to do that than showing off his designs on the front lines of this brewing conflict with the Crusade?
 
 Wants his farming equipment inventions to revolutionize agriculture, but thinks he needs to prove himself with inventions for war first.
+
+---
+**Local Notes (Not Synced):**
+
+

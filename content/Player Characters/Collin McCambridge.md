@@ -99,3 +99,8 @@ Through his workings with [[Luwei]] Collin has learned that [[Mithbarakaz|Mithba
 Collin worked a mission with senior resistance member Rat Detective alongside two recruits for the mission JG and Votis members of the [[Cult of the Goddess Whose Name Is Night]] and the [[Blood Horde]] respectively. The mission was to stop a member of [[The Crusade]] from spreading propaganda on the island \_\_\_\_\_\_, where none of us are quite certain what exactly happened except we were all hammered at some point and Rat Detective is a crucial member of [[The Resistance]].
 
 %%
+
+---
+**Local Notes (Not Synced):**
+
+

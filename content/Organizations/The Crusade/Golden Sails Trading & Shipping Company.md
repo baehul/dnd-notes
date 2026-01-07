@@ -13,12 +13,13 @@ aliases:
 
 # Weavesilk
 The GSC's power stems from its exclusive control over the material known as Weavesilk. This rare, magically-treated silk is the only material that can be crafted into the company's signature golden sails. While the method of creating Weavesilk is a fiercely guarded secret, two of the components are well-known: the first are [[Resonance Crystals]] which have been uniquely tuned to the [[Ley Lines]], the second are divine magical wards that prevent prolonged exposure to sunlight from breaking down the material.
+![[GoldenSailsShip.png]]
 
 A ship equipped with Weavesilk sails is capable of sailing and navigating the volatile, broken [[Ley Lines]] that permeate the void between the [[tectonic islands]]. Without this technology, larger vessels are unable to reliably navigate the rifts, effectively giving the GSC sovereignty over maritime commerce.
 
-The Golden Sails Company employs an extensive tracking system, registering every Weavesilk sail manufactured and sold, along with the identity of the ship's owner. This allows [[The Crusade]] to maintain a complete census of all legal commerce and shipping.  The GSC is also responsible for outfitting [[The Crusade]]’s vessels with specialized magical wards. These wards allow the sailing forces of [[The Crusade]] to remotely shut down the Weavesilk sail of a target vessel, rendering it immobile and helpless in the void, facilitating boarding and inspection by Crusade authorities.
-![[GoldenSailsShip.png]]
+The Golden Sails Company employs an extensive tracking system, registering every Weavesilk sail manufactured and sold, along with the identity of the ship's owner. This allows [[The Crusade]] to maintain a complete census of all legal commerce and shipping.  
 
+Following the formation of [[The Resistance]] 30 years ago, the GSC began weaving a secondary enchantment into all new sails. These wards allow the sailing forces of [[The Crusade]] to remotely shut down the Weavesilk sail of a target vessel in direct line-of-sight, rendering it immobile and helpless in the void, facilitating boarding and inspection by Crusade authorities. Sails manufactured prior to the escalation of tensions lack this ward entirely. These sails are technically obsolete by GSC standards but are the single most valuable commodity on the black market.
 # Demographics
 The Golden Sails Company actively welcomes all species within the company, especially members of species who are not part of [[Upper Crust Houses|The Upper Houses]] or the chosen of [[Ecclesia Solari|The Church]]. The more predominant species of employees tend to be:
 - Halflings
