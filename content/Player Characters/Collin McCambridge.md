@@ -72,7 +72,7 @@ August Aurum - While August might not be the sharpest tool in the shed, especial
 
 Clara Aurum - Sixth child and favorite daughter of their parents. Clara may be the only one of the siblings with an actual relationship with their mother due to her skill with enchantment magic and silver tongue getting others to do exactly as she wishes. Also an extremely dangerous weapon with a boa staff
 
-Alexandra Aurum - Seventh child, only by a few seconds, and twin alongside Alexander. Powerful abjurer,  Lacking in combat capabilities, she found herself forcibly becoming the Aurum family’s scion of the church. While not truly believing in her station she uses the good standing it gives her to the families gain.
+Alexandra Aurum - Seventh child, only by a few seconds, and twin alongside Alexander. Powerful abjurer,  Lacking in combat capabilities, she found herself forcibly becoming the Aurum family’s scion of the church. While not truly believing in her station she uses the good standing it gives her to the family’s gain.
 
 Alexander Aurum - Eighth child and younger twin of Alexandra, outwardly joyous and foolhardy but has been obsessed with the concept of ‘pain threshold’ since a little child. Talented necromancer but chooses to use his skills more towards his passion.
 
@@ -104,6 +104,7 @@ Collin worked a mission with senior resistance member Rat Detective alongside tw
 
 ---
 # Local Notes
+
 
 Trey
 %%

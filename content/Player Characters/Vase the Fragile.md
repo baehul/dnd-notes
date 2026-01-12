@@ -22,7 +22,7 @@ tags:
 
 ## Appearance:
 
-Vase stands at 5’ 7” and is very sensitive about it. He has medium length brown hair, brown eyes and a scar on his left cheek. He wears a blue long-sleeved jacket with red parts over a black t-shirt, a red scarf like ascot, black leggings, an oversized brown belt, with a silver buckle, brown knee-length leather boots with cream ends and grey soles and a sky-blue eyepatch lens over his right eye which he can use to magnify distant objects. His jacket sleeves are somewhat disconnected from the jacket, revealing a small part of his arms in the process (they are only connected to his jacket thanks to very small red connectors)
+Vase stands at 5’ 7” and is very sensitive about it. He has white scaly skin, frosty blue eyes and a scar on his left cheek. He wears a blue long-sleeved jacket with red parts over a black t-shirt, a red scarf like ascot, black leggings, an oversized brown belt, with a silver buckle, brown knee-length leather boots with cream ends and grey soles and a sky-blue eyepatch lens over his right eye which he can use to magnify distant objects.
 
 ## Personality:
 
@@ -80,6 +80,7 @@ So far, the compendium contains:
 
 ---
 # Local Notes
+
 
 Dugan
 %%

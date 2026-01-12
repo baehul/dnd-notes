@@ -23,7 +23,7 @@ draft: "true"
 **Captain Arabella Montclaire-Symthe** is an independent exclusive-contractor for the [[Golden Sails Trading & Shipping Company|Golden Sails Company]]. She specializes in "High-Risk/Low-Reward" haulage, specifically, transporting hazardous waste down out of the [[Upper Crust]].
 
 %%
-Arabella has been transporting [[Resonance Crystals]] from the [[Underworld]] and the terramancers to [[The Crusade]] and [[House Cuprum]], specifically [[Lady Dagna Cuprum]], for [[Project Orchestra]].
+Arabella has been transporting [[Resonance Crystals]] from the [[Underworld]] and [[The Terramancers]]] to [[The Crusade]] and [[House Cuprum]], specifically [[Lady Dagna Cuprum]], for [[Project Orchestra]].
 %%
 # Appearance
 ![[CaptainArabellaPortrait.png]]
