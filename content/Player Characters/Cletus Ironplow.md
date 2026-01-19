@@ -1,14 +1,27 @@
 ---
-draft: "true"
+
+title: Cletus Ironplow
+
+aliases:  Cletus
+
+tags:
+
+- player-character
+
+- cletus-ironplow
+draft: true
+
 ---
+
+![[CletusIronpawPortrait.png]]
 
 * Duergar
 * Artificer - Armore
 
 Name: Cletus Ironplow
-%%
+
 Something is happening at Sunspire - intel from Lancaster Slickwhistle. Captured before he made it back. This info is privy to the Cult.
-%%
+
 Backstory
 
 **Childhood**
@@ -39,6 +52,9 @@ For a mission, Twilight needed to bypass a basic arcane lock. He went to his wif
 
 ---
 # Local Notes
+
+
+
 
 
 Sean

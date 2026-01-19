@@ -15,8 +15,8 @@ draft: "true"
 
 ## 2. Secrets & Clues
  - [x] [[Broomhilda Bonebelly]] openly argues that [[The Resistance]] is a lost cause and that the [[Cult of the Goddess Whose Name Is Night|Cult]] should retreat to the [[Underworld]]. She is only here because the report of Lancaster's discovery is too intriguing to ignore.
- - [ ] [[Captain Arabella Montclaire-Smythe]] is deeply in debt to the [[Golden Sails Trading & Shipping Company|GSC]]. She fears they will seize her ship, *The Lead Belly*.
- - [ ] There are large containers on the deck of a ship (like the containers used to carry spent uranium out a reactor) hiding the [[Resonance Crystals]] [[Captain Arabella Montclaire-Smythe|Captain Arabella]] is hauling
+ - [x] [[Captain Arabella Montclaire-Smythe]] is deeply in debt to the [[Golden Sails Trading & Shipping Company|GSC]]. She fears they will seize her ship, *The Lead Belly*.
+ - [x] There are large containers on the deck of a ship (like the containers used to carry spent uranium out a reactor) hiding the [[Resonance Crystals]] [[Captain Arabella Montclaire-Smythe|Captain Arabella]] is hauling
 
 ## 3. Scenes & Flow
 1.  **The Arrivals:** PCs arrive at the tavern on the [[In-Between Isles]].
@@ -31,7 +31,7 @@ draft: "true"
 ### Locations
 * [[Sun Spire]] - Fortress-factory of House Aurum.
 * [[In-Between Isles]] - Location of the meeting tavern.
-* [[The Lead Belly]] - Captain Arabella's ship.
+* [[The Lead Belly]] - [[Captain Arabella Montclaire-Smythe|Captain Arabella]]'s ship.
 
 ### NPCs
 * [[Duke Ephraim Aurum]] - Villain, Governor of Sun Spire.

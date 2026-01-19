@@ -4,7 +4,6 @@ aliases:
   - Captain Arabella
 tags:
   - golden-sails-trading-and-shipping-company
-draft: "true"
 ---
 %%
 # Flashcard

@@ -21,7 +21,7 @@ tags:
 
 **Gnarl Thorbom** is a goliath warrior of the [[Blood Horde]] and the estranged son of the chieftain of the Thulu tribe.
 # Appearance
-![[Gnarl Thulu.png]]
+![[GnarlThuluPortrait.png]]
 Gnarl stands nearly eight feet tall, towering even over other goliaths. His skin is a deep green-grey, covered in intricate tattoos depicting twisting, thorny tree branches that wrap around his torso and limbs.
 
 # Personality
@@ -30,6 +30,6 @@ Gnarl is stubborn, loud, and possesses a "big" personality that fills any room h
 %%
 # DM Notes
 - **Motivation:** Gnarl is terrified of being "domesticated." His aggression is a trauma response to seeing his proud tribe reduced to refugees in a camp.
-- **Relationship with Otis:** He treats [[Otis Thulu]] like a younger sibling who needs to be "toughened up." He will constantly test Otis, putting him in situations where he is forced to be violent, believing he is saving Otis from becoming a victim.
+- **Relationship with [[Otis Thulu|Otis]]:** He treats [[Otis Thulu]] like a younger sibling who needs to be "toughened up." He will constantly test [[Otis Thulu|Otis]], putting him in situations where he is forced to be violent, believing he is saving [[Otis Thulu|Otis]] from becoming a victim.
 - **Secret Fear:** Deep down, Gnarl fears that his father is right—that his violence will only bring more death to his family. He fights so hard because if he stops, he has to face the possibility that he has shamed his lineage.
 %%

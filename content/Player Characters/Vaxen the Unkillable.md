@@ -30,7 +30,7 @@ He wears heavy, scuffed iron pauldrons over a thick mantle of dark, matted brown
 
 # Personality
 
-Vaxen the Unkillable (they/them) is an arrogant orc warrior who carries the crushing weight of being the final hope for their family's legacy. As the youngest sibling of a clan infamous for dying in embarrassing, non-heroic ways, they are driven by a singular obsession to find an opponent legendary enough to grant them a truly glorious death. Vaxen views almost everyone as "unworthy" of their time, often treating combat as a tiresome chore while they search for a Crusade General or holy champion to finally end their line with dignity.
+Vaxen the Unkillable (they/them) is an arrogant orc warrior who carries the crushing weight of being the final hope for their family's legacy. As the youngest sibling of a clan infamous for dying in embarrassing, non-heroic ways, they are driven by a singular obsession to find an opponent legendary enough to grant them a truly glorious death. Vaxen finds any form of combat exciting but tries to act nonchalant as if the people fighting are beneath his level, while they search for a Crusade General or holy champion to finally end their line with dignity.
 
 Though arrogant, Vaxen occasionally shows the behavior of a younger brother who they embodied for much of his childhood. They are currently transitioning to acting as the only family member left bearing the weight of their legacy.
 
@@ -44,7 +44,7 @@ Vaxen comes from a lineage of warriors whose deaths were as swift as they were e
 
 ## The Legend of The Rat Detective
 
-Vaxen’s first mission from the Blood Horde was led by [[The Rat Detective]], alongside [[Collin McCambridge]] from the [[Ancient Ones]] and [[Armaan’s character]] from the [[Cult of the Goddess Whose Name Is Night]]. The goal was to halt the spread of [[the Crusade]], but the details are shrouded in a haze of heavy drinking. While the specifics of the tactical maneuvers are lost to the alcohol, the group is occasionally struck by flashes of good times from the mission, fueling their loyalty to each other.
+Vaxen’s first mission from the Blood Horde was led by [[The Rat Detective]], alongside [[Collin McCambridge]] from the [[Ancient Ones]] and [[Twilight Emberrest]] from the [[Cult of the Goddess Whose Name Is Night]]. The goal was to halt the spread of [[the Crusade]], but the details are shrouded in a haze of heavy drinking. While the specifics of the tactical maneuvers are lost to the alcohol, the group is occasionally struck by flashes of good times from the mission, fueling their loyalty to each other.
 
 %%
 
@@ -58,8 +58,35 @@ Vaxen and Otis are currently tasked with rescuing [[Lancaster Slickwhistle]] and
 
 %%
 
+# Cheat Sheet
+
+* **Great Weapon Fighting:** Treat any 1 or 2 for damage as a 3
+  + Melee weapon with two-handed or versatile property
+
+* **Savage Attacker**: Can roll the weapon’s damage dice twice and use either roll against the target
+  + Once per turn when hitting a target with a weapon
+
+* **Action Surge**: Can take one additional action during my turn except for Magic
+  + Once every short or long rest
+
+* **Greatsword (Graze)**: If your attack roll with a Greatsword misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll.
+* **Second Wind**: Regain Hit Points equal to 1d10 plus your Fighter level
+  + Bonus action
+  + **Tactical mind:** When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining Hit Points, you roll 1d10 and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn’t expended.
+
+* **Adrenaline Rush**: Can take the Dash action and gain a number of Temporary Hit Points (equal to your Proficiency Bonus)
+  + Bonus action
+
+* **Relentless Endurance**: When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can’t do so again until you finish a Long Rest
+
+%%
+
+%%
+
 ---
 # Local Notes
+
+
 
 Rahul
 %%
