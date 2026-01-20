@@ -2,7 +2,6 @@
 tags:
   - session-notes
 ---
-
 ## The Interrogation
 The session opened with a cinematic prologue taking place at the [[Sun Spire]]. [[Duke Ephraim Aurum]] of [[House Aurum]] was observed torturing the captured Resistance agent, [[Lancaster Slickwhistle]]. Lancaster has been held for three days. Ephraim demanded information regarding "the engine," accusations which Lancaster deflected.
 
@@ -17,7 +16,7 @@ The attendees included:
 It was established that the group must travel to the [[Sun Spire]] to extract Lancaster, a mission kept under strict secrecy.
 
 ## The Voyage of The Lead Belly
-The party boarded the *The Lead Belly*, a metal-hulled cargo ship captained by [[Captain Arabella Montclaire-Smythe]]. The ship is a hazardous waste hauler, equipped with airtight barrels, a "garage door" leading to a hazardous material hold, and a lever mechanism capable of venting the hold's contents into the void.
+The party boarded the *The Lead Belly*, a metal-hulled cargo ship captained by [[Captain Arabella Montclaire-Smythe]]. The ship is a hazardous waste hauler, equipped with airtight barrels, a "garage door" leading to a hazardous material hold, and a lever mechanism that opens the door as well as activates a biological cleaning mode.
 
 During the journey, the group investigated the Captain's quarters and her ledgers. They discovered a pattern of heavy debt payments flowing out, contrasting with large payments coming in from [[House Cuprum]] for the transport of "drums".
 
