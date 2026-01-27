@@ -8,9 +8,9 @@ title: Session Prep - Session 2
 * **Vision Imagery (Backstory):** The scene shifts to a golden room (House Aurum). He sees a faceless noble (his father, [[High Baron Magnus Aurum]]) placing a golden crown on a pile of corpses. A voice whispers, "The ninth son returns to the mold".
 
 ## 2. Secrets & Clues
-- [ ]  [[Captain Arabella Montclaire-Smythe]] is short on her delivery due to the lost barrel. She is desperate and terrified of her debt to the [[Golden Sails Trading & Shipping Company|GSC]], making her vulnerable to taking risky jobs from [[House Aurum]].
-- [ ] The shipment is being received by [[House Cuprum]] agents, confirming they are supplying raw materials for [[Project Orchestra]].
-- [ ] The Cuprum agents are suspicious of the "contamination" in the hold and order a "Bio-Cleanse." This triggers the release of an Ooze into the hold.
+- [x]  [[Captain Arabella Montclaire-Smythe]] is short on her delivery due to the lost barrel. She is desperate and terrified of her debt to the [[Golden Sails Trading & Shipping Company|GSC]], making her vulnerable to taking risky jobs from [[House Aurum]].
+- [x] The shipment is being received by [[House Cuprum]] agents, confirming they are supplying raw materials for [[Project Orchestra]].
+- [x] The Cuprum agents are suspicious of the "contamination" in the hold and order a "Bio-Cleanse." This triggers the release of an Ooze into the hold.
 - [ ] The docks of the [[Sun Spire]] are lined with massive **Magnetic Cranes**. These are currently moving scrap but could be weaponized or used for extraction later.
 
 ## 3. Scenes & Encounters
@@ -41,4 +41,3 @@ title: Session Prep - Session 2
 
 ## 6. DM Scratch Pad
 * *Vision Note:* Keep the "sun cracking" imagery vague enough that they don't know it's the literal sun yet, maybe it looks like a golden coin or a shield breaking.
-* *Crane Mechanics:* Note DC for operating cranes later (Int

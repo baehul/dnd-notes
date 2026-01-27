@@ -2,6 +2,8 @@
 title: Cloud Parrot
 tags:
   - magic-item
+aliases:
+  - Watson
 ---
 *A magical parrot made of clouds and all the wonder and whimsy of  djinn who just couldn't care*
 

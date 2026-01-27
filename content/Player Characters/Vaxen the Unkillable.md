@@ -78,6 +78,9 @@ Vaxen and Otis are currently tasked with rescuing [[Lancaster Slickwhistle]] and
   + Bonus action
 
 * **Relentless Endurance**: When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can’t do so again until you finish a Long Rest
+* Improved Critical: Your attack rolls with weapons and Unarmed Strikes can score a Critical Hit on a roll of 19 or 20 on the d20.
+* Remarkable athlete: Thanks to your athleticism, you have Advantage on Initiative rolls and Strength (Athletics) checks.
+  + In addition, immediately after you score a Critical Hit, you can move up to half your Speed without provoking Opportunity Attacks.
 
 %%
 
@@ -85,6 +88,7 @@ Vaxen and Otis are currently tasked with rescuing [[Lancaster Slickwhistle]] and
 
 ---
 # Local Notes
+
 
 
 
