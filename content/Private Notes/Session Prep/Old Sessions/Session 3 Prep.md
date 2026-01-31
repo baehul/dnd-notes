@@ -7,7 +7,7 @@
 ## Strong Start
 - **Scene:** The "Bio-Cleanse" begins immediately.
 - **Mechanics:** The hold fills with Acid.
-    - **Acid:** Moving through the acid requires a **DC 12 Dexterity Save** or take **2d6 Acid Damage**.
+    - **Acid:** Moving through the acid requires a **DC 12 Dexterity Save** or take **2d6 Acid Damage**. It is difficult terrain.
     - **Stealth Tension:** Casting spells or making loud weapon attacks forces a Stealth check (DC 14).  Taking damage forces a **Constitution Save (DC of damage)** to maintain Stealth. 
     - **Arabella Persuasion**: Arabella rolls deception (+0) vs Dagna's insight (+2) on init 20. Each success or fail bumps the dice bonus/penalty
 - **Monsters:** 2 **Gelatinous Cubes** (The "Bio-Scrubbers") drop into the liquid.
@@ -39,7 +39,7 @@
 ## NPCs
 - **[[Captain Arabella Montclaire-Smythe]]:** Nervous, chain-smoking, guilt-ridden. Trying to justify her impending betrayal.
 - **[[Lady Dagna Cuprum]]** (Voice): Authoritative, pragmatic, impatient with incompetence.
-- **[[Wolfram Zoloto]]**: Russian voice, head of security
+- **[[Wolfram Zoloto]]**: Russian voice, head of security, braided brown hair, armor, and a scarred over eye, has basic fire magic available to him
 - **Automaton Sentries:** Cold, unfeeling constructs guarding the Docks.
 ## Monsters
 - Bio-Cleansers: [Gelatinous Cube](https://www.dndbeyond.com/monsters/5195005-gelatinous-cube)

@@ -3,6 +3,7 @@
 | Description     | GP Value | Lifetime Gold Earned |
 | --------------- | -------- | -------------------- |
 | *Starting Gold* | 161      | 161                  |
+| 2 Ooze Cores    | 1000     | 1161                 |
 |                 |          |                      |
 ## Income Guidelines
 

@@ -60,27 +60,32 @@ Vaxen and Otis are currently tasked with rescuing [[Lancaster Slickwhistle]] and
 
 # Cheat Sheet
 
-* **Great Weapon Fighting:** Treat any 1 or 2 for damage as a 3
-  + Melee weapon with two-handed or versatile property
+## Rolls
 
-* **Savage Attacker**: Can roll the weapon’s damage dice twice and use either roll against the target
-  + Once per turn when hitting a target with a weapon
+* **Great Weapon Fighting:** Treat any 1 or 2 for damage as a 3
+* **Savage Attacker**: Can roll damage dice twice and use either roll against the target
+  + Once per turn when hitting a target with a weapon
 
-* **Action Surge**: Can take one additional action during my turn except for Magic
+* **Improved Critical**: Critical Hit on an attack roll of 19 or 20 on the d20.
+* **Remarkable Athlete**: immediately after you score a Critical Hit, you can move up to half your Speed without provoking Opportunity Attacks.
+
+## Events
+
+* **Greatsword (Graze)**: If attack roll misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll.
+* **Relentless Endurance**: When reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead.
+  + Once per long rest
+
+## Actions
+
+* **Action Surge**: Can take one additional action during my turn except for Magic
   + Once every short or long rest
-
-* **Greatsword (Graze)**: If your attack roll with a Greatsword misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll.
-* **Second Wind**: Regain Hit Points equal to 1d10 plus your Fighter level
-  + Bonus action
-  + **Tactical mind:** When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining Hit Points, you roll 1d10 and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn’t expended.
 
 * **Adrenaline Rush**: Can take the Dash action and gain a number of Temporary Hit Points (equal to your Proficiency Bonus)
   + Bonus action
 
-* **Relentless Endurance**: When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can’t do so again until you finish a Long Rest
-* Improved Critical: Your attack rolls with weapons and Unarmed Strikes can score a Critical Hit on a roll of 19 or 20 on the d20.
-* Remarkable athlete: Thanks to your athleticism, you have Advantage on Initiative rolls and Strength (Athletics) checks.
-  + In addition, immediately after you score a Critical Hit, you can move up to half your Speed without provoking Opportunity Attacks.
+* **Second Wind**: Regain Hit Points equal to 1d10 plus your Fighter level
+  + Bonus action
+  + **Tactical mind:** Attempt to pass a failed ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining Hit Points, you roll 1d10 and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn’t expended.
 
 %%
 
@@ -88,6 +93,7 @@ Vaxen and Otis are currently tasked with rescuing [[Lancaster Slickwhistle]] and
 
 ---
 # Local Notes
+
 
 
 
