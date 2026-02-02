@@ -1,5 +1,7 @@
 ---
 title: Session Prep - Session 2
+tags:
+  - session-prep
 ---
 
 ## 1. The Strong Start

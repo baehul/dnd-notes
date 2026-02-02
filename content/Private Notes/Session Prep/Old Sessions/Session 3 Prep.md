@@ -1,3 +1,9 @@
+---
+title: Session 3 Prep
+tags:
+  - session-prep
+---
+
 ## Player Characters
 - **[[Collin McCambridge]]:** Shaken by the vision of **High Baron Magnus** and the "Golden Coin Sun." Paranoid about his identity being revealed in the Spire.
 - **[[Cletus Ironplow]]:** His attempt to jam the lever failed. Can use his Artificer knowledge to identify the **Arcane Anvil** in the trash or the mechanics of the **Automatons**.

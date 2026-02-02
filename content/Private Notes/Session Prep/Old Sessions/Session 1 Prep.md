@@ -1,6 +1,7 @@
 ---
 title: Session 1 Prep Notes
-draft: "true"
+tags:
+  - session-prep
 ---
 ## 1. The Strong Start (Cinematic Cutscene)
 * **Visual:** Fade in on a room of blinding, absolute white light. There are no shadows here. In the center, [[Lancaster Slickwhistle]] (a Drow) is bound to a chair, his eyes squinting and watering in agony against the brilliance. Despite the torture, he attempts to maintain his suave posture. 
