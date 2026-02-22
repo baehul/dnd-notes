@@ -5,6 +5,7 @@ tags:
   - resistance
   - cult-of-night
 aliases:
+  - Lancaster
 ---
 %%
 # Flashcard

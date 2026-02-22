@@ -5,6 +5,7 @@ tags:
 ---
 ### **Room 1: The Scrapyard (The Entrance Guardian)**
 
+
 **Scenario**
 
 The players disembark _The Lead Belly_ into a labyrinth of rusted metal and shattered arcanotech. The area is dominated by deafening, rhythmically moving **Magnetic Cranes** that move scrap. The path to the Spire is patrolled by **Automaton Sentries** (Animated Armor).

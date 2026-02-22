@@ -1,10 +1,10 @@
 ## Income Tracking
 
-| Description     | GP Value | Lifetime Gold Earned |
-| --------------- | -------- | -------------------- |
-| *Starting Gold* | 161      | 161                  |
-| 2 Ooze Cores    | 1000     | 1161                 |
-|                 |          |                      |
+| Description               | GP Value | Lifetime Gold Earned |
+| ------------------------- | -------- | -------------------- |
+| *Starting Gold*           | 161      | 161                  |
+| 2 Ooze Cores              | 1000     | 1161                 |
+| Duke Ephraim Aurum's Safe | 3000     | 4161                 |
 ## Income Guidelines
 
 | Level | Expected Gold Income Each Level Per Person | Expected Total Gold Earned By Level Per Person | Expected Party Gold Earned By Level |

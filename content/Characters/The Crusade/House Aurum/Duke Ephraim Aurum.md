@@ -7,6 +7,8 @@ tags:
   - house-aurum
 aliases:
   - Ephraim Aurum
+  - Ephraim
+  - Duke Ephraim
 ---
 **Role:** Governor of Sun Spire & Head of Fabrication
 

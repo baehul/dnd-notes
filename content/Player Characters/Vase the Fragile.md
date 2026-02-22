@@ -2,7 +2,9 @@
 
 title: Vase the Fragile
 
-aliases:  Vase Argilla
+aliases:
+- Vase Argilla
+- Vase
 
 tags:
 
@@ -80,6 +82,8 @@ So far, the compendium contains:
 
 ---
 # Local Notes
+
+
 
 
 Dugan
