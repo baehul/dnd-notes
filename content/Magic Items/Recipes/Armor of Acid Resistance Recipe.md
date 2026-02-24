@@ -3,7 +3,6 @@ title: Recipe for Armor of Acid Resistance
 tags:
   - magic-item
   - magic-item-recipe
-draft: "true"
 ---
 When successfully executed, this recipe results in [Armor of Resistance (Acid)](https://www.dndbeyond.com/magic-items/5371-armor-of-resistance).
 %% Treat this as and uncommon major item due to niche effect %%

@@ -1,9 +1,9 @@
 ## Magic Item Tracking
 
-| Player | Item               | Category |
-| ------ | ------------------ | -------- |
-| Trey   | Driftglobe         | B        |
-| Trey   | Infernal Puzzlebox | C        |
+| Player | Item                     | Category | Given/Made |
+| ------ | ------------------------ | -------- | ---------- |
+| Trey   | Driftglobe               | B        | Y          |
+| Trey   | Infernal Puzzlebox       | B        | Y          |
 ## Distribution
 This is for a distribution for a party of 6 PC's
 
@@ -13,8 +13,7 @@ This is for a distribution for a party of 6 PC's
 | 5–10  | 15               | 18                 | 6              | 3                   | 0                   | 8                  | 2              | 0                   | 0                   |
 | 11–16 | 6                | 9                  | 15             | 6                   | 3                   | 2                  | 3              | 3                   | 2                   |
 | 17+   | 0                | 0                  | 6              | 15                  | 9                   | 0                  | 2              | 3                   | 5                   |
-| Total | 30               | 30                 | 30             | 24                  | 12                  | 12                 | 6              | 6                   | 6                   |
-|       |                  |                    |                |                     |                     |                    |                |                     |                     |
+| **Total** | **30**               | **30**                 | **30**             | **24**                  | **12**                  | **12**                 | **6**              | **6**                   | 6                   |
 
 ## Categorization
 
