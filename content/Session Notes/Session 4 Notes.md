@@ -1,5 +1,7 @@
 ---
 title: "Session 4: Dry Gin Martini"
+tags:
+  - session-notes
 ---
 ## Summary
 ### Arrival and the Scrapyard

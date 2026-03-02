@@ -72,6 +72,9 @@ Vaxen and Otis are currently tasked with rescuing [[Lancaster Slickwhistle]] and
 ## Events
 
 * **Greatsword (Graze)**: If attack roll misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll.
+* **Greataxe (Cleave)**: make a melee attack roll with the Greataxe against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the Greataxe’s damage, but don’t add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
+* **Heavy Weapon Mastery**: When you hit a creature with a weapon that has the Heavy property as part of the Attack action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus.
+* **Hew**: Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a Bonus Action.
 * **Relentless Endurance**: When reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead.
   + Once per long rest
 
@@ -93,6 +96,7 @@ Vaxen and Otis are currently tasked with rescuing [[Lancaster Slickwhistle]] and
 
 ---
 # Local Notes
+
 
 
 

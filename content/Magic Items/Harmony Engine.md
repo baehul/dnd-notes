@@ -3,7 +3,7 @@ tags:
   - magic-item
 draft: "true"
 ---
-**The Harmony Engine** is an arcanotech device created by [[Duke Ephraim Aurum]] as part of [[Project Orchestra]]. A masterpiece of magical engineering, it is designed to manipulate the [[Ley Lines]] to move [[Tectonic Islands]] with elegance and stability.
+**The Harmony Engine** is an arcanotech device created by [[Duke Ephraim Aurum]] as part of [[Project Orchestra]]. A masterpiece of magical engineering, it is designed to manipulate the [[Ley Lines]] to move [[Tectonic Islands]] with elegance and stability. It seems to hum with a melodious thrum that disappears the moment someone concentrates on it.
 
 %%
 # Description
