@@ -1,17 +1,17 @@
 ---
 tags:
   - magic-item
-draft: "true"
+title: The Harmony Engine
 ---
-**The Harmony Engine** is an arcanotech device created by [[Duke Ephraim Aurum]] as part of [[Project Orchestra]]. A masterpiece of magical engineering, it is designed to manipulate the [[Ley Lines]] to move [[Tectonic Islands]] with elegance and stability. It seems to hum with a melodious thrum that disappears the moment someone concentrates on it.
+**The Harmony Engine** is an arcanotech device created by [[Duke Ephraim Aurum]] as part of [[Project Orchestra]]. A masterpiece of magical engineering, it is designed to manipulate the [[Ley Lines]] to move [[Tectonic Islands]]. It seems to hum with a melodious thrum that disappears the moment someone concentrates on it.
 
-%%
+
 # Description
 The Engine appears as a perfect sphere, approximately 18 inches in diameter. It is composed of a seamless, translucent gold alloy that reveals a shifting interior of clockwork gears made from cut [[Resonance Crystals]]. The surface is etched with musical staves and arcane geometry that glow with a faint, pulsing rhythm.
 ![[HarmonyEngine.png]]
 
 It is surprisingly heavy for its size, humming with a physical vibration that can be felt through the floor when set down. To the naked ear, it is silent, but those with sensitive hearing or musical training can detect a constant tone that sounds like a resolving chord waiting for its tonic note.
-%%
+
 %%
 # Mechanics
 The Harmony Engine functions on the principle of Arcane Resonance. It synthesizes three distinct disciplines of magic into a single function:
