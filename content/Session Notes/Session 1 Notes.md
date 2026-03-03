@@ -38,6 +38,8 @@ As the crystals fell, [[Collin McCambridge|Collin]] was struck by a wave of psyc
 
 ## Loot & Acquisitions
 * **[[Watson, Cloud Parrot]]**: A parrot made of clouds given to [[Vase the Fragile]] by a djinn emissary.
+## Level Up!
+- Party leveled from Level 1 to Level 2
 
 %%
 ## DM Secrets & Context

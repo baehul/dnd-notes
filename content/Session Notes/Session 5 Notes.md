@@ -20,3 +20,6 @@ Returning to the scrapyard, the party noted how empty the scrapyard was and coul
 ## Loot & Acquisitions
 - A collection of [[Duke Ephraim Aurum]]'s notes on the [[Harmony Engine]]
 - A variety of yet unidentified magic items
+
+## Level Up!
+The party leveled up from Level 3 to Level 4

@@ -21,4 +21,6 @@ During the subsequent long rest, the party set watches:
 - [[Cletus Ironplow]] hallucinated the sounds of farm animals before falling asleep on his watch.
 
 ## Loot & Acquisitions
-- **Ooze Core:** An emerald worth 500 GP recovered from the Gelatinous Cubes. Originally two were recovered, but one was given to [[Captain Arabella Montclaire-Smythe|Captain Arabella]] as recompense for her lost payment.
+- **Ooze Core:** An emerald worth 500 GP recovered from the Gelatinous Cubes. Originally two were recovered, but one was given to [[Captain Arabella Montclaire-Smythe|Captain Arabella]] as recompense for her lost payment.\
+## Level Up!
+- The party leveled up from Level 2 to Level 3
