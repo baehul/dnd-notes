@@ -25,7 +25,7 @@ The Djinn Emissary managed to transport the party to the new island just as the 
 
 ## Loot & Acquisitions
 
-- [[Lairs|Lair]]: The player acquired their lair, though [[Lair Options|its form has not yet settled]]
+- [[Lairs|Lair]]: The party acquired their lair, though [[Lair Options|its form has not yet settled]]
 %%
 
 ## DM Secrets & Context
