@@ -3,6 +3,8 @@ tags:
   - cult-of-night
   - in-between-isles
   - resistance
+aliases:
+  - Broomhilda
 ---
 
 %%

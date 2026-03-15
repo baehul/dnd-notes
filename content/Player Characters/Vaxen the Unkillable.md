@@ -67,15 +67,24 @@ Vaxen and Otis are currently tasked with rescuing [[Lancaster Slickwhistle]] and
   + Once per turn when hitting a target with a weapon
 
 * **Improved Critical**: Critical Hit on an attack roll of 19 or 20 on the d20.
-* **Remarkable Athlete**: immediately after you score a Critical Hit, you can move up to half your Speed without provoking Opportunity Attacks.
 
 ## Events
 
-* **Greatsword (Graze)**: If attack roll misses a creature, you can deal damage to that creature equal to the ability modifier you used to make the attack roll.
-* **Greataxe (Cleave)**: make a melee attack roll with the Greataxe against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the Greataxe’s damage, but don’t add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.
-* **Heavy Weapon Mastery**: When you hit a creature with a weapon that has the Heavy property as part of the Attack action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus.
-* **Hew**: Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a Bonus Action.
-* **Relentless Endurance**: When reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead.
+* **Greatsword (Graze)**: If attack roll misses a creature
+  + Deal damage to that creature equal to the ability modifier you used to make the attack roll.
+
+* **Greataxe (Cleave)**: if an attack hits
+  + Can make another attack to a creature within 5 ft (damage without ability modifier)
+
+* **Heavy Weapon Mastery**: If attack hits with a Heavy weapon
+  + Can deal extra damage equal to proficiency bonus
+
+* **Remarkable Athlete**: immediately after you score a Critical Hit, you can move up to half your Speed without provoking Opportunity Attacks.
+* **Hew**: Immediately after a Critical Hit or reducing a creature to 0 Hit Points with a melee weapon
+  + Can make one attack with the same weapon as a Bonus Action.
+
+* **Relentless Endurance**: When reduced to 0 Hit Points but not killed outright
+  + Drop to 1 Hit Point instead
   + Once per long rest
 
 ## Actions
@@ -88,7 +97,9 @@ Vaxen and Otis are currently tasked with rescuing [[Lancaster Slickwhistle]] and
 
 * **Second Wind**: Regain Hit Points equal to 1d10 plus your Fighter level
   + Bonus action
-  + **Tactical mind:** Attempt to pass a failed ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining Hit Points, you roll 1d10 and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn’t expended.
+
+* **Tactical mind:** Attempt to pass a failed ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining Hit Points, you roll 1d10 and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn’t expended.
+  + Bonus action
 
 %%
 
@@ -96,6 +107,7 @@ Vaxen and Otis are currently tasked with rescuing [[Lancaster Slickwhistle]] and
 
 ---
 # Local Notes
+
 
 
 
