@@ -30,4 +30,4 @@ Broomhilda is defined by pragmatism. She views [[The Crusade]] not as an enemy t
 Broomhilda follows a strict code of bioethics: "The Creator is the First Subject." She refuses to perform an experiment on another living being that she has not first tested on herself. She views scientists who risk the lives of others without risking their own as cowards and amateurs.
 %%
 # Role in The Resistance
-While she publicly argues for retreat, Broomhilda is loyal to a fault. She will not abandon [[The Cult]] as long as they remain. She is also the person who provides the contact for [[Captain Arabella Montclaire-Smythe|Captain Arabella]] since she sources things from her on occasion. 
+While she publicly argues for retreat, Broomhilda is loyal to a fault. She will not abandon [[Cult of the Goddess Whose Name Is Night|The Cult]] as long as they remain. She is also the person who provides the contact for [[Captain Arabella Montclaire-Smythe|Captain Arabella]] since she sources things from her on occasion. 

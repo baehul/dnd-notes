@@ -26,12 +26,8 @@ The group deduced that the engine represents the culmination of years of secret 
 - **The [[Harmony Engine]]**: An arcanotech device capable of moving and shaping tectonic islands - perhaps much more.
 
 %%
-
 ### DM Secrets & Context
 
-- Cletus intends to bring the Harmony Engine notes to Professor Jitterhop, entirely unaware that Jitterhop is the Cult of the Goddess Whose Name Is Night informant who is secretly supplying The Crusade with tectonic research data.
-    
-- The party accurately deduced the mechanics of the Harmony Engine; it was designed by Duke Ephraim Aurum to move and fuse Tectonic Islands using pre-Shattering Terramancy.
-    
-- Lancaster Slickwhistle's intelligence reveals that if The Crusade activates the Harmony Engine to seal the Upper Crust, it will permanently condemn the In-Between Isles and Underworld to eternal darkness. 
+- **Wolfram Zoloto Will Return.** Wolfram Zoloto is still alive and will be brought back with a significant number of cyborg-like replacement parts
+- **The Mole & The Mortar:** Cletus intends to bring the Harmony Engine notes to Professor Jitterhop, entirely unaware that Jitterhop is the Cult of the Goddess Whose Name Is Night informant. 
 %%

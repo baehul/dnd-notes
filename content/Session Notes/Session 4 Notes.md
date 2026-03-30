@@ -45,14 +45,13 @@ Exploring [[Duke Ephraim Aurum|Duke Ephraim]]'s nearby bedroom, the party follow
 - [Infernal Puzzlebox](https://www.dndbeyond.com/magic-items/842254-infernal-puzzle-box).
 
 %%
-
 ### DM Secrets & Context
 
-- **Project Orchestra & The Harmony Engine:** The Crusade is actively moving forward with Project Orchestra and testing it in the Argentum islands. Lancaster has successfully hidden the Harmony Engine, a critical component of this plan, down in the scrapyard prior to his capture.
-- **Cult of Night Informant:** Lady Dagna Cuprum revealed that a contact within the Cult of Night has been assisting The Crusade. This informant is Professor Jitterhop, who is supplying information to further his own independent research regarding the formation of tectonic islands.
-- **Arabella's Betrayal & The Trap:** Behind the scenes, the following sequence of events occurred to set up the Spire's defense:
-    - Captain Arabella approached Wolfram Zoloto with information regarding potential Resistance activity, eager to pick up extra work to clear her debts.
-    - Desperate for results regarding Project Orchestra, Duke Ephraim Aurum authorized Zoloto to buy her information.
-    - Zoloto retrieved gold from the hidden safe in Ephraim's bedroom—leaving the muddy footprints behind—and paid Arabella for the knowledge that a group of six suspected Resistance members were currently at the gala.
-    - Zoloto reported this to Ephraim, who put the pieces together. Ephraim intentionally laid a trap, allowing the party to extract Lancaster in the hopes that the spy would lead them directly to the hidden Harmony Engine. The high-pitched silent alarm was a signal that the bait had been taken, coordinating the forces for an ambush in the scrapyard.
-- **Collin's Fear:** Collin (Eobard Aurum) was shaken by seeing his brother August Aurum, heightening the risk of his true identity being exposed while inside his family's stronghold. %%
+- **Project Orchestra & The Impending Showcase:** The Crusade is actively moving forward with Project Orchestra. Lancaster successfully hid the Harmony Engine in the scrapyard prior to his capture. Duke Ephraim is acting out of extreme, paranoid desperation - the military showcase for the project is tomorrow. If he does not recover the Harmony Engine tonight, he will arrive empty-handed and lose the contract to House Cuprum.
+- **Cult of Night Informant:** Lady Dagna Cuprum revealed that a contact within the Cult of Night has been assisting The Crusade. This informant is Professor Jitterhop, who is supplying tectonic information to further his own research into artificial island generation.
+- **Arabella's Betrayal & The Trap:** Behind the scenes:
+    - Captain Arabella approached Wolfram Zoloto with information regarding potential Resistance activity to clear her debts.
+    - Desperate for results before tomorrow's showcase, Duke Ephraim authorized Zoloto to buy her information using gold from his hidden safe.
+    - Ephraim intentionally laid a trap, allowing the party to extract Lancaster in the hopes that the spy would lead them directly to the hidden Harmony Engine. The high-pitched silent alarm was a signal that the bait had been taken.
+- **Collin's Fear:** Collin (Eobard Aurum) was shaken by seeing his brother August Aurum, heightening the risk of his true identity being exposed. 
+%%

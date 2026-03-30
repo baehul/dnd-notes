@@ -9,6 +9,33 @@ tags:
 aliases:
   - The Horde
 ---
+%%
+## Cheatsheet
+- Languages:
+	- Orc
+	- Goblin
+	- Giant
+- Species:
+	- Orcs
+	- Goblins
+	- Hobgoblins
+	- Bugbears
+	- Goliaths
+	- Beast-folk (Minotaurs, Leonin, Lizardfolk, etc.)
+- People:
+	- [[Gnarl Thulu]]
+- HQ:
+	- [[Omeez Tzikhe]]
+- Buzzwords:
+	- reclaim their territorial losses and ancestral lands
+	- familial honor and blood debt
+	- Blood Gods
+	- vast collection of feuding tribes and families
+	- War Council, proving their strength in front of their peers in duels
+	- ritual combat or oaths of blood-fealty
+	-  recognize that its tribal weapons, lack of transportation capabilities, and primitive arcane knowledge
+%%
+
 **The Blood Horde** is a large, military tribal alliance operating within the [[In-Between Isles]], headquartered in [[Omeez Tzikhe]]. It is primarily composed of such as orcs, goblins, hobgoblins, and other such warrior species. The Horde was formed in the aftermath of the formation of [[The Crusade]] to pursue a unified campaign of vengeance to reclaim their territorial losses. The Blood Horde is a key member group of [[The Resistance]].
 
 The Horde’s core ideology is rooted in familial honor and blood debt. Its primary political objective is to compel [[The Resistance]] to wage an immediate and decisive war against [[The Crusade]]. This agenda is driven by a fierce desire to reclaim ancestral lands and to seek vengeance for losses suffered during the cataclysmic period.
@@ -27,7 +54,7 @@ Many species encompass the forces of the The Horde but the vast majority draw fr
 # Leadership
 The Horde is less a structured military and more a vast collective of constantly feuding families. Governance is based on ritualized combat and familial ties, rather than a centralized military hierarchy.
 
-The Horde is governed by a War Council composed of tribal leaders, war lords, and chieftains of the major tribes. However, this council is often fractured Unity is not a given; the Council serves as a highly volatile forum where disputes between tribes, often driven by ancient feuds or personal slights, are meant to be resolved, usually through ritual combat or oaths of blood-fealty.
+The Horde is governed by a War Council composed of tribal leaders, war lords, and chieftains of the major tribes. However, this council is often fractured. Unity is not a given; the Council serves as a highly volatile forum where disputes between tribes, often driven by ancient feuds or personal slights, are meant to be resolved, usually through ritual combat or oaths of blood-fealty.
 
 The influence of individual leaders waxes and wanes based on their personal success in battle, the size of their tribe, and their ability to rally other tribes to their side. Leaders gain authority through proving their strength in front of their peers in duels and in battle.
 

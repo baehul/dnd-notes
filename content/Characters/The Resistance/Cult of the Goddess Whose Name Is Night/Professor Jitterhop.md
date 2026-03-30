@@ -31,7 +31,7 @@ Jitterhop is a Deep Gnome with slate-grey skin, typically hidden beneath a heavy
 %%
 # Personality
 
-Jitterhop maintains a policy of absolute scientific neutrality. He rejects the tribalism of the war, viewing politics as "small thinking." Jitterhop provides weapons and tech to [[The Resistance]]%% and [[The Crusade]]%%. He views this funding as a necessary evil; if he didn't supply them, someone less scrupulous would. By controlling the supply, he ensures the profits fund the Cult's "true research."
+Jitterhop maintains a policy of absolute scientific neutrality. He rejects the tribalism of the war, viewing politics as "small thinking." He believes that scientific advancement is the ultimate end goal of civilization. Jitterhop provides weapons and tech to [[The Resistance]]%% and [[The Crusade]]%%. He views this funding as a necessary evil; if he didn't supply them, someone less scrupulous would. By controlling the supply, he ensures the profits fund the Cult's "true research."
 
 Despite his frantic demeanor, Jitterhop is an incredibly supportive and wise teacher. He defends his students' work fiercely, encourages them to question everything (including him), and provides sage, unbiased life advice. He teaches that a good scientist must be able to entertain a thought without accepting it.
 

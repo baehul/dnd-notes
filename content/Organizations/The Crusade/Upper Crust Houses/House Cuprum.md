@@ -6,6 +6,26 @@ tags:
   - house-cuprum
   - organization
 ---
+%%
+## Cheatsheet
+- Languages:
+	- Dwarvish
+- Species:
+	- Dwarves
+- People:
+	- [[Baron Thorgar Cuprum]]
+	- [[Lady Dagna Cuprum]]
+	- [[Chief Officer Thrammar Cuprum|Thrammar Cuprum]] (Disowned Heir working for GSC now)
+- HQ:
+	- [[Kashtal Kohpor]]
+- Buzzwords:
+	- A Cuprum never breaks their word
+	- *"Ours Is To Endure"* etched in everything
+	- rigid code of honor
+	- a verbal promise is as binding as any written contract
+	- shunned
+	- Cuprum Codes
+%%
 **House Cuprum** is the Great House of [[Upper Crust Houses|The Upper Houses]] composed entirely of Dwarves. They are the builders of [[The Crusade]]'s fortresses and the authors of its laws. To the common citizen, they are the most trusted of the Great Houses, for one simple reason: A Cuprum never breaks their word.
 # Culture
 The Cuprum words can be found etched in everything they create: *"Ours Is To Endure*." This permeates the works of engineering that can be found throughout the [[Upper Crust]]. While [[House Aurum]] focuses on personal magic items specifically for martial use, House Cuprum is known for its engineering capabilities across multiple domains. Historically, House Cuprum has dominated in aspects of civil engineering due to a comprehensive set of masonry regulation they strictly follow. This set of regulation eventually grew into a vast web of laws that cover many aspects of society, leading to House Cuprum's role in authoring and preserving law.

@@ -6,6 +6,31 @@ tags:
   - house-argentum
   - organization
 ---
+%%
+## Cheatsheet
+- Languages
+	- Elvish
+	- Sylvan (the good kind)
+- Species
+	- High elves
+	- Wood elves
+	- Fey (The Good Kind)
+- People
+	- [[Baroness Elanaril Argentum]]
+	- [[Lady Tanya Argentum]]
+- HQ
+	- [[Le Palais D'Argent]]
+- Buzzwords
+	- Oldest, most traditional house
+	- Silver Stag Wreathed In Light
+	- *Form Untainted, Soul Untamed*
+	- Purity, Animal Husbandry Arts
+	- Primary source of food and culture
+	- purity of their souls, their bodies, and their lands
+	- Silver Glades
+	-  premier beasts of [[The Crusade]] whether for war, labor, or luxury
+	- most devout of the houses
+%%
 **House Argentum** is the oldest and most culturally traditional of the three Great Houses of the [[Upper Crust Houses]]. Composed entirely of Elves, they are the self-appointed cultural and spiritual guardians of [[Upper Crust Houses|The Upper Houses]]. Additionally, House Argentum acts the primary source of food for [[The Crusade]] as its largest producer of crops and livestock.
 
 # Culture

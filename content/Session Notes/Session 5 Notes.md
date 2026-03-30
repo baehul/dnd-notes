@@ -23,3 +23,8 @@ Returning to the scrapyard, the party noted how empty the scrapyard was and coul
 
 ## Level Up!
 The party leveled up from Level 3 to Level 4
+%%
+### DM Secrets & Context
+
+- **The Fall of House Aurum:** By successfully uncovering the Harmony Engine and forcing a chaotic fight in the scrapyard, the party has officially catalyzed Duke Ephraim's political downfall. He is desperate and willing to use Aurum resources to chase down the players and recover the Engine lest he lose the contract.
+%%

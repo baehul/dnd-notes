@@ -10,6 +10,33 @@ tags:
 aliases:
   - The Upper Houses
 ---
+%%
+## Cheatsheet
+- Languages
+	- Common
+	- Elvish
+	- Dwarvish
+- Species
+	- Humans
+	- Elves
+	- Dwarves
+- People
+	- [[High Baron Magnus Aurum]]
+	- [[Baron Thorgar Cuprum]]
+	- [[Baroness Elanaril Argentum]]
+- HQ
+	- [[Citadella Lumina]]
+- Buzzwords
+	- The Great Houses
+	- Comandeer private house guard
+	- House law
+	- Blessing of Bounty (Church)
+	- Promise of Trade (GSC)
+	- Deposed
+	- divine right to rule
+	- sacred burden
+%%
+
 **The Upper Crust Houses**, sometimes referred to as **The Upper Houses**, are a collection of noble houses representing the political authority, legal stability, and aristocratic tradition necessary to govern the vast territories liberated in the name of [[Solaris and The Solari Faith]]. They are a key member of [[The Crusade]] and are represented in the Triumvirate by the [[High Baron Magnus Aurum]].
 
 # Demographics

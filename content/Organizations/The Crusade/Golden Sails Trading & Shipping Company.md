@@ -9,6 +9,31 @@ aliases:
   - GSC
   - The Company
 ---
+%%
+## Cheatsheet
+- Languages
+	- Halfling
+	- Gnomish
+- Species
+	- Halflings
+	- Gnomes
+	- Misc.
+- People
+	- [[Lord Governor Mullstone Goldleaf]]
+	- [[Chief Officer Thrammar Cuprum]]
+	- [[Master Gnepnos]]
+	- [[Vice Governor Esmerelda Fleetfoot]]
+- HQ
+	- [[Citadella Lumina]]
+- Buzzwords
+	- Sail Registration
+	- Court of Directors
+	- Tariffs
+	- Gold is sunlight given form
+	- Captain's licenses
+	- embargo
+	- Promise of Trade
+%%
 **The Golden Sails Trading & Shipping Company** (**Golden Sails Company** or **GSC** in short) is the monopolistic commercial power that serves as the economic backbone of [[The Crusade]]. Led by [[Lord Governor Mullstone Goldleaf|the Lord Governor]] (currently a halfling named [[Lord Governor Mullstone Goldleaf|Mullstone Goldleaf]]), the Golden Sails Company holds an absolute monopoly over all large-scale inter-island travel and trade. The GCS carefully balances serving the mandate of [[Solaris and The Solari Faith]] with pursuing profit. Their control ensures that the [[Upper Crust]] [[Strata|Stratum]] maintains its wealth and access to vital resources.
 
 # Weavesilk

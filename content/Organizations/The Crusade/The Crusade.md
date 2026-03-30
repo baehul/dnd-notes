@@ -8,7 +8,29 @@ tags:
   - organization
   - crusade
 ---
-**The Crusade** is the dominant theocratic and military power operating out of their headquarters, [[Cittadella Lumina]] within the [[Upper Crust]] [[Strata|Stratum]], the organization commands the active loyalty of an estimated 75% of the total populace. The Crusade frames its mission as a divinely mandated quest from the sun god, [[Solaris and The Solari Faith]], to unify the world and permanently end the darkness lingering from [[The Shattering of the World|The Shattering]].
+%%
+## Cheatsheet
+- Languages:
+	- Celestial
+	- Gnomish/Halfling
+	- Common/Dwarvish/Elvish
+- Species:
+	- The Good Ones
+- People:
+	- [[Pontifex Maximus Virtue]]
+	- [[High Baron Magnus Aurum]]
+	- [[Lord Governor Mullstone Goldleaf]]
+- HQ:
+	- [[Citadella Lumina]]
+- Buzzwords:
+	- Triumvirate
+	- Divinely mandated quest from Solaris to unify the world and permanently end darkness
+	- assassination of Eobard Aurum
+	-  Winning lands and territories for children of the Sun.
+	- Spreading the faith and rooting out all forms of darkness, chaos, and corruption.
+	- Driving the monsters back into the shadows where they belong.
+%%
+**The Crusade** is the dominant theocratic and military power operating out of their headquarters, [[Citadella Lumina]] within the [[Upper Crust]] [[Strata|Stratum]], the organization commands the active loyalty of an estimated 75% of the total populace. The Crusade frames its mission as a divinely mandated quest from the sun god, [[Solaris and The Solari Faith]], to unify the world and permanently end the darkness lingering from [[The Shattering of the World|The Shattering]].
 
 The organization is built upon three groups that serve as its founding pillars: the [[Ecclesia Solari]], the [[Upper Crust Houses]] , and the [[Golden Sails Trading & Shipping Company]]. Together, these groups form the Crusade and actively combat the forces of [[The Resistance]] wherever they can.
 

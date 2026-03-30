@@ -11,6 +11,36 @@ aliases:
   - The Cult
   - The Cult of Night
 ---
+%%
+## Cheatsheet
+- Languages:
+	- Undercommon
+	- Dwarvish
+	- Elvish
+- Species:
+	- Drow
+	- Duergar
+	- Deep Gnomes
+	- Gith
+	- Shadar-Kai
+- People:
+	- [[Broomhilda Bonebelly]]
+	- [[Lancaster Slickwhistle]]
+	- [[Professor Jitterhop]]
+	- [[Sendryr Ogami]]
+	- [[Dawn]]
+- HQ:
+	- [[Monastery of Night]]
+- Buzzwords:
+	- I Am Night
+	- no source of knowledge, regardless of its moral implications, should be considered off-limits to investigation
+	- Religious Adherents, Mages and Sorcerers, Scientists and Scholars
+	- Cult's direction is subject to constant, deliberate philosophical debate and shifts based on the persuasive power of ideas
+	- strategic neutrality and intellectual opportunism
+	- biomancy
+	- artificers
+	- clerics
+%%
 **The Cult of the Goddess Whose Name Is Night** is a contemporary religious, scientific, and political coalition operating out of their headquarters, the [[Monastery of Night]], within the [[In-Between Isles]]. The group was formally established in the aftermath of [[The Shattering of the World|The Shattering]] (Year 0 B.F.) and is currently major constituent group of [[The Resistance]]. 
 
 Despite its name, the organization is not representative of the majority of adherents of the [[Way Of Night (Religion)|Way Of Night]]. The vast majority of followers are not affiliated with The Cult; rather, The Cult represent a small, extremist subsection of the religion that applies its tenets to radical scientific and political ends.
@@ -47,11 +77,11 @@ Consequently, the Cult's direction is subject to constant, deliberate philosophi
 
 # Political ideology
 Despite being a founding member of [[The Resistance]], the Cult of the Goddess Whose Name Is Night maintains a political stance best described as strategic neutrality and intellectual opportunism.
-- **Non-interventionist policy**: Given that the Cult houses so many varied views amongst its members, the Cult rarely takes a firm, public political stance. Their contribution to [[the Resistance]] is typically limited to research, intelligence, and advanced weaponry rather than direct military leadership or ideological alignment.
+- **Non-interventionist policy**: Given that the Cult houses so many varied views amongst its members, the Cult rarely takes a firm, public political stance. Their contribution to [[The Resistance]] is typically limited to research, intelligence, and advanced weaponry rather than direct military leadership or ideological alignment.
 - **Goal of preservation**: The primary political objective of the Cult is to preserve the freedom to conduct research and ensure its adherents remain safe from suppression. Their opposition to [[The Crusade]] stems from the belief that [[The Crusade]] would impose a singular, absolute truth that would halt all theological and scientific inquiry.
 - **Neutrality as a Research Tool:** This policy of neutrality allows the Cult to maintain contact and gather information from a wider array of sources, including, at times, groups aligned with [[The Crusade]]. Their actions are often viewed with suspicion by the other [[The Resistance|Resistance]] members, who see the Cult's lack of ideological commitment as unreliable.
 
-The Cult of the Goddess Whose Name Is Night maintains a policy of strategic neutrality toward its two allies, though its private assessments are highly judgmental. The [[Blood Horde]] is regarded as an unpredictable, though essential, military asset; one that is dangerously constrained by its own  adherence to vengeance and primal instinct. The Cult often sees [[Blood Horde|the Horde]]'s actions as needlessly volatile and a risk to the long-term goal of preserving intellectual freedom. 
+The Cult of the Goddess Whose Name Is Night maintains a policy of strategic neutrality toward its two allies, though its private assessments are highly judgmental. The [[Blood Horde]] is regarded as an unpredictable, though essential, military asset; one that is dangerously constrained by its own adherence to vengeance and primal instinct. The Cult often sees [[Blood Horde|the Horde]]'s actions as needlessly volatile and a risk to the long-term goal of preserving intellectual freedom. 
 
 Conversely, the [[Ancient Ones]] are viewed as a critical logistical resource. The Cult accepts the [[Ancient Ones]]' isolationism as a pragmatic division of labor, valuing the rare reagents and funding they supply over their physical presence. However, Cult leadership often views [[Ancient Ones|the Ancients]] with intellectual frustration, seeing them as stagnant hoarders of lore who must be constantly negotiated with to release the resources necessary to fuel the Cult’s research and the war effort.
 # Prominent Figures

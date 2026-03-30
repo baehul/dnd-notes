@@ -49,7 +49,7 @@ tags:
 - **Automaton Sentries:** Cold, unfeeling constructs guarding the Docks.
 ## Monsters
 - Bio-Cleansers: [Gelatinous Cube](https://www.dndbeyond.com/monsters/5195005-gelatinous-cube)
-- [[Lady Dagna Cuprum]]: [Artificer](artificer)
+- [[Lady Dagna Cuprum]]: 
 - [[Wolfram Zoloto]]: [Dragon Army Officer](https://www.dndbeyond.com/monsters/3081105-dragon-army-officer)
 - Dock Sentries: [Animated Armor](https://www.dndbeyond.com/monsters/5194893-animated-armor)
 - House Aurum Guards: [Guard](https://www.dndbeyond.com/monsters/5195065-guard)

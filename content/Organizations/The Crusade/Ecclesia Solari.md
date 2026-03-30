@@ -9,6 +9,33 @@ tags:
 aliases:
   - The Church
 ---
+%%
+## Cheatsheet
+- Languages:
+	- Celestial
+	- Draconic (The Good Kind)
+- Species:
+	- Metallic Dragonborn
+	- Aasimar
+	- Kalashtar
+	- Celestials
+	- Dragons (The Good Kind)
+- People:
+	- [[Pontifex Maximus Virtue]]
+	- [[Lord Commander Regus]]
+	- [[High Inquisitor Varius]]
+- HQ:
+	- [[Citadella Lumina]]
+- Buzzwords:
+	- Paladins Templar
+	- Inquisitors
+	- Ascension
+	- Tithe
+	- Schooling
+	- excommunication
+	- Blessing of bounty
+%%
+
 The **Ecclesia Solari**, sometimes simply called **The Church**, is the powerful theocratic institution dedicated to the worship of [[Solaris and The Solari Faith]]. Led by [[Pontifex Maximus Virtue|the Pontifex]] Maximus, currently a planetar named [[Pontifex Maximus Virtue|Virtue]], the Church provides the ideological mandate and spiritual authority that underpins [[The Crusade]].
 
 # Demographics

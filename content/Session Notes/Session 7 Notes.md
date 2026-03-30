@@ -26,12 +26,10 @@ The Djinn Emissary managed to transport the party to the new island just as the 
 ## Loot & Acquisitions
 
 - [[Lairs|Lair]]: The party acquired their lair, though [[Lair Options|its form has not yet settled]]
+
 %%
+### DM Secrets & Context
 
-## DM Secrets & Context
-
-- **The Mole:** The party is currently unaware that **Professor Jitterhop** is the informant within the **Cult of Night** who is secretly supplying tectonic research data to **The Crusade**.
-    
-- **Project Orchestra:** The **Harmony Engine** is designed to seamlessly fuse Tectonic Islands using pre-Shattering Terramancy. **The Crusade** intends to use it to seal the **Upper Crust**, which would permanently plunge the **In-Between Isles** and the **Underworld** into eternal darkness.
-    
-    %%
+- **The Mole:** The party is currently unaware that Professor Jitterhop is the informant within the Cult of Night secretly supplying tectonic research data to The Crusade to build the Ostinato Engine.
+- **Ephraim's Desperation:** Duke Ephraim's reckless fireball attack on the shifting island was a move born of total desperation. Having lost the showcase and his political standing, retrieving the Harmony Engine is his only remaining path to avoid being disowned by High Baron Magnus.
+%%

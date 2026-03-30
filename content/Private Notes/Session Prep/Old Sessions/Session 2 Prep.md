@@ -35,7 +35,7 @@ tags:
 * **Sun Spire Head of Security** - New NPC greeting Arabella.
 
 ### Monsters (Statblocks)
-* [[Gray Ooze]] (The Biological Cleanser)
+* Gray Ooze (The Biological Cleanser)
 
 ## 5. Treasure & Rewards
 * - [ ] **Ooze Core Gems:** 1,000gp worth of gemstones found suspended inside the Ooze.

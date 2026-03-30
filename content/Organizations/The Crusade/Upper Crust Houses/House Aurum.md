@@ -6,6 +6,27 @@ tags:
   - organization
   - house-aurum
 ---
+%%
+## Cheatsheet
+- Languages:
+	- Common
+- Species:
+	- Human
+- People:
+	- [[High Baron Magnus Aurum]]
+	- [[Lord Romauld Aurum]]
+	- [[Duke Ephraim Aurum]]
+	- [[Lord Eobard Aurum]]
+	- [[Aurum Siblings]]
+- HQ:
+	- [[Aurum Schloss]]
+- Buzzwords:
+	- youngest and most aggressive great house
+	- *"Born of Steel, Crowned by Gold"*
+	- martial, magical, and managerial mastery
+	- number three
+	- Resonance Crystal
+%%
 **House Aurum** is the youngest and most aggressive of the three Great Houses of the [[Upper Crust Houses]], currently holding the seat of [[High Baron Magnus Aurum|the High Baron]]. As the only Human house of the Great Houses, they are defined by their ambition, industrial might, and a deadly combination of arcane magic and martial expertise.
 
 # Culture

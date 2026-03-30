@@ -17,27 +17,28 @@ It is a commonly held belief among historians that the Terramancers were wiped o
 The Terramancers are not extinct. They are the architects of the apocalypse, and they have spent the last 150 years mutating in the dark.
 
 ## The Shattering
- [[The Shattering of the World|The Shattering]] was a botched Terramantic ritual.
-The Terramancers discovered that the planetary core was not molten iron, but a dense sphere of **Pure Resonance**—raw, physical magic. They attempted to harness this core to usher in a golden age of terraforming. The ritual failed, shattering the crust and exposing the core.
+[[The Shattering of the World|The Shattering]] was a botched Terramantic ritual. The Terramancers discovered that the planetary core was not molten iron, but a dense sphere of Pure [[Resonance Crystals]]. They attempted to harness this core to usher in a golden age of terraforming. The ritual failed, shattering the crust and exposing the core.
+
+## The Ultimate Goal: Shattering the Sun
+The Terramancers remain united by a single, terrifying delusion. They believe the original ritual failed because the Earth's core lacked sufficient mana. They have since turned their eyes upward, deducing that the center of the Sun contains a massive, unstructured core of raw energy. 
+
+Their ultimate goal is to repair the broken ley-lines by piecing the Earth's surface back together, recreating the ritual circuit to channel the Earth's magic into a beam that will **shatter the Sun**. They believe this will release infinite energy for a terraformed utopia, their warped minds utterly blinded to the fact that destroying the Sun will extinguish all life.
 
 ## The Corruption
-Following the catastrophe, the surviving members of the order retreated to the [[Underworld]] to be closer to the source of their power. However, 150 years of exposure to the unfiltered magical radiation of the Core has warped their physiology. They no longer look like the varied species they once were. They have transformed into entities that resemble devils, demons, and aberrations, their physical forms twisted to match their magical obsessions.
+Following the catastrophe, the surviving members of the order retreated to the [[Underworld]] to be closer to the source of their power. 150 years of exposure to the unfiltered magical radiation of the Core has warped their physiology into entities resembling devils, demons, and aberrations. 
 
 ## The Three Schools of Thought
-True to [[The Universal Constant|The Law of Threes]], the surviving Terramancers have fractured into three distinct ideological sects. While they appear monstrous to outsiders, they refer to themselves with high-minded, academic titles.
+The surviving Terramancers have fractured into three distinct ideological sects regarding *how* the Earth's crust must be reassembled.
 
-### 1. The Restorationists (The Devils)
-* **Philosophy:** "The Restoration." They believe the world is broken and must be fixed. They seek to use their magic and the Core to physically pull the [[Tectonic Islands]] back together, fusing the crust back into a single sphere.
-* **Goal:** To seal the Core back inside the earth and restore the pre-Shattering status quo. They are paralyzed with indecision about the best way to proceed with this. They don't agree with [[The Crusade]]'s plan fully but also don't disagree with it. They think their only responsibility is to set things back.
+### 1. Cthamgin Cthurdan (The Demons)
+* **Philosophy:** Speed at any cost. They believe the crust must be sealed immediately so the ritual can begin, disregarding the catastrophic short-term loss of life or the messy alignment of the islands.
+* **Operations:** They are actively working with [[Lady Dagna Cuprum]] and utilizing [[Professor Jitterhop]]'s research. They support brute-force technology to violently smash the crust together. The Crusade is currently their unwitting pawn.
 
-### 2. The Naturalist Conclave (The Demons)
-* **Philosophy:** "The Winnowing." They view [[The Shattering of the World|The Shattering]] not as a mistake, but as a forced evolution. They believe that only the strong deserve to survive in the void.
-* **Goal:** To maintain the chaos of the [[Strata]]. They actively sabotage the efforts of The Restorationists, believing that conflict breeds strength. They want the islands to fight, crash, and burn until only the ultimate apex civilization remains.
+### 2. Lestirmek (The Devils)
+* **Philosophy:** Original Form. They demand the Earth be restored exactly to its pre-Shattering state. They view the lower strata and their inhabitants as mistakes that must be erased to correct the timeline.
+* **Operations:** They secretly backed [[Duke Ephraim Aurum]] to create the [[Harmony Engine]], as it possesses a "memory" of the original world to perfectly fuse islands. Given the Duke's recent failure, they are currently unaligned and searching for new agents to secure the Engine.
 
-### 3. The Celestial Resonance Society (The Aberrations)
-* **Philosophy:** "The Crescendo." They believe the first ritual failed because the Earth's core did not possess *enough* mana. They have turned their eyes upward.
-* **Goal:** To realign the [[Ley Lines]] by moving [[Tectonic Islands]] and focus the entirety of the Earth's magical core into a beam to **shatter the Sun**. Their theory is that the Sun is a massive reservoir of divine magic and breaking it would release enough energy to create a literal paradise of infinite magic. [[The Crusade]] doesn't know this plan and is actively working with them on [[Project Orchestra]]
-
-## Operations
-The Terramancers utilize the [[Golden Sails Trading & Shipping Company|GSC]] for logistics, specifically utilizing independent contractors like [[Captain Arabella Montclair-Smythe]] to haul "hazardous waste" (Pure Resonance Crystals) between the [[Underworld]] and [[The **Crusade**]]'s research facilities.
+### 3. Sint Zir Ba (The Aberrations)
+* **Philosophy:** Absolute Inclusivity. They want to recreate the crust by pulling *every* island and *all* people onto the new surface, ensuring no landmass or soul is left behind in the void before the ritual begins.
+* **Operations:** Currently unaligned and observing. Their inclusive, seemingly benevolent rhetoric makes them highly susceptible to a future alliance with the party or [[The Resistance]], setting the stage for a devastating betrayal.
 %%

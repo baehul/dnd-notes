@@ -105,12 +105,12 @@ The henchman cannot use the same action two rounds in a row. Since your map has 
     
     - **Mechanic:** The collision causes massive seismic shear; DC 14 Dexterity or Strength Saving Throws to avoid being knocked prone or taking 2d6 bludgeoning damage from falling debris.
         
-    - **Resolution:** The Resistance forces hold off the Aurum guards, allowing the party to escape onto the colliding island with the Harmony Engine and their new Mimic Lair.
+    - **Resolution:** The Resistance forces hold off the Aurum guards, allowing the party to escape onto the colliding island with the Harmony Engine and their new Lair.
         
 
 ### 4. Secrets & Clues
 
-- The Tavern the Resistance uses is a living entity made of mimics posing as furniture and patrons.
+- The Tavern the Resistance uses is a Lair.
     
 - The Harmony Engine's imperceptible, constant tonic chord acts as a pacifying or commanding frequency for certain magical entities or structures.
     
@@ -123,7 +123,7 @@ The henchman cannot use the same action two rounds in a row. Since your map has 
 
 - **Lancaster's Pod:** Cramped, smelling of ozone and dry gin, illuminated by flashing arcanotech warning lights.
     
-- **The Mimic Tavern:** Shifting floorboards, furniture that subtly breathes, walls that change texture when touched.
+- **The Tavern:** Shifting floorboards, furniture that subtly breathes, walls that change texture when touched.
     
 - **The Collision Edge:** A chaotic boundary where atomized magical mist rises violently as two rock masses grind against each other in the void.
     
@@ -166,6 +166,6 @@ The henchman cannot use the same action two rounds in a row. Since your map has 
 
 ### 8. Select Treasure
 
-- **The Mimic Lair:** A mobile/customizable base of operations for the party.
+- **The Lair:** A mobile/customizable base of operations for the party.
     
 - **DM Input Required:** What specific material loot, gold, or minor magic items will the Aurum forces drop during the retreat?

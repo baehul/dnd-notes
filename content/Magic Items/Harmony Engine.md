@@ -18,7 +18,7 @@ The Harmony Engine functions on the principle of Arcane Resonance. It synthesize
 
 1. **Ley Line Manipulation:** Utilizing the same principles that keep the islands in orbit, the Engine manipulates the local [[Ley Lines]], loosening the magical tether holding a [[Tectonic Islands|Tectonic Island]] in place.
 2. **Weavesilk Navigation:** It uses a sieve made of golden fabric similar to those found on [[Golden Sails Trading & Shipping Company|Golden Sails]] ships. This allows the island to "sail" through the void, guided by the Engine.
-3. **Pre-Shattering Magic:** Once an island is brought into contact with another landmass, the Engine utilizes refined terramancy derived from the study of the [[Terramancers]] to fuse the rock. This process is silent and seamless, "healing" the break between the two lands as if they were never separated. It could theoretically be reversed to undo the fusing.
+3. **Pre-Shattering Magic:** Once an island is brought into contact with another landmass, the Engine utilizes refined terramancy derived from the study of [[The Terramancers]] to fuse the rock. This process is silent and seamless, "healing" the break between the two lands as if they were never separated. It could theoretically be reversed to undo the fusing.
 %%
 
 %%
