@@ -18,6 +18,6 @@ tags:
 
 ### Mooring Bonus
 
-*Your bond with your Lair extends beyond a physical location. Whenever you connect your Lair to another location and leave your Lair, this bonus travels with you. *
+*Your bond with your Lair extends beyond a physical location. Whenever you connect your Lair to another location and leave your Lair, this bonus travels with you.*
 
-* **Cramming Session.**  Perfectly designed study guides and practice tests make preparation a breeze. Allies choose one skill or tool; until their next long rest, they gain a bonus to all ability checks made with that skill or tool equal to their proficiency bonus.## 
+* **Cramming Session.**  Perfectly designed study guides and practice tests make preparation a breeze. Allies choose one skill or tool; until their next long rest, they gain a bonus to all ability checks made with that skill or tool equal to their proficiency bonus.
