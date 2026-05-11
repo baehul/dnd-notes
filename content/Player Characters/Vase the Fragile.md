@@ -68,6 +68,9 @@ So far, the compendium contains:
 * A biography of what Mithbarakaz has told him so far
 * The foundational myths of the [[Old Path]]
 * Select passages of the [[Way of Night (Book)]]
+  + Thrum’s Opinions on Night - “I am night, you are night, This guy gets it (points to Otis).
+
+
 
 ## Trivia:
 
@@ -82,6 +85,7 @@ So far, the compendium contains:
 
 ---
 # Local Notes
+
 
 
 

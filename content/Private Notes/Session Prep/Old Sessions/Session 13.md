@@ -29,6 +29,11 @@ tags:
 - **Scene 2: Sendryr’s Test of Truth.** The party meets Sendryr in a quiet, star-dappled chamber of the Monastery. She initiates a combat trial to test if they can accept multiple truths simultaneously.
     
     - _The Mechanic:_ She conjures shadow-beasts (**Lion** statblock). If players close both eyes, they gain the **Blinded condition** (attacks against them have Advantage, their attacks have Disadvantage). If they keep _both_ eyes open, they only see the physical beasts. If they keep **one eye open and one eye closed**, they can see both the physical beasts _and_ the glowing magical runes/weak points Sendryr has hidden in the dark. _(No mechanical penalties for one eye closed to keep the fight snappy!)_
+	    - - **Hint 1 (Focus on the physical vs. magical):** _Half in dark, (3)_ _Half in the blin-ding light. (6)_ _To walk the line you must live in both. (9)_ _Wink at the sha-dow's edge, (6)_ _Find the way. (3)_
+	    
+		- **Hint 2 (Focus on the mechanical solution):** _Do not blind, (3)_ _The sight lim-its the mind. (6)_ _Close one door to o-pen up the next. (9)_ _Keep one an-chored in light, (6)_ _I am Night. (3)_
+		    
+		- **Hint 3 (Direct combat hint if they are struggling):** _Look a-head, (3)_ _The beast bares its sharp teeth. (6)_ _But ma-gic weaves through the un-seen dark. (9)_ _Split your gaze to see both, (6)_ _Truth is two. (3)_
         
 - **Scene 3: Sendryr’s Blessing.** Upon passing, Sendryr gifts them her **Resonance Crystal**. She warns them not to blind themselves to the many truths they will encounter on the difficult path ahead.
     
