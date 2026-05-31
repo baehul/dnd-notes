@@ -17,9 +17,15 @@ tags:
 	    
 		- **Hint 2 (Focus on the mechanical solution):** _Do not blind, (3)_ _The sight lim-its the mind. (6)_ _Close one door to o-pen up the next. (9)_ _Keep one an-chored in light, (6)_ _I am Night. (3)_
 		    
-		- **Hint 3 (Direct combat hint if they are struggling):** _Look a-head, (3)_ _The beast bares its sharp teeth. (6)_ _But ma-gic weaves through the un-seen dark. (9)_ _Split your gaze to see both, (6)_ _Truth is two. (3)_
-        
+		- **Hint 3 (Direct combat hint if they are struggling):** _Look a-head, (3)_ _The beast bares its sharp teeth. (6)_ _And ma-gic weaves through the un-seen dark. (9)_ *Why choose to see just one? (6)* _Truth is two. (3)_
+    
 - **Scene 3: Sendryr’s Blessing.** Upon passing, Sendryr gifts them her **Resonance Crystal**. She warns them not to blind themselves to the many truths they will encounter on the difficult path ahead.
+	- PLUS ONE GREATCLUB
+	- https://www.dndbeyond.com/magic-items/9228934-potion-of-greater-invisibility
+	- https://www.dndbeyond.com/magic-items/5351-elixir-of-health
+	- https://www.dndbeyond.com/magic-items/9229194-wand-of-web
+	- https://www.dndbeyond.com/magic-items/9228408-cloak-of-elvenkind
+	- https://www.dndbeyond.com/magic-items/2411840-amulet-of-the-devout-1
     
 - **Scene 4: The Mock Engine (The Turning Point).** The party takes the crystal to Professor Jitterhop. He slots it into the mock Harmony Engine. The room fills with a gorgeous, resolving chord and the scent of ancient, damp earth. The math is perfect. But... it's too small.
     

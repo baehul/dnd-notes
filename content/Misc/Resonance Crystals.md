@@ -2,6 +2,7 @@
 title: Resonance Crystals
 aliases:
   - Mana
+  - Resonance Crystal
 ---
 **Resonance Crystals** (sometimes called **Mana**) are iridescent crystals found in varying concentrations across the [[Strata]] of the world. Following [[The Shattering of the World|The Shattering]], they are of ubiquitous importance amongst the cultures of the world as well as for their ability to facilitate the [[Golden Sails Trading & Shipping Company|Golden Sails Company]] Weavesilk ships for transport between [[Tectonic Islands]].
 ![[RawResonanceCrystal.png]]

@@ -45,3 +45,5 @@ The party dropped off the objects they had already collected with the professor 
 The party reconvened and returned to the Biomancy Department to retrieve the Resonance Dampener. They navigated a jungle-like testing area filled with giant carnivorous fauna to locate Professor Vesper, who possessed the device. The surrounding flora proved to be highly sensitive to noise, reacting aggressively to any sound the party made. 
 
 Despite triggering the hostile plant life, the party successfully retrieved the Resonance Dampener, though they sustained significant damage during the extraction.
+
+**THE PARTY LEVELED TO LEVEL 5**

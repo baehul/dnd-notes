@@ -1,19 +1,24 @@
 ## Magic Item Tracking
 
-| Player | Item                         | Category | Given/Made |
-| ------ | ---------------------------- | -------- | ---------- |
-| Trey   | Driftglobe                   | B        | Y          |
-| Trey   | Infernal Puzzlebox           | B        | Y          |
-| Sean   | All Purpose Tool             | F        | Y          |
-| Armaan | Periapt of Health            | F        | Y          |
-|        | Scroll of Protection         | C        | Y          |
-|        | Chime of Opening             | C        | Y          |
-|        | Potion of Comprehension      | A        | Y          |
-|        | Potion of Healing            | A x 6    | Y          |
-|        | Bottled Breath               | B        | Y          |
-|        | Potion of Healing (Superior) | C        | Y          |
-| Sean   | Armor of Acid Resistance     | F        | Recipe     |
-| Dugan  | Instrument of Illusions      | A        | Recipe     |
+| Player | Item                                | Category | Given/Made |
+| ------ | ----------------------------------- | -------- | ---------- |
+| Trey   | Driftglobe                          | B        | Y          |
+| Trey   | Infernal Puzzlebox                  | B        | Y          |
+| Sean   | All Purpose Tool                    | F        | Y          |
+| Armaan | Periapt of Health                   | F        | Y          |
+|        | Scroll of Protection                | C        | Y          |
+|        | Chime of Opening                    | C        | Y          |
+|        | Potion of Comprehension             | A        | Y          |
+|        | Potion of Healing                   | A x 6    | Y          |
+|        | Bottled Breath                      | B        | Y          |
+|        | Potion of Healing (Superior)        | C        | Y          |
+| Sean   | Armor of Acid Resistance            | F        | Recipe     |
+| Dugan  | Instrument of Illusions             | A        | Recipe     |
+|        | Amulet of Devout (Goddess of Night) | F        |            |
+|        | Cloak of Elvenkind                  | F        |            |
+|        | Wand of Web                         | F        |            |
+|        |                                     |          |            |
+|        |                                     |          |            |
 ## Distribution
 This is for a distribution for a party of 6 PC's
 
