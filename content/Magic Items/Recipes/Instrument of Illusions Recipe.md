@@ -7,7 +7,7 @@ tags:
 When successfully executed, this recipe results in a [Instrument of Illusions](https://www.dndbeyond.com/magic-items/9228786-instrument-of-illusions)
 
 ## Components
-- [x] 1 Spool of Phase Spider Silk
+- [ ] 1 Spool of Phase Spider Silk
 - [ ] 5 Levels of Illusion Magic
 - [ ] 35 GP of quartz dust
 - [ ] 5 GP of a clear, non-sticky oil

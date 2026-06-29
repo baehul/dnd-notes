@@ -36,9 +36,5 @@ During this time, [[Collin McCambridge|Collin]] and [[Vase the Fragile|Vase]] sn
 
 - [[Lair Effects|Magical Library Lair]]: The party's new Lair. A towering magical library with a mind of its own.
 
-%%
-## DM Secrets & Context
 
-- The device Collin will find is the method by which Ephraim Aurum was communicating with the Terramancers (Specifically the Lestirmek). They will find that Jitterhop has a similar device (Cthamgin Chturdan).
-%%
 

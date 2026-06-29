@@ -25,9 +25,3 @@ The group deduced that the engine represents the culmination of years of secret 
 
 - **The [[Harmony Engine]]**: An arcanotech device capable of moving and shaping tectonic islands - perhaps much more.
 
-%%
-### DM Secrets & Context
-
-- **Wolfram Zoloto Will Return.** Wolfram Zoloto is still alive and will be brought back with a significant number of cyborg-like replacement parts
-- **The Mole & The Mortar:** Cletus intends to bring the Harmony Engine notes to Professor Jitterhop, entirely unaware that Jitterhop is the Cult of the Goddess Whose Name Is Night informant. 
-%%

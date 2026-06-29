@@ -16,9 +16,3 @@ While sleeping, [[Collin McCambridge]] experienced a profound vision facilitated
 ### The Arena Trial
 The group traveled to an arena to meet with [[Sendryr Ogami]], locating her as she spoke to a congregation in the center of the grounds. Certain members of the [[Cult of the Goddess Whose Name Is Night]] expressed reluctance to hand over their [[Resonance Crystals|Resonance Crystal]] to the party and [[Professor Jitterhop]]. To secure the crystal, the congregation decreed that the party must first pass a test to prove their worthiness.
 
-
-%%
-### DM Secrets & Context
-* **The Lestirmek:** The cloaked and horned figures from Collin's vision are the Lestirmek (The Devils), an extremist faction of [[The Terramancers]]. Following their previous agent's failure, they are currently unaligned and actively using the [[Ring of Restless Revelation]] to recruit Collin to their cause. 
-* **The Compass:** The compass the Lestirmek instructed Collin to find is a required component to track their physical location in the void, bridging the gap between his psychic visions and their actual coordinates.
-%%

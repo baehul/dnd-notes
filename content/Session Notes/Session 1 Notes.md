@@ -41,10 +41,3 @@ As the crystals fell, [[Collin McCambridge|Collin]] was struck by a wave of psyc
 ## Level Up!
 - Party leveled from Level 1 to Level 2
 
-%%
-## DM Secrets & Context
-* **The Tavern:** The meeting location was not a standard building; it was a witch's hut in disguise, populated entirely by mimics posing as furniture and patrons. The players are currently unaware of this.
-* **The Signal:** The light signals between *The Lead Belly* and the [[House Cuprum]] ship were confirming the receipt of a shipment of [[Resonance Crystals]] sourced from [[The Terramancers]].
-* **Collin's Vision:** The psychic backlash [[Collin McCambridge|Collin]] experienced when the barrel opened was triggered by his backstory exposure to [[Resonance Crystals]] and his connection to the visions they cause.
-* **Arabella's Cargo:** The "hazardous waste" cover story hides her smuggling operation of high-purity [[Resonance Crystals]] for [[The Crusade]]/[[House Cuprum]] to pay off her debts.
-%%

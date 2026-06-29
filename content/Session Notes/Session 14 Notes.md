@@ -1,5 +1,5 @@
 ---
-title: "Session 14:"
+title: "Session 14: Tony Stark Was Able To Build This In a Cave, With A Box of Scraps!"
 tags:
   - session-notes
 ---
@@ -33,19 +33,5 @@ As they formulated their plans, [[Lancaster Slickwhistle]] made an unexpected ar
 	- [Elixir of Health](https://www.dndbeyond.com/magic-items/5351-elixir-of-health)
 	- [Wand of Web](https://www.dndbeyond.com/magic-items/9229194-wand-of-web)
 	- [Cloak of Elvenkind](https://www.dndbeyond.com/magic-items/9228408-cloak-of-elvenkind)
-	-[ Amulet of the Devout](https://www.dndbeyond.com/magic-items/2411840-amulet-of-the-devout-1) (Given to [[Twilight Emberrest]])
+	- [Amulet of the Devout](https://www.dndbeyond.com/magic-items/2411840-amulet-of-the-devout-1) (Given to [[Twilight Emberrest]])
     
-
-%%
-
-### DM Secrets & Context
-
-- The infernal beings communicating with [[Collin McCambridge]] in his sleep are the Lestirmek (The Devils), an extremist faction of [[The Terramancers]].
-    
-- The Lestirmek are utilizing the [[Ring of Restless Revelation]] to recruit [[Collin McCambridge]] after the failure of their previous agent, [[Duke Ephraim Aurum]].
-    
-- The prototype [[Harmony Engine]] constructed by [[Professor Jitterhop]] is likely functioning exactly as originally designed, possessing a "memory" of the original world to perfectly fuse islands.
-    
-- [[Professor Jitterhop]]'s involvement with the [[Harmony Engine]] prototype is highly sensitive, as he is secretly acting as an informant for [[The Crusade]] and assisting [[Lady Dagna Cuprum]] with the Ostinato Accumulator.
-    
-%%
