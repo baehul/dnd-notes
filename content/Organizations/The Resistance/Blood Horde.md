@@ -9,7 +9,7 @@ tags:
 aliases:
   - The Horde
 ---
-%%
+ %%
 ## Cheatsheet
 - Languages:
 	- Orc
