@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "baehul.github.io/dnd-notes/",
-    ignorePatterns: ["private", "templates", ".obsidian", "**/*private*", "*private*", "Private Notes"],
+       ignorePatterns: ["private", "templates", ".obsidian", "**/*private*", "*private*", "Private Notes", ".claude"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

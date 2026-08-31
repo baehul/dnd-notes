@@ -1,4 +1,5 @@
 ## Magic Item Tracking
+A
 
 | Player | Item                                | Category | Given/Made |
 | ------ | ----------------------------------- | -------- | ---------- |
@@ -14,10 +15,13 @@
 |        | Potion of Healing (Superior)        | C        | Y          |
 | Sean   | Armor of Acid Resistance            | F        | Recipe     |
 | Dugan  | Instrument of Illusions             | A        | Recipe     |
-|        | Amulet of Devout (Goddess of Night) | F        |            |
-|        | Cloak of Elvenkind                  | F        |            |
-|        | Wand of Web                         | F        |            |
-|        |                                     |          |            |
+| Armaan | Amulet of Devout (Goddess of Night) | F        | Y          |
+| Trey   | Cloak of Elvenkind                  | F        | Y          |
+| Sean   | Wand of Web                         | F        | Y          |
+| JTran  | +1 Great club                       | F        | Y          |
+| Trey   | Marionette's Fang                   | B        |            |
+|        | Instrument of the Bards (Doss Lute) | F        |            |
+|        | Pearl of Power                      | F        |            |
 |        |                                     |          |            |
 ## Distribution
 This is for a distribution for a party of 6 PC's
