@@ -1,5 +1,6 @@
 ---
 title: The Shattered World
+draft: false
 ---
 >*"The world was broken long before it broke. I guess now, it's extra broken... I don't know a good word for that. Smashed?... Shattered?"  
 >  

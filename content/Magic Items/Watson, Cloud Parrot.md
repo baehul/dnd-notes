@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Cloud Parrot
 tags:
   - magic-item

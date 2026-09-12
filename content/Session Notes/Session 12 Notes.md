@@ -1,4 +1,5 @@
 ---
+draft: false
 title: "Session 12: Silky Smooth"
 tags:
   - session-notes

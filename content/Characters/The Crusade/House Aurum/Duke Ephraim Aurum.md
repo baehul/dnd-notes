@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Duke Ephraim Aurum
 tags:
   - upper-crust

@@ -1,4 +1,5 @@
 ---
+draft: false
 title: House Aurum
 tags:
   - upper-crust-houses

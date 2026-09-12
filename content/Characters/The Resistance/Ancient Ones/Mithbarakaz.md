@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Mithbarakaz, The Silvered Blizzard
 aliases:
   - Uncle Mith

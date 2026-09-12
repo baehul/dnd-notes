@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Blood Horde
 tags:
   - organization

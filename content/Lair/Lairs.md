@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Lairs
 tags:
   - lair

@@ -1,4 +1,5 @@
 ---
+draft: false
 title: "Session 21: Beating Off In An Alley"
 tags:
   - session-notes

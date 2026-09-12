@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Tectonic Islands
 aliases:
   - Tectonic Island

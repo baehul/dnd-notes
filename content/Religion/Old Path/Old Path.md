@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Old Path
 tags:
   - ancient-ones

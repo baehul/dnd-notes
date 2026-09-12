@@ -1,4 +1,5 @@
 ---
+draft: false
 title: "Session 5: Slickwhistle's Seven"
 tags:
   - session-notes

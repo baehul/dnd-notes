@@ -1,4 +1,5 @@
 ---
+draft: false
 title: The Terramancers
 tags:
   - organization

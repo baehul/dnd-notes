@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Resonance Crystals
 aliases:
   - Mana

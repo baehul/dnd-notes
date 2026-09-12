@@ -1,4 +1,5 @@
 ---
+draft: false
 title: "Session 24: Jarvis, Shatter Otis"
 tags:
   - session-notes

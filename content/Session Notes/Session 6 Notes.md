@@ -1,4 +1,5 @@
 ---
+draft: false
 title: "Session 6: Scrap in the Scrapyard"
 tags:
   - session-notes

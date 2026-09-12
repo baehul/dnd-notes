@@ -1,4 +1,5 @@
 ---
+draft: false
 title: "Session 10: Layin' Pipe (If That's Okay With You)"
 tags:
   - session-notes

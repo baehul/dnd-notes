@@ -1,4 +1,5 @@
 ---
+draft: false
 title: "Session 13: Nocturnal Omissions"
 tags:
   - session-notes

@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Ecclesia Solari
 tags:
   - organization

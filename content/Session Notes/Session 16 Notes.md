@@ -1,4 +1,5 @@
 ---
+draft: false
 title: "Session 16: Between a Croc and a Hard Place"
 tags:
   - session-notes

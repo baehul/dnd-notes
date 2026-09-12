@@ -1,4 +1,5 @@
 ---
+draft: false
 aliases:
   - Romauld Aurum
 tags:

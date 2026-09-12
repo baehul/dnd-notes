@@ -1,4 +1,5 @@
 ---
+draft: false
 title: House Rules
 ---
 The following are the rules we are going to follow for the campaign (subject to change). Any questions and you can ask me.

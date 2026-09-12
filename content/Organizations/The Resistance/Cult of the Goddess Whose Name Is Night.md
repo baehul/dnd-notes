@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Cult of the Goddess Whose Name Is Night
 tags:
   - organization

@@ -1,4 +1,5 @@
 ---
+draft: false
 title: "Session 7: A Second Island Has Hit The Tavern"
 tags:
   - session-notes

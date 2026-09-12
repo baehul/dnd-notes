@@ -1,4 +1,5 @@
 ---
+draft: false
 title: "Session 2: I Feel Like Garbage"
 tags:
   - session-notes

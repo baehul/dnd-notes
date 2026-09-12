@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Session Zero
 ---
 WELCOME TO SESSION ZERO OF THE CAMPAIGN

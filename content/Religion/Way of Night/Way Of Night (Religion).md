@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Way Of Night (Religion)
 tags:
   - cult-of-night

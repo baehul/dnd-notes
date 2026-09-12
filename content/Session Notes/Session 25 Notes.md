@@ -1,4 +1,5 @@
 ---
+draft: false
 title: "Session 25: Blinding Lights (The Weeknd)"
 tags:
   - session-notes

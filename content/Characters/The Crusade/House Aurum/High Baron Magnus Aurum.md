@@ -1,4 +1,5 @@
 ---
+draft: false
 aliases:
   - Magnus Aurum
   - The High Baron

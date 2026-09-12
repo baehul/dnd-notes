@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Golden Sails Trading & Shipping Company
 tags:
   - organization

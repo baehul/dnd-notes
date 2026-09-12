@@ -1,4 +1,5 @@
 ---
+draft: false
 title: "Session 17: Catching The Red-Eye"
 tags:
   - session-notes

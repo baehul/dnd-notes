@@ -1,4 +1,5 @@
 ---
+draft: false
 title: "Session 19: This City..."
 tags:
   - session-notes

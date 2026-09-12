@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Recipe for Instrument of Illusions
 tags:
   - magic-item

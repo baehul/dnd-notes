@@ -1,4 +1,5 @@
 ---
+draft: false
 title: Recipe for Armor of Acid Resistance
 tags:
   - magic-item

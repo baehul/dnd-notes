@@ -1,4 +1,5 @@
 ---
+draft: false
 title: The Monastery of Night
 tags:
   - cult-of-night

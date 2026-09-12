@@ -1,4 +1,5 @@
 ---
+draft: false
 title: "Session 8: Bloos Clues"
 tags:
   - session-notes

@@ -1,4 +1,5 @@
 ---
+draft: false
 title: "Session 11: Fine Tuning"
 tags:
   - session-notes

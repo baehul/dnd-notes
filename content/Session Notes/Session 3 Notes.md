@@ -1,4 +1,5 @@
 ---
+draft: false
 title: "Session 3: Coming Out From Both Ends"
 tags:
   - session-notes

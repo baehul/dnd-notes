@@ -1,4 +1,5 @@
 ---
+draft: false
 
 title: Vase the Fragile
 

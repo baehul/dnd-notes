@@ -1,4 +1,5 @@
 ---
+draft: false
 title: "Session 18: The Ritual"
 tags:
   - session-notes
