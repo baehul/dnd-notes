@@ -1,5 +1,5 @@
 ---
-title: "Session 24:"
+title: "Session 24: Jarvis, Shatter Otis"
 tags:
   - session-notes
 ---
@@ -20,7 +20,7 @@ Descending a third time, the party heard gnawing coming from an adjoining room. 
 
 Only once the room fell quiet could they examine the carcass properly, and what they found was not the scavengers' work at all. A gigantic hole had been blown clean through the beast. Whatever had killed it had done so with overwhelming force, and had been down here before them.
 
-With the level below them proven hostile, they climbed back up to the maintained floor and made camp there to take a long rest.
+With the level below them proven hostile, they climbed back up to the maintained floor and made camp there to take a short rest.
 
 ### Additions
 * **New NPCs:** None

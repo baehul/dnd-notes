@@ -1,11 +1,11 @@
 Magic Item Prizes:
 - fish suit: https://www.dndbeyond.com/magic-items/5439866-fish-suit
-- Spell Scroll of Imprisonment (9th)
+- ~~Spell Scroll of Imprisonment (9th)~~
 - Silver Raven https://www.dndbeyond.com/magic-items/9228620-figurine-of-wondrous-power-silver-raven
 - 6 potions of water breathing https://www.dndbeyond.com/magic-items/9228940-potion-of-water-breathing
-- Spell Scroll of Catnap (3rd)
+- ~~Spell Scroll of Catnap (3rd)~~
 - Spell Scroll of Haste (3rd)
-- Spell Scroll of Enalrge/Reduce (Reduce only) (2nd)
+- ~~Spell Scroll of Enalrge/Reduce (Reduce only) (2nd)~~
 - Spell Scroll of Levitate (2nd)
 - 
 
@@ -13,30 +13,43 @@ Magic Item Prizes:
 
 ### Random Library Research Subjects
 
-| **Roll**      | **Subject**                    | **Description & Lore Connection**                                                                                                                  |
-| ------------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1**<br>done | **Arcane Lapidary Techniques** | Early treatises on the precise faceting and etching required to tune Resonance Crystals safely.                                                    |
-| **2**         | **The Mathematics of Three**   | Architectural blueprints exploring the arcane stability of triangular design and triads, proving why right angles fail.                            |
-| **3**         | **Pre-Shattering Astronomy**   | Ancient star charts that no longer align with the sky, alongside fables of the Old Path like _The Hare and The Stars_.                             |
-| **4**<br>done | **Firsthand Cataclysm Logs**   | Fading journals debating the timeline of the world breaking, noting that the fissures expanded over exactly three days.                            |
-| **5**         | **Auditory Divination**        | A superstitious sailor's log investigating the phenomenon of the Ley Lines, theorizing the whispers and music predict the future.                  |
-| **6**         | **Early Masonry Regulations**  | The foundational legal texts and building codes that eventually birthed House Cuprum's rigid, honor-bound legal system.                            |
-| **7**         | **Flora of the Silver Glades** | Ancient druidic notes on absolute ecological purity and the animal husbandry arts now strictly guarded by House Argentum.                          |
-| **8**         | **Bloodline Genealogies**      | Massive, dusty tomes tracing the lineage of the old kings and barons that the Upper Crust Houses use to justify their divine right to rule.        |
-| **9**         | **The Theology of the Flame**  | Early Solari religious texts outlining their eschatology, explaining why burying the dead damns the soul to the dark void.                         |
-| **10**        | **Proto-Weavesilk Botany**     | Heavily redacted botanical studies attempting to weave golden sails before the Golden Sails Company secured their absolute monopoly.               |
-| **11**        | **Subterranean Biomancy**      | Unethical, highly experimental journals detailing early, gruesome physiological alterations (foreshadowing the Cult of Night's modern practices).  |
-| **12**        | **Hydro-resonance Theories**   | Studies on how pulverized mana dissolved into the oceans post-Shattering, allowing the water to grip the Ley Lines to form drifting Hydrospheres.  |
-| **13**        | **Apocryphal Stanzas**         | A heavily debated, fragmented collection of verses claimed to be the original, unaltered drafts of the _Way of Night_.                             |
-| **14**        | **The Island Grading Scale**   | The original cartographic surveys establishing the Grade 0 to Grade 3 metric for measuring the habitable surface areas of Tectonic Islands.        |
-| **15**        | **The Ecology of the Core**    | Theoretical models trying to understand the crushing gravity, ash, and poisonous fumes surrounding the exposed, semi-molten planetary core.        |
-| **16**        | **Roots of the First Tree**    | Anthropological studies observing the animistic Blood Gods worship and the peaceful origins of the tribes that now make up the Blood Horde.        |
-| **17**        | **The Conclave's Tongues**     | A translation primer detailing extinct dialects of Primordial and Sylvan, historically spoken only by the Ancient Ones.                            |
-| **18**        | **Pre-Shattering Tectonics**   | Mundane geological surveys detailing the natural, unbroken crust before anyone attempted to manipulate it on a massive scale.                      |
-| **19**        | **Ooze Core Abjuration**       | An artificer's recipe book detailing how to neutralize gelatinous ooze cores with alkaline salts to forge armor resistant to acid.                 |
-| **20**        | **Symbiotic Architecture**     | Blueprints detailing how structures like Archmage towers organically adapt their layouts to mirror the growth and aesthetic will of their patrons. |
+| **Roll**                     | **Subject**                     | **Description & Lore Connection**                                                                                                                  |
+| ---------------------------- | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1**<br>done                | **Arcane Lapidary Techniques**  | Early treatises on the precise faceting and etching required to tune Resonance Crystals safely.                                                    |
+| **2**                        | **The Mathematics of Three**    | Architectural blueprints exploring the arcane stability of triangular design and triads, proving why right angles fail.                            |
+| **3**<br>done                | **Pre-Shattering Astronomy**    | Ancient star charts that no longer align with the sky, alongside fables of the Old Path like _The Hare and The Stars_.                             |
+| **4**<br>done                | **Firsthand Cataclysm Logs**    | Fading journals debating the timeline of the world breaking, noting that the fissures expanded over exactly three days.                            |
+| **5**                        | **Auditory Divination**         | A superstitious sailor's log investigating the phenomenon of the Ley Lines, theorizing the whispers and music predict the future.                  |
+| **6**                        | **Early Masonry Regulations**   | The foundational legal texts and building codes that eventually birthed House Cuprum's rigid, honor-bound legal system.                            |
+| **7**                        | **Flora of the Silver Glades**  | Ancient druidic notes on absolute ecological purity and the animal husbandry arts now strictly guarded by House Argentum.                          |
+| **8**                        | **Bloodline Genealogies**       | Massive, dusty tomes tracing the lineage of the old kings and barons that the Upper Crust Houses use to justify their divine right to rule.        |
+| **9**<br>done                | **The Theology of the Flame**   | Early Solari religious texts outlining their eschatology, explaining why burying the dead damns the soul to the dark void.                         |
+| **10**                       | **Proto-Weavesilk Botany**      | Heavily redacted botanical studies attempting to weave golden sails before the Golden Sails Company secured their absolute monopoly.               |
+| **11**                       | **Subterranean Biomancy**       | Unethical, highly experimental journals detailing early, gruesome physiological alterations (foreshadowing the Cult of Night's modern practices).  |
+| **12**                       | **Hydro-resonance Theories**    | Studies on how pulverized mana dissolved into the oceans post-Shattering, allowing the water to grip the Ley Lines to form drifting Hydrospheres.  |
+| **13**<br><br>done - torn up | **Apocryphal Stanzas**          | A heavily debated, fragmented collection of verses claimed to be the original, unaltered drafts of the _Way of Night_.                             |
+|                              | **The Island Grading Scale**    | The original cartographic surveys establishing the Grade 0 to Grade 3 metric for measuring the habitable surface areas of Tectonic Islands.        |
+| **15**                       | **The Ecology of the Core**     | Theoretical models trying to understand the crushing gravity, ash, and poisonous fumes surrounding the exposed, semi-molten planetary core.        |
+| **16**<br>done               | **Roots of the First Tree**<br> | Anthropological studies observing the animistic Blood Gods worship and the peaceful origins of the tribes that now make up the Blood Horde.        |
+| **17**                       | **The Conclave's Tongues**      | A translation primer detailing extinct dialects of Primordial and Sylvan, historically spoken only by the Ancient Ones.                            |
+| **18**                       | **Pre-Shattering Tectonics**    | Mundane geological surveys detailing the natural, unbroken crust before anyone attempted to manipulate it on a massive scale.                      |
+| **19**                       | **Ooze Core Abjuration**        | An artificer's recipe book detailing how to neutralize gelatinous ooze cores with alkaline salts to forge armor resistant to acid.                 |
+| **20**                       | **Symbiotic Architecture**      | Blueprints detailing how structures like Archmage towers organically adapt their layouts to mirror the growth and aesthetic will of their patrons. |
 
 Now that we have the random tables to flesh out the journey downward, are you ready to jump into Stage 4 and design the catastrophic blowout and the final boss room where they confront Alexandra Aurum?
+
+names of otis's tribes he finds that worships world tree
+ironroots
+branchbow
+tusktooth
+thorntusks
+the river
+
+vaxen's first ancestor
+the first of their name
+
+aboleth name
+6-eyed tentacle of the deep icy waters
 # The Descent
 ### **Table 1: Normal Floors (Atmosphere & Transition)**
 

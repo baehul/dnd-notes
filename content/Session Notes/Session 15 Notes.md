@@ -1,5 +1,5 @@
 ---
-title: "Session 15:"
+title: "Session 15: TBD (Not Marvel)"
 tags:
   - session-notes
 ---
