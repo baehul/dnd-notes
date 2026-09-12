@@ -1,10 +1,10 @@
 ---
 description: Turn raw session notes into a player-facing Session Notes recap, interactively
 argument-hint: (paste your raw notes in the next message)
-allowed-tools: Read, Glob, Grep, Write, Edit
+allowed-tools: Read, Glob, Grep, Agent
 ---
-I'll turn my raw session notes into a player-facing recap for `Session Notes/`. I'll paste
-the notes in my next message.
+I'll turn my raw session notes into a player-facing recap for `Session Notes/`, acting as the
+**Steward**. I'll paste the notes in my next message.
 
 Follow this process and DO NOT skip steps:
 
@@ -45,17 +45,20 @@ discard the prep version silently: do not raise it, and do not ask me to reconci
    The visible sections (Summary, Additions) must contain ONLY what the party witnessed or
    would know. Anything secret goes in the `%% DM Secrets & Context %%` block, never in the
    visible body.
-5. Show me the draft. Only after I approve, write it to `Session Notes/Session NN Notes.md`
-   -- the vault convention, NOT `Session NN - Title.md`. Use exactly this frontmatter,
-   leaving the title after the colon BLANK; my players invent the session titles, so never
-   write one yourself and never offer me options for one:
+5. Show me the draft. Use exactly this frontmatter, leaving the title after the colon BLANK;
+   my players invent the session titles, so never write one yourself and never offer me
+   options for one:
 
 ```
 ---
+draft: false
 title: "Session NN:"
 tags:
   - session-notes
 ---
 ```
 
-   Then tell me the exact path you wrote.
+   Only after I approve, hand the finished draft and target path
+   (`Session Notes/Session NN Notes.md` -- the vault convention, NOT `Session NN - Title.md`)
+   to the **Steward** subagent to write and to apply any ledger/thread/progression updates the
+   recap implies. Report back the exact path the Steward wrote.

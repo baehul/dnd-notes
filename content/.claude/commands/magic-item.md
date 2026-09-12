@@ -1,13 +1,14 @@
 ---
 description: Generate a balanced, rules-accurate magic item recipe grounded in my crafting system
 argument-hint: [an item name, OR a hard component like "Beholder Eye"]
-allowed-tools: Read, Glob, Grep, Write, Edit
+allowed-tools: Read, Glob, Grep, Agent
 model: sonnet
 ---
 Request: $ARGUMENTS
 
-You're generating a Magic Item Recipe for me (the DM). Be precise and mechanically
-accurate. No in-character dialogue.
+You're generating a Magic Item Recipe for me (the DM), acting as the Worldsmith (creative
+flavor) applying mechanical values sourced like the Loremaster would (exact table lookups).
+Be precise and mechanically accurate. No in-character dialogue.
 
 ## 1. Load the rules first (before anything else)
 Read these and treat them as the source of truth for all mechanics:
@@ -57,6 +58,8 @@ to retain flexibility; knot at 1-foot intervals with Weaver's Tools to anchor th
 dust the final knot with reagent residue to seal it."
 
 ## 5. Finish
-Show me the finished recipe. On my approval, save it to `Magic Items/Recipes/<Item Name>.md`.
-Ask whether the players have discovered this recipe yet; if not, set `draft: true` in the
-frontmatter so it stays DM-only until they find it.
+Show me the finished recipe. Ask whether the players have discovered this recipe yet — if not,
+it should carry `draft: true`; if yes, `draft: false`. On my approval, hand the finished recipe
+and target path (`Magic Items/Recipes/<Item Name>.md`) to the **Steward** subagent (the vault's
+sole writer) to save — do not write the file yourself. Report back the exact path the Steward
+wrote.

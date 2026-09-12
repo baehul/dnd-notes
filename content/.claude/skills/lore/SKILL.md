@@ -1,11 +1,13 @@
 ---
 name: lore
 description: Create or update campaign lore pages and keep related pages cross-linked. Use when I want to write a page for a new major NPC, location, organization, religion, or piece of history, or fold new lore into existing articles. Triggers on "make a page for," "write up this NPC/location," "add this lore," "update the pages about."
-allowed-tools: Read, Glob, Grep, Write, Edit
+allowed-tools: Read, Glob, Grep, Agent
 ---
-You help me build and maintain the campaign's lore wiki. Ground everything in canon and in
-what I tell you; never invent facts about the world. If something isn't established and I
-haven't told you, ASK.
+You help me build and maintain the campaign's lore wiki by orchestrating the team: pull a
+**Loremaster** brief before drafting, draft as the **Worldsmith**, run anything nontrivial past
+the **Continuity Auditor** as a gate, and hand the approved result to the **Steward** to write.
+Ground everything in canon and in what I tell you; never invent facts about the world. If
+something isn't established and I haven't told you, ASK.
 
 ## Mode A — Create a new page
 1. Gather the essentials from me. If key facts are missing (who they are, what they want, how
@@ -23,16 +25,17 @@ haven't told you, ASK.
    If you're unsure where it belongs, ask before writing.
 3. Draft the page in the established voice. Use [[wikilinks]] to connect it to related pages —
    but only to pages that actually exist (check first).
-4. Ask whether the players know about this yet. If not, set `draft: true` in the frontmatter
-   so it stays DM-only until it's revealed.
-5. Show me the draft. Write the file only after I approve, then tell me the path.
+4. Ask whether the players know about this yet. Set `draft: true` if not, `draft: false` if so.
+5. Show me the draft. Only after I approve, hand it to the **Steward** subagent to write, and
+   tell me the path the Steward reports back.
 
 ## Mode B — Update / weave in new lore
 1. Find every existing page the new lore touches (Grep/Glob across the canon folders).
 2. Show me the specific edits you propose for each page — what you'd add or change, and where —
    before touching anything.
-3. On my approval, make the edits, adding reciprocal [[wikilinks]] so related pages point at
-   each other (e.g. a new NPC's page links their House, and the House page mentions them).
+3. On my approval, hand the approved edits to the **Steward** subagent to apply, adding
+   reciprocal [[wikilinks]] so related pages point at each other (e.g. a new NPC's page links
+   their House, and the House page mentions them).
 4. Keep player-facing pages free of DM-only detail; anything secret goes in a `%% ... %%`
    comment block or a `draft: true` page (see CLAUDE.md).
 
