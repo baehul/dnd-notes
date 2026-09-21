@@ -1,5 +1,5 @@
 Magic Item Prizes:
-- fish suit: https://www.dndbeyond.com/magic-items/5439866-fish-suit
+- ~~fish suit: https://www.dndbeyond.com/magic-items/5439866-fish-suit~~
 - ~~Spell Scroll of Imprisonment (9th)~~
 - Silver Raven https://www.dndbeyond.com/magic-items/9228620-figurine-of-wondrous-power-silver-raven
 - 6 potions of water breathing https://www.dndbeyond.com/magic-items/9228940-potion-of-water-breathing
