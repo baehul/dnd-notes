@@ -21,6 +21,6 @@ The Ostinato Accumulator was officially awarded the contract for [[Project Orche
 # DM Secrets
 ## The Terramancer Connection
 
-The design of the Ostinato Accumulator was secretly guided and heavily influenced by **The Catalyst Imperative**, the extremist faction of the surviving [[The Terramancers|Terramancers]]. They manipulated Lady Dagna and Jitterhop into building this device because its violent, rapid fusion of the crust will expedite their own goal. 
+The design of the Ostinato Accumulator was secretly guided and heavily influenced by **Cthamgin Cthurdan (The Demons)**, the extremist faction of the surviving [[The Terramancers|Terramancers]]. They manipulated Lady Dagna and Jitterhop into building this device because its violent, rapid fusion of the crust will expedite their own goal. 
 
 %%

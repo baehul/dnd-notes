@@ -31,9 +31,9 @@ The device is currently dormant. It features no buttons, levers, or command word
 # History and Development
 Development of the Harmony Engine began five years ago at the [[Sun Spire]] under the direct supervision of [[Duke Ephraim Aurum]]. 
 
-It was commissioned as a competing prototype for [[Project Orchestra]]. [[House Cuprum]], working alongside the [[Terramancers]], had proposed a massive industrial engine known as the World Anchor. The Anchor utilized brute force to drag islands together. While effective, the Anchor was violent; early tests resulted in severe earthquakes, the collapse of island edges, and the destruction of infrastructure.
+It was commissioned as a competing prototype for [[Project Orchestra]]. [[House Cuprum]], working alongside the [[Terramancers]], had proposed a massive industrial engine known as the [[Ostinato Accumulator]]. The Ostinato Accumulator utilized brute force to drag islands together. While effective, the Ostinato Accumulator was violent; early tests resulted in severe earthquakes, the collapse of island edges, and the destruction of infrastructure.
 
-[[Duke Ephraim Aurum|Duke Ephraim]] viewed the Anchor as "crude butcher's work." He designed the Harmony Engine to be the antithesis of the Cuprum design: gentle, precise, and silent. He intended for the Engine not just to work, but to humiliate [[House Cuprum]].
+[[Duke Ephraim Aurum|Duke Ephraim]] viewed the Ostinato Accumulator as "crude butcher's work." He designed the Harmony Engine to be the antithesis of the Cuprum design: gentle, precise, and silent. He intended for the Engine not just to work, but to humiliate [[House Cuprum]].
 %%
 
 %%

@@ -20,7 +20,7 @@ tags:
 - Capabilities: extremely good at violence
 %%
 
-**Gnarl Thorbom** is a goliath warrior of the [[Blood Horde]] and the estranged son of the chieftain of the Thulu tribe.
+**Gnarl Thulu** is a goliath warrior of the [[Blood Horde]] and the estranged son of the chieftain of the Thulu tribe.
 # Appearance
 ![[GnarlThuluPortrait.png]]
 Gnarl stands nearly eight feet tall, towering even over other goliaths. His skin is a deep green-grey, covered in intricate tattoos depicting twisting, thorny tree branches that wrap around his torso and limbs.

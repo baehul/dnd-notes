@@ -70,4 +70,4 @@ A golden colored dragonborn who is rumored to be able to take forms of power in 
 ### [[High Inquisitor Varius]]
 **Role:** Leader of Inquisitors
 
-An aasimar that leads the Paladins Templar branch of Inquisitors. It is widely believed that Malachi possesses the ability to look a man in the eyes and instantly discern if he speaks a lie or harbors heresy in his heart. He is responsible for rooting out corruption and dark magics from within [[The Crusade]].
+An aasimar that leads the Paladins Templar branch of Inquisitors. It is widely believed that Varius possesses the ability to look a man in the eyes and instantly discern if he speaks a lie or harbors heresy in his heart. He is responsible for rooting out corruption and dark magics from within [[The Crusade]].

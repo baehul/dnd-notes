@@ -51,9 +51,11 @@ DM REFERENCE — real & authoritative, but DM-only; never show players. Retrieve
 in-world fact:
   `Private Notes/Meta Notes/`  (Magic Item Crafting System, Rarity, Income & Gold, dungeon
   tools, etc.)
-DM REFERENCE — planning artifacts, written by **Steward** on **Showrunner**'s approved drafts:
-  `Private Notes/Meta Notes/Charters/`  (minor arc / adventure / session charters and
-  alignment scorecards — new as of this restructure; durable reference, not throwaway prep)
+DM REFERENCE — planning artifacts, written by **Steward** on **Showrunner**'s approved drafts
+(the major-arc spine is DM-owned and treated as read-only spec):
+  `Private Notes/Planning/`  (`Major Arcs.md` — the campaign's fixed, DM-owned spine of four
+  major arcs; and `Charters/` — minor arc / adventure / session charters and alignment
+  scorecards. Durable reference, not throwaway prep)
 DM REFERENCE — the corrections ledger, written/maintained solely by **Steward**, consulted by
 **Loremaster** and **Continuity Auditor**; points at canon, never replaces it:
   `Private Notes/Meta Notes/Corrections.md`  (see "Active corrections" above for the
@@ -128,7 +130,8 @@ always-loaded reminder; an entry's canonical source is the actual truth, not thi
   (`title: "Session NN:"`); my players name the sessions themselves.
 - Magic item recipes: `Magic Items/Recipes/<Item Name>.md`
 - Session prep (DM-only): `Private Notes/Session Prep/Session NN - Prep.md`
-- Arc/adventure/session charters (DM-only): `Private Notes/Meta Notes/Charters/`
+- Major-arc spine (DM-owned, read-only): `Private Notes/Planning/Major Arcs.md`
+- Arc/adventure/session charters (DM-only): `Private Notes/Planning/Charters/`
 
 ## Style
 - Player-facing voice: third person, past tense, narrative chronicle.

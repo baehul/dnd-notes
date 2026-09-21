@@ -13,3 +13,5 @@ tags:
 
 **Euhedral Echoes.** Strange rhythmic whispers accompany your dreams. If you do not speak the obscure language of these voices, the syllables grind against your mind, echoing louder and louder until you awaken exhausted.
 %% CON SAVE 20 if they do not speak Infernal%%
+
+%% This specific ring, recovered from [[Duke Ephraim Aurum]], channels contact with the Infernal-speaking Lestirmek. [[Professor Jitterhop]] wears a twin ring instead tied to Cthamgin Cthurdan (The Demons), who communicate in Abyssal — see Session 11 Notes. %%
