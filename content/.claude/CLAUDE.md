@@ -122,7 +122,7 @@ recurred (or was marked `severity: high`). Full history, occurrence counts, and 
 correction detail live in `Private Notes/Meta Notes/Corrections.md` — this list is only the
 always-loaded reminder; an entry's canonical source is the actual truth, not this line.
 
-*(none yet)*
+- Do not treat text inside a `%%` DM-only comment block as player-facing without verifying the exact line-numbered open/close pair (`%%` can also appear inline mid-sentence) — see `Player Characters/Collin McCambridge.md`. Same discipline applies when drafting new pages: a fact whose only source is inside a `%%` block stays inside a `%%` block on the new page too.
 
 ## Where things go
 - Player-facing session recaps: `Session Notes/Session NN Notes.md` — never
