@@ -61,5 +61,53 @@ since: the party unknowingly caused her turn, and she still does not know they e
 Her departure from the church is quiet. Publicly she is still presumed the House's
 scion within the [[Ecclesia Solari]].
 
+# The Library Job
+After Session 4 she secretly left the Ecclesia posting, though she is still publicly
+presumed the church's scion. The gala bluff had already primed her distrust of
+[[High Inquisitor Varius]]; the joint job below came after, and used her still-public
+status.
+
+Varius approached her for a joint job in [[The Library of Layers]]: extracting
+[[Professor Sylas Thistlethorn]]'s [[The Terramancers|Terramancy]] research. He wanted
+her help maintaining the research, using her arcane studies background. She knew the
+job was Varius's. She did NOT know it was bait (see [[High Inquisitor Varius]]).
+
+Varius, Alexandra, and Romanis (Varius's aide) crossed the swamp, the group of three
+[[The Ferryman]] describes in Session 19, and reached the Library much earlier than
+the party. She was the golden-eyed passenger he mentions. She entered the Library
+disguised as [[Mulvin Thistlethorn]], Sylas's twin brother. Sylas does NOT know it is
+her. Sylas is alive, in stasis.
+
+She undercut Varius by sending Sylas's research notes and Terramancy literature to
+[[House Aurum]] for her family's benefit, carried by her familiar, a bat. (The players
+see bats fly through the Library about hourly; the recaps do not record it. Her twin
+[[Alexander Aurum]]'s familiar is also a bat.) How the notes reach House Aurum is
+deliberately unspecified.
+
+She believes the church or Varius is subtly poisoning her. She is wrong; the real cause
+is the crystal augmentation ([[Resonance Crystals]]).
+
+Those lines stand
+as her belief and history. She has distrusted Varius since the gala, yet accepted his job
+knowing it was his. Varius is in fact now moving against her (a case for excommunication,
+not death), but not for the reason she thinks.
+
+# Crystal Corruption
+The Aurum augmentation runs Tuning (faceting, etching, exposure; see [[Resonance Crystals]]) on a living mage. The same cause afflicts all nine Aurum children. For Alexandra it is chronic, with spikes near resonance crystals. It is curable; the method is unknown (open).
+
+Baseline (concealable): prismatic doubling on hard edges; frost-white raised rune-scarring under her collar; dry acoustics; a hair of resistance off her skin; cold-mineral/ozone.
+Spikes near crystals: overt refraction; hairline fissures through air and wards; crystalline ringing; cold; sharper ozone.
+
+Stages:
+1. Power surge.
+2. Wards stick.
+3. Loss of selectivity (about where she is now).
+4. Interposition: senses muffled; cannot accept healing, touch, or food; cannot dismiss her wards.
+5. Entombment: sealed inside her own ward, alive.
+
+Her order-compulsion (Flashcard, Mannerism) is her attempt to restore the selectivity she has lost. The corruption's tells are mineral and optical, not gold; her spellcasting residue is gold (Session 25).
+
+Her belief that the church or Varius is poisoning her rests on: the ash-marking, brazier smoke, the timing of her decline, the gala, and daily prayers.
+
 # Portrait
 %%

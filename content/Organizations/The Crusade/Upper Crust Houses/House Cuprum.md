@@ -21,6 +21,7 @@ tags:
 	- [[Kashtal Kohpor]]
 - Buzzwords:
 	- A Cuprum never breaks their word
+	- Copper Anvil And Hammer
 	- *"Ours Is To Endure"* etched in everything
 	- rigid code of honor
 	- a verbal promise is as binding as any written contract

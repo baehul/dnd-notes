@@ -18,4 +18,11 @@ Varius's divine radar is currently screaming at him. Through routine interrogati
 
 Because the project is heavily shielded by the Triumvirate, Varius is currently stonewalled from conducting a formal inquisition. His absolute loyalty is to [[Solaris and The Solari Faith]], not the politicians of the Crusade. If the party can prove the Terramancers intend to literally destroy the Sun, Varius would view the Triumvirate as heretics and instantly turn his entire Paladin division against them to protect his god.
 
+## Alexandra and the Library of Layers
+Varius is a true believer in the faith. He laid bait for [[Lady Alexandra Aurum]] to betray him and the church for House Aurum's benefit, and is now collecting as much evidence as possible to build an airtight case of her disloyalty. His goal is to publicly expose and excommunicate her as a heretic, not to kill her. Excommunication would go through [[Pontifex Maximus Virtue]].
+
+The "Mulvin" who hired the party in Session 20 was Varius in disguise. The Mulvin the party met in Session 22 was the real [[Mulvin Thistlethorn]]. Varius hired the party to "discover" what happened to [[Professor Sylas Thistlethorn]], and wants them to bring back proof of who went into the Library with Sylas, as well as Sylas himself.
+
+He, Alexandra, and his aide Romanis reached the Library much earlier than the party.
+
 %%

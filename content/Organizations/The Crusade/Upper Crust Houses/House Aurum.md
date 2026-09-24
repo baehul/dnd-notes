@@ -23,6 +23,7 @@ tags:
 	- [[Aurum Schloss]]
 - Buzzwords:
 	- youngest and most aggressive great house
+	- Golden Crown above crossed sword and staff
 	- *"Born of Steel, Crowned by Gold"*
 	- martial, magical, and managerial mastery
 	- number three
@@ -60,7 +61,7 @@ The deceased ninth son of [[High Baron Magnus Aurum|Magnus Aurum]]. Was consider
 
 %%
 Trey's character
-Death was completely made up by [[High Baron Magnus Aurum|Magnus Aurum]]. Whispers have been spread that this was actually orchestrated by the [[Ecclesia Solari]] and [[High Inquisitor Varius]] to force [[High Baron Magnus Aurum|The High Baron]]'s hand
+Death was completely made up by [[High Baron Magnus Aurum|Magnus Aurum]].
 %%
 
 

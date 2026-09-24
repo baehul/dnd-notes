@@ -28,3 +28,8 @@ Seeking a safe haven, the party utilizes a contact known to Collin, [[Twilight E
 * **New NPCs:** n/a
 * **New Locations:** Rat Race Private Detective Agency, [[The Sinking City]]
 * **Loot & Acquisitions:** Golden Tooth (Contact device for [[The Ferryman]])
+%%
+### DM Secrets & Context
+* The three travellers [[The Ferryman]] describes (one small, one medium, one large) are [[High Inquisitor Varius]], [[Lady Alexandra Aurum]], and Varius's aide Romanis.
+* The "someone else with golden eyes like Collin's" whom [[The Ferryman]] recently transported is [[Lady Alexandra Aurum]].
+%%

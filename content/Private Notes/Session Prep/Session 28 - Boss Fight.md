@@ -63,42 +63,42 @@ When the last tower falls, she is fighting for the first time in her life, and s
 
 ### Triggers and Penalties — all DC 15, checked at end of turn
 
-| Tower | Save | Trigger | Damage | Rider |
-| :--- | :--- | :--- | :--- | :--- |
-| **The Anchor** | STR | Ended turn **less than 15 ft** from where it started | 3d6 bludgeoning | Knocked **prone**, Speed halved until end of next turn |
-| **The Tesla Coil** | DEX | Ended turn **within 5 ft of an ally** | 2d6 lightning to **you and every ally within 5 ft of you** | — |
-| **The Blizzard** | CON | Ended turn **more than 20 ft from every ally** | 5d6 cold | — |
-| **The Pendulum** | INT | Took the **same Action** as on the previous turn | 4d6 psychic | Lose **bonus action**; can't repeat that Action next turn |
-| **The Watcher** | WIS | Ended turn **in its line of sight** without at least half cover | 2d6 psychic | **−1d4 to all d20 tests** until end of next turn |
-| **The Repulsor** | CHA | Took **any Action other than Dash** | 2d6 force | **Pushed 15 ft** directly away |
+| Tower               | Save | Trigger                                                         | Damage                                                     | Rider                                                     |
+| :------------------ | :--- | :-------------------------------------------------------------- | :--------------------------------------------------------- | :-------------------------------------------------------- |
+| **The Anchor**      | STR  | Ended turn **less than 15 ft** from where it started            | 3d6 bludgeoning                                            | Knocked **prone**, Speed halved until end of next turn    |
+| **The Lightning Rod | DEX  | Ended turn **within 5 ft of an ally**                           | 2d6 lightning to **you and every ally within 5 ft of you** | —                                                         |
+| **The Blizzard**    | CON  | Ended turn **more than 20 ft from every ally**                  | 5d6 cold                                                   | —                                                         |
+| **The Pendulum**    | INT  | Took the **same Action** as on the previous turn                | 4d6 psychic                                                | Lose **bonus action**; can't repeat that Action next turn |
+| **The Watcher**     | WIS  | Ended turn **in its line of sight** without at least half cover | 2d6 psychic                                                | **−1d4 to all d20 tests** until end of next turn          |
+| **The Shadow**      | CHA  | Took **any Action other than Dash**                             | 2d6 force                                                  | **Pushed 15 ft** directly away                            |
 
 ### Disables — deterministic, no rolls, towers cannot be damaged
 
-| Tower | Disable | Inverts Its Own Trigger By |
-| :--- | :--- | :--- |
-| **The Anchor** | Three creatures end their turns within 10 ft **without having moved at all** | Demanding the stillness it punishes |
-| **The Tesla Coil** | Two creatures end their turns **adjacent to each other**, both within 5 ft of it | Demanding the adjacency it punishes |
-| **The Blizzard** | A creature ends its turn adjacent to it in **three consecutive rounds** — may be a different creature each round | Posting someone in the isolation it punishes |
-| **The Pendulum** | Three creatures within 10 ft each take a **different Action** in one round | Demanding the variety it denies |
-| **The Watcher** | End a round with **every party member out of its line of sight** | Demanding the invisibility it punishes |
-| **The Repulsor** | Three creatures each **Dash** and end their turns within 10 ft of it in one round | Weaponizing its own exemption |
+| Tower                 | Disable | Inverts Its Own Trigger By |
+| :-------------------- | :--------------------------------------------------------------------------------------------------------------- | :------------------------------------------- |
+| **The Anchor**        | Three creatures end their turns within 10 ft **without having moved at all** | Demanding the stillness it punishes |
+| **The Lightning Rod** | Two creatures end their turns **adjacent to each other**, both within 5 ft of it | Demanding the adjacency it punishes |
+| **The Blizzard**      | A creature ends its turn adjacent to it in **three consecutive rounds** — may be a different creature each round | Posting someone in the isolation it punishes |
+| **The Pendulum**      | Three creatures within 10 ft each take a **different Action** in one round | Demanding the variety it denies |
+| **The Watcher**       | End a round with **every party member out of its line of sight** | Demanding the invisibility it punishes |
+| **The Shadow**      | Three creatures each **Dash** and end their turns within 10 ft of it in one round | Weaponizing its own exemption |
 
 ### Party Vulnerability — from their actual sheets, at DC 15
 
-| Tower | Avg Failure | Hammers | Shrugs Off |
-| :--- | :--- | :--- | :--- |
-| Anchor (STR) | 59% | [[Collin McCambridge|Collin]], [[Twilight Emberrest]] (80%) | [[Otis Thulu]] (30%) |
-| Tesla (DEX) | 53% | [[Vaxen the Unkillable]] (65%) | [[Collin McCambridge|Collin]] (40%) |
-| Blizzard (CON) | 49% | [[Collin McCambridge|Collin]], [[Twilight Emberrest]] (65%) | [[Vaxen the Unkillable]] (35%) |
-| Pendulum (INT) | 62% | **[[Otis Thulu]], [[Vaxen the Unkillable]] (80%)** | [[Cletus Ironplow]], [[Collin McCambridge|Collin]] (35%) |
-| Watcher (WIS) | 54% | [[Cletus Ironplow]], [[Vaxen the Unkillable]] (70%) | [[Collin McCambridge|Collin]], [[Twilight Emberrest]] (35%) |
-| Repulsor (CHA) | 61% | [[Cletus Ironplow]] (80%) | [[Twilight Emberrest]] (35%) |
+| Tower          | Avg Failure | Hammers                                                      | Shrugs Off                                                   |
+| :------------- | :---------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| Anchor (STR)   | 59%         | [[Collin McCambridge\|Collin]], [[Twilight Emberrest]] (80%) | [[Otis Thulu]] (30%)                                         |
+| Tesla (DEX)    | 53%         | [[Vaxen the Unkillable]] (65%)                               | [[Collin McCambridge]] (40%)                                 |
+| Blizzard (CON) | 49%         | [[Collin McCambridge]] [[Twilight Emberrest]] (65%)          | [[Vaxen the Unkillable]] (35%)                               |
+| Pendulum (INT) | 62%         | **[[Otis Thulu]], [[Vaxen the Unkillable]] (80%)**           | [[Cletus Ironplow]], [[Collin McCambridge\|Collin]] (35%)    |
+| Watcher (WIS)  | 54%         | [[Cletus Ironplow]], [[Vaxen the Unkillable]] (70%)          | [[Collin McCambridge\|Collin]], [[Twilight Emberrest]] (35%) |
+| Shadow (CHA)   | 61%         | [[Cletus Ironplow]] (80%)                                    | [[Twilight Emberrest]] (35%)                                 |
 
 ## III. GLOBAL RULES
 
 **The Deal.** Six tower cards. At the **start of each PC's turn**, deal one **face-up**. That PC can only be affected by that tower this turn. Reshuffle every round. **A disabled tower leaves the deck permanently**, so fewer PCs are constrained each round and free turns increase as the party wins.
 
-**One exception.** The Tesla Coil's arc also strikes allies within 5 ft regardless of what card *they* hold. It is the only cross-player coupling in the system.
+**One exception.** The Lightning Rod's arc also strikes allies within 5 ft regardless of what card *they* hold. It is the only cross-player coupling in the system.
 
 **A successful save means nothing happens** — no damage, no rider.
 

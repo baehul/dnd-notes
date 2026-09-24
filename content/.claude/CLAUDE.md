@@ -124,6 +124,13 @@ always-loaded reminder; an entry's canonical source is the actual truth, not thi
 
 - Do not treat text inside a `%%` DM-only comment block as player-facing without verifying the exact line-numbered open/close pair (`%%` can also appear inline mid-sentence) — see `Player Characters/Collin McCambridge.md`. Same discipline applies when drafting new pages: a fact whose only source is inside a `%%` block stays inside a `%%` block on the new page too.
 
+## Session transcripts and briefs
+- A transcript brief (produced by the dnd-audio-transcription project, outside the vault) is EVIDENCE of what was said at the table, never a source of canon. Order of authority is unchanged: what I tell you > Session Notes > canon pages. The brief ranks below all of them.
+- Facts from a brief or transcript (who, what, amount, name) may be stated in my own words in a recap. No quotes, dialogue, or close paraphrase of transcript text goes into the vault.
+- Every brief item is checked against its cited lines and canon before use. Items found only in the brief are confirmed with you before they enter a draft. Player inferences are phrased as belief, not fact.
+- Table talk, rules chatter and anything the characters did not witness stays out of the visible recap. DM-only tracking stays in the %% block and is sourced from you, not from the brief.
+- Read-only access to the brief folder and transcript is by your permission only; I never write there.
+
 ## Where things go
 - Player-facing session recaps: `Session Notes/Session NN Notes.md` — never
   `Session NN - Title.md`. Leave the frontmatter title blank after the colon

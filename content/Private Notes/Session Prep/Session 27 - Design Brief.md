@@ -84,8 +84,7 @@ Four puzzle rooms in a row is a tutorial, not a session. These must carry it:
   telling him to turn around and forget this happened. Previews her contempt, and
   establishes that she has never once considered that someone beneath her notice might
   be the real threat. Grounded: Varius secretly hired the party and is chasing the same
-  research, and there are DM-side whispers that the [[Ecclesia Solari]] engineered
-  Eobard Aurum's "death" to force the High Baron's hand.
+  research.
   **Note:** [[Collin McCambridge]] is secretly Eobard. Whether his parentage surfaces
   here is an open DM decision — this scene is the first that naturally pressures it.
 

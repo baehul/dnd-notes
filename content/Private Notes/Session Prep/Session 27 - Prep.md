@@ -56,7 +56,7 @@ A glowing abjuration sphere encasing the override, taller than a man, pale scrip
 A pit **≈100 ft across, 60–80 ft wide**, chest-deep mud below, spanned by slick beams **about a foot wide** with **four crossing points spaced 25–30 ft apart**. The override is on the far side. **Three components** must make the crossing.
 
 **Two wards, claiming people each round:**
-> **The Ballast** — claimed creatures **cannot move** this turn. **DC 13 Strength** save. Fail: **2d6 force**, knocked **prone**.
+> **The Snare** — claimed creatures **cannot move** this turn. **DC 13 Strength** save. Fail: **2d6 force**, knocked **prone**.
 > **The Tithe** — claimed creatures **must end their turn holding nothing.** **DC 13 Dexterity** save. Fail: **2d6 force**, and the component is torn from their hands into the mud.
 
 **No damage on a successful save** — same rule as Session 28.
@@ -73,7 +73,7 @@ A pit **≈100 ft across, 60–80 ft wide**, chest-deep mud below, spanned by sl
 | Haul back onto a beam | **DC 13 Str (Athletics)**, costs half movement |
 | Recover a sunken component | **DC 14 Str (Athletics)**, one action |
 
-**How it resolves:** Tithe-claimed PCs are **carriers** (must hand off before their turn ends). Ballast-claimed PCs are **anchors** (can hold indefinitely, can't advance it). A component only moves when a carrier and an anchor are in reach of each other — so the party strings out as a bucket brigade that **re-forms every round** as the claims change.
+**How it resolves:** Tithe-claimed PCs are **carriers** (must hand off before their turn ends). Snare-claimed PCs are **anchors** (can hold indefinitely, can't advance it). A component only moves when a carrier and an anchor are in reach of each other — so the party strings out as a bucket brigade that **re-forms every round** as the claims change.
 
 **Budget 5–8 rounds.** Round one is deployment and they'll get it wrong.
 
