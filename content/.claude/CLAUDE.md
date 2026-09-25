@@ -68,14 +68,21 @@ IGNORE ALWAYS: `.obsidian/`  `.claude/`  `templates/`  (these are `ignorePattern
 `quartz.config.ts` and never publish regardless of frontmatter)
 
 ## Canon vs. prep — READ FIRST
-- The ONLY sources of truth are the CANON folders above.
+- The CANON folders above are the only source of truth for established lore, subject to the order of authority below.
 - `Private Notes/Session Prep/` is NOT canon — it records what I planned, which often changes
   or never happens. Never treat prep as evidence an event occurred, and never use it to write
   player-facing pages. Ignore `Old Sessions/` and `Old Stuff/` entirely unless I explicitly
   point you at a file.
 - To answer "what happened," use `Session Notes/`, never prep. Canon always beats prep.
-- Order of authority: what I tell you > `Session Notes/` > canon pages. Prep is not a source at
-  all — do not surface prep details as questions or ask me to reconcile them with canon.
+- Order of authority: my direct answers and rulings > the transcript brief, as evidence of what
+  was said and done at the table > raw notes I paste (player-written and paraphrased) >
+  `Session Notes/` recaps > canon pages. On what was SAID, pasted notes never override the
+  brief; if they disagree, use the brief's version and show me the disagreement, since a
+  transcript can mishear. Prep is not a source at all — do not surface prep details as
+  questions or ask me to reconcile them with canon. What happened at the table (details I
+  improvised included) is more recent than the canon pages, but it outranks a canon page only
+  where they conflict AND I have confirmed a resolution: until then, don't override either one;
+  flag the conflict to me with both versions and the cited lines, and propose a resolution.
 
 ## Player knowledge vs. DM knowledge — the actual mechanism
 - The site is built with Quartz's `RemoveDrafts` filter (see `quartz.config.ts`): a page
@@ -92,7 +99,8 @@ IGNORE ALWAYS: `.obsidian/`  `.claude/`  `templates/`  (these are `ignorePattern
 - Session recaps in `Session Notes/` DO publish, so their VISIBLE body is player-facing. DM-only
   tracking for a session goes ONLY inside the `%% ... %%` comment block, which Quartz strips
   from the published site. Never put DM-only info in the visible sections. This same `%% %%`
-  convention is already used on some `Player Characters/` pages for DM-only notes.
+  convention is already used on some `Player Characters/` pages for DM-only notes. DM-only
+  means lore only I track, never something said or done at the table.
 - For any other player-facing page, never include DM-only info: secrets, unrevealed plot, NPC
   motives the party hasn't learned, monster tactics, or anything the characters didn't witness.
   If unsure whether the party learned something, ask me before including it.
@@ -125,10 +133,13 @@ always-loaded reminder; an entry's canonical source is the actual truth, not thi
 - Do not treat text inside a `%%` DM-only comment block as player-facing without verifying the exact line-numbered open/close pair (`%%` can also appear inline mid-sentence) — see `Player Characters/Collin McCambridge.md`. Same discipline applies when drafting new pages: a fact whose only source is inside a `%%` block stays inside a `%%` block on the new page too.
 
 ## Session transcripts and briefs
-- A transcript brief (produced by the dnd-audio-transcription project, outside the vault) is EVIDENCE of what was said at the table, never a source of canon. Order of authority is unchanged: what I tell you > Session Notes > canon pages. The brief ranks below all of them.
+- A transcript brief (produced by the dnd-audio-transcription project, outside the vault) is EVIDENCE of what was said and done at the table. It ranks below my direct answers and rulings and above my pasted raw notes, `Session Notes/` recaps and canon pages as evidence of what happened. It shows that something happened; it does not by itself make it canon: session events become canon when they enter `Session Notes/` with my approval. A brief never overrides a recap or canon page automatically: where they disagree, list both versions with the cited lines and wait for my confirmed resolution.
 - Facts from a brief or transcript (who, what, amount, name) may be stated in my own words in a recap. No quotes, dialogue, or close paraphrase of transcript text goes into the vault.
 - Every brief item is checked against its cited lines and canon before use. Items found only in the brief are confirmed with you before they enter a draft. Player inferences are phrased as belief, not fact.
-- Table talk, rules chatter and anything the characters did not witness stays out of the visible recap. DM-only tracking stays in the %% block and is sourced from you, not from the brief.
+- A brief item flagged `improvised` is provenance only, not a demotion. It happened at the table, so it may go in the recap like any other item.
+- What a character or NPC says is recorded as said ("the ghost said …"), not as unattributed world fact, unless I settle it as fact. Anything I have marked as unnamed (for example the woman the ghost mentions) stays unnamed.
+- If a session event conflicts with a canon page, flag the page to me so I can decide whether it is out of date. Never override it silently, and never log it as a mistake.
+- Table talk and rules chatter stay out of the visible recap. Anything said or done in a session, including in the opening recap, is no longer secret and is never left out of the recap to keep a secret. DM-only tracking (lore only I track) stays in the %% block and is sourced from you, not from the brief.
 - Read-only access to the brief folder and transcript is by your permission only; I never write there.
 
 ## Where things go
@@ -142,6 +153,7 @@ always-loaded reminder; an entry's canonical source is the actual truth, not thi
 
 ## Style
 - Player-facing voice: third person, past tense, narrative chronicle.
+- Questions to me: plain and self-contained, one decision each. Say what the item is, why you are asking, and what happens by default if I don't answer. No internal jargon (for example 'brief-only') and no bare line ids; describe the moment in words.
 - `[[wikilinks]]`: hanging links to pages that do not exist yet are fine and useful — they let
   me create the note later. What matters is the NAME: search the vault first and match the
   established spelling exactly, and never link a proper noun you invented.
