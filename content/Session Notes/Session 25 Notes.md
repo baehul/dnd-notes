@@ -32,7 +32,7 @@ PARTY LEVELED UP TO LEVEL 7
 
 %%
 ### DM Secrets & Context
-* Otis's dream was a vision of anger sent by Luwei, whose domain is a bamboo forest: in a previous session, Otis crushed a crocodile skull with a dragon's eye embedded in it, not realizing it was a message from Luwei intended for Collin McCambridge (Luwei's chosen "eyes" outside his island). Otis destroyed it, mistaking it for a bad omen.
+* Otis's dream was a vision of anger sent by Luwei, whose domain is a bamboo forest: in Session 19 (a private aside with Collin while the rest of the party slept), Otis crushed a crocodile skull with a dragon's eye embedded in it, not realizing it was a message from Luwei intended for Collin McCambridge (Luwei's chosen "eyes" outside his island). Otis destroyed it, fearing it was something unnatural.
 * The Six-Eyed Tentacle of the Deep Icy Waters is the Aboleth the party will eventually need to track down in pursuit of an Aboleth eye.
 * The golden magical residue is the aftermath of Lady Alexandra Aurum's spellcasting — she and the gnome are still descending ahead of the party.
 %%

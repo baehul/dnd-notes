@@ -199,4 +199,6 @@ In general, your characters are going to be running into characters that are par
 # Local Notes
 
 Jonny
+
+Session 19 aside: Collin told Otis his true identity. In the same aside Otis crushed Luwei's message to Collin (the crocodile skull with the dragon's eye), not knowing what it was.
 %%

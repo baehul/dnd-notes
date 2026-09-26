@@ -111,4 +111,6 @@ Collin worked a mission with senior resistance member Rat Detective alongside tw
 Trey
 
 Resonance crystal corruption: Collin gets splitting headaches whenever he is exposed to [[Resonance Crystals]]. It is also a broader corruption: as the augmentation process continued and grew more intense, that corruption is why his magic left him. His magic has been slowly returning.
+
+Otis knows Collin's true identity (told privately in Session 19). Otis crushed Luwei's message in that aside. Luwei's anger over it surfaced in Session 26.
 %%

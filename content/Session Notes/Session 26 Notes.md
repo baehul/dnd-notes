@@ -31,7 +31,7 @@ The party pressed on into a staircase room covered in runes and laced with stagg
 %%
 ### DM Secrets & Context
 * Collin's patron is **[[Luwei]]**, the Whisper in the Reed. The party knows both his name and his title.
-* The "defaced symbol" is the crocodile skull with the embedded dragon's eye that Otis crushed (Session 25's vision) — Luwei's message to Collin, destroyed before Collin ever saw it.
+* The "defaced symbol" is the crocodile skull with the embedded dragon's eye, Luwei's message to Collin. Collin found it and Otis crushed it during Session 19's private aside, not understanding it. Session 25's dream was Luwei's anger over it.
 * The Aurum sibling descending ahead of the party is **[[Alexandra Aurum]]** — the feminine muddy footprints (Session 24) and the golden spell residue (Session 25) are hers. The layered abjuration wards fit her as well (Alexandra is a powerful abjurer). The party has now all but named her; the patron confirmed only that "a member of the house" lay further below.
 * The self-mending desk will be statted as a lair-integrated magic item; recipe page to follow.
 %%

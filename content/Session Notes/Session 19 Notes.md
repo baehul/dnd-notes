@@ -32,4 +32,5 @@ Seeking a safe haven, the party utilizes a contact known to Collin, [[Twilight E
 ### DM Secrets & Context
 * The three travellers [[The Ferryman]] describes (one small, one medium, one large) are [[High Inquisitor Varius]], [[Lady Alexandra Aurum]], and Varius's aide Romanis.
 * The "someone else with golden eyes like Collin's" whom [[The Ferryman]] recently transported is [[Lady Alexandra Aurum]].
+* The steward story Collin told the party is a cover; Collin is Eobard Aurum (see [[Collin McCambridge]]). While the rest of the party slept, Collin took Otis aside and told Otis the truth. In the same private aside, Collin found a crocodile skull with a dragon's eye embedded in it, a message from [[Luwei]], and Otis, not understanding it, crushed it out of fear that it was something unnatural. The other characters did not witness either event.
 %%
