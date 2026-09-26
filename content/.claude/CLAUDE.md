@@ -140,7 +140,8 @@ always-loaded reminder; an entry's canonical source is the actual truth, not thi
 - What a character or NPC says is recorded as said ("the ghost said …"), not as unattributed world fact, unless I settle it as fact. Anything I have marked as unnamed (for example the woman the ghost mentions) stays unnamed.
 - If a session event conflicts with a canon page, flag the page to me so I can decide whether it is out of date. Never override it silently, and never log it as a mistake.
 - Table talk and rules chatter stay out of the visible recap. Anything said or done in a session, including in the opening recap, is no longer secret and is never left out of the recap to keep a secret. DM-only tracking (lore only I track) stays in the %% block and is sourced from you, not from the brief.
-- Read-only access to the brief folder and transcript is by your permission only; I never write there.
+- Read-only access to the brief folder and transcript is by your permission only; I never write there. Standing permission: for a `/session-summary` run, the Steward may read, read-only, the whole released `C:\Users\mehul\DND\dnd-audio-transcription\state\briefs\session-NN-v2\for-notes\` folder for the session being summarized, plus `C:\Users\mehul\DND\dnd-audio-transcription\transcripts\corrected\session-NN.json`, and nothing else in that repo. If the `for-notes\` folder is missing, or its `MANIFEST.json` shows no release, say so and stop; do not read any other folder.
+- The Steward may add facts from the opening-recap check to the previous session's page only after showing me the exact diff and getting my yes.
 
 ## Where things go
 - Player-facing session recaps: `Session Notes/Session NN Notes.md` — never

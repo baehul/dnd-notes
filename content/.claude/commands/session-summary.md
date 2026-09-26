@@ -1,14 +1,21 @@
 ---
 description: Turn raw session notes into a player-facing Session Notes recap, interactively
-argument-hint: (paste your raw notes in the next message)
+argument-hint: NN [notes path] (or paste your raw notes in the next message)
 allowed-tools: Agent, SendMessage
 ---
-Paste your raw session notes in the next message.
+Usage: `/session-summary NN <notes path>`, or paste your raw session notes in the next message.
+The brief path is derived from NN:
+`C:\Users\mehul\DND\dnd-audio-transcription\state\briefs\session-NN-v2\for-notes\` (judge-blind;
+it only exists after the DM says "release"). If that folder is missing, or `MANIFEST.json` shows
+no release, say so and stop; do not read any other folder. In Stage 1 the Steward reads
+`brief.md`, `brief.json`, `opening_recap.json`, `table_names.tsv` and `MANIFEST.json` from that
+folder, and `lines.json` only for cited lines.
 
 This flow is owned end-to-end by the **Steward** subagent — grounding, timeline, drafting, and
 writing all happen inside the Steward's context, so the raw session files and canon pages never
 load into mine. My only job is to relay between you and the Steward. I do NOT read, grep, or
-glob the vault for this flow, and I do NOT draft the recap myself.
+glob the vault for this flow, and I do NOT draft the recap myself. The Orchestrator adds no
+separate review round between the Steward's draft and the DM unless the DM asks for one.
 
 Run it as a resumable loop with a SINGLE Steward instance — spawn it once, then continue it via
 SendMessage so it keeps everything it has read. Never re-spawn a fresh Steward mid-flow; that
@@ -68,6 +75,13 @@ the DM only plain, self-contained questions, one decision each: say what the ite
 are asking, and what happens by default. No internal jargon and no bare line ids; describe the
 moment in words.
 
+Return Stage 1 as ONE grouped message. First list what is included automatically: every BOTH
+item, and every NOTES-ONLY item (marked). Then ask only about BRIEF-ONLY items, CONFLICTS, and
+names the vault and the known-names list cannot identify. Each is its own plain question with a
+default, following the rule on questions above. Do not ask about anything already decided.
+
+Known names: read `table_names.tsv` from the brief folder (columns: heard, kind, resolves_to, note). A name listed there is settled: use its `resolves_to` and never ask about it. Only names not listed get a vault check and, if still unidentified, a question.
+
 Opening recap: every session opens with a player's recap, from when the DM asks who wants to
 give the session summary until he thanks them for the wonderful session summary and grants
 Inspiration. Compare it against the previous session's Session Notes page and list anything
@@ -75,11 +89,22 @@ said in the recap that the page lacks, described in plain words. List anything t
 contradicts as a question for the DM, not as an error. Do not edit the page; any edit needs
 the DM's direct approval.
 
+Working notes: `brief.md` is long and Read truncates at about 25,000 tokens, so read it in
+pages (offset and limit). `lines.json` is large: read only the cited lines with a short python
+script, never the whole file. When searching the vault, exclude `Private Notes/Session Prep`.
+When editing wrapped text, match by content across line breaks.
+
 **Stage 2 — draft.** After the DM's corrections, draft the recap in EXACTLY the structure
 below. Voice: third person, past tense, narrative chronicle. Keep story beats; leave out turns,
 distances, check types, spell names and inventory counts. Who did what may stay (for example,
 "Cletus made himself and the bag invisible"). Ground every detail in the notes
 or canon — invent nothing. Return the draft; do not write it yet.
+
+Before returning the draft, spot-check it: (1) search for quotation marks (only the
+frontmatter title may have them; quote nothing from the transcript); (2) search for numbers and
+mechanics words (turns, feet, rolls, checks, saves, slots, DC, hit points) and remove them or
+put them in plain language; (3) verify 3 to 5 claims that have no support in the DM's notes
+against the cited lines. Note anything you changed.
 
 ```
 ---
