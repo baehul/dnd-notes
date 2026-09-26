@@ -34,3 +34,7 @@ He acts as the primary supplier of money (in the form of silver taken from his i
 
 # Silver Moon
 **Silver Moon**, Mithbarakaz's home, got its name from its unusual round shape. The weight of the island, along with its icy composition, led to the island to collapse in on itself due to its own gravity during [[The Shattering of the World|The Shattering]]. Silver Moon itself has several [[Tectonic Islands]] that closely orbit it. That, along with its unusual shape, make Silver Moon incredibly difficult to access.
+
+%%
+The [[Golden Sails Trading & Shipping Company|GSC]] runs a large silver-mining operation on Silver Moon, moving silver from the moon back to the outer crest.
+%%

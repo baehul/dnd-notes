@@ -42,4 +42,7 @@ The surviving Terramancers have fractured into three distinct ideological sects 
 ### 3. Sint Zir Ba (The Aberrations)
 * **Philosophy:** Absolute Inclusivity. They want to recreate the crust by pulling *every* island and *all* people onto the new surface, ensuring no landmass or soul is left behind in the void before the ritual begins.
 * **Operations:** Currently unaligned and observing. Their inclusive, seemingly benevolent rhetoric makes them highly susceptible to a future alliance with the party or [[The Resistance]], setting the stage for a devastating betrayal.
+
+## Languages
+Primordial is the original language of terramancy and is shared by all three factions. Each faction also has its own tongue: Lestirmek speaks Infernal, Cthamgin Cthurdan speaks Abyssal, and Sint Zir Ba speaks Deep Speech.
 %%

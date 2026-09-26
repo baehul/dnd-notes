@@ -23,11 +23,6 @@ The Harmony Engine functions on the principle of Arcane Resonance. It synthesize
 %%
 
 %%
-## Activation
-The device is currently dormant. It features no buttons, levers, or command words. It is chemically and magically locked until it is exposed to a specific sonic frequency—a musical note that perfectly harmonizes with the imperceptible tone the Engine constantly emits. 
-%%
-
-%%
 # History and Development
 Development of the Harmony Engine began five years ago at the [[Sun Spire]] under the direct supervision of [[Duke Ephraim Aurum]]. 
 
@@ -42,10 +37,16 @@ It was commissioned as a competing prototype for [[Project Orchestra]]. [[House 
 ## The Theft
 The Harmony Engine is the item that [[Lancaster Slickwhistle]] stole from the [[Sun Spire]]. He realized that if [[The Crusade]] possessed the ability to seamlessly rebuild the world, they would seal the [[Upper Crust]] forever, condemning the [[In-Between Isles]] and the [[Underworld]] to eternal darkness. 
 
-Lancaster hid the Engine before his capture. It is likely stashed in a location that utilizes sound to mask the device's hum—perhaps inside a church organ, a bell tower, or submerged in a noisy waterfall.
+Lancaster hid the Engine in a scrapyard before his capture. The party later uncovered it there.
 
 ## True Capability: The Restoration
 Ephraim designed the Engine to move islands back to their *original* pre-Shattering location. The device has a "memory" of the world before the cataclysm. If activated fully, it wouldn't just fuse random islands; it would attempt to solve the jigsaw puzzle of the world.
+
+## Activation
+The Engine is fully unlocked. The [[Lair]] serves as its interface.
+
+## The Notes
+The recovered notes are written in two languages. Primordial is the original language of terramancy, shared by all the Terramancer factions. Infernal is the language of Lestirmek, the faction that helped create the Engine.
 
 ## Luwei's Interest
 [[Luwei]], the ancient green dragon of [[The Resistance]], has suspected the existence of such a device. If he learns that the Harmony Engine can create perfectly stable landmasses without violence, he will stop at nothing to acquire it for himself to hatch his egg (See: [[Luwei#The Unhatched Egg]]), potentially betraying the party to get it.
