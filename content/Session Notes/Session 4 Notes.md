@@ -11,7 +11,7 @@ The party arrived near [[The Sun Spire]] and created disguises to replace their 
 
 ### Infiltrating the Gala
 
-The party emerged near a side entrance to a [[House Aurum]] charity gala. They were intercepted by [[Master Bertram]], the head of festivities, and bluffed their way inside by claiming to represent House Aurum through[[ Lady Alexandra Aurum]]. [[Master Bertram]] directed them to the servant's quarters to acquire proper attire. During the infiltration, [[Collin McCambridge|Collin]] recognized [[Lord August Aurum]] in the crowd and appeared thoroughly shaken by the sight.
+The party emerged near a side entrance to a [[House Aurum]] charity gala. They were intercepted by [[Master Bertram]], the head of festivities, and bluffed their way inside by claiming to represent House Aurum through [[Lady Alexandra Aurum]]. [[Master Bertram]] directed them to the servant's quarters to acquire proper attire. During the infiltration, [[Collin McCambridge|Collin]] recognized [[Lord August Aurum]] in the crowd and appeared thoroughly shaken by the sight.
 
 ### The Ballroom and Eavesdropping
 

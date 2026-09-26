@@ -21,9 +21,9 @@ standing back to the House.
 
 %%
 # Flashcard
-- Visual: Human woman, mid-twenties, the Aurum blonde hair and golden eyes, kept severe and immaculate. Wears abjurer's regalia layered over church vestments she no longer respects — the sun-motifs of the [[Ecclesia Solari]] deliberately half-covered. [NEW]
-- Voice: Precise, clipped, over-controlled — the voice of someone who has rehearsed sounding worthy. Cracks into venom when the church or [[High Inquisitor Varius]] is named. [NEW]
-- Mannerism: Compulsively re-establishes order around her (straightens objects, corrects others' phrasing). Never raises a hand to fight; instead throws up wards and lets others bleed. [NEW]
+- Visual: Human woman, mid-twenties, the Aurum blonde hair and golden eyes, kept severe and immaculate. Wears abjurer's regalia layered over church vestments she no longer respects — the sun-motifs of the [[Ecclesia Solari]] deliberately half-covered.
+- Voice: Precise, clipped, over-controlled — the voice of someone who has rehearsed sounding worthy. Cracks into venom when the church or [[High Inquisitor Varius]] is named.
+- Mannerism: Compulsively re-establishes order around her (straightens objects, corrects others' phrasing). Never raises a hand to fight; instead throws up wards and lets others bleed.
 - Want: To prove her worth to [[House Aurum]] on the House's own terms and be seen as something other than a failure by its words — *"Born of Steel, Crowned by Gold."*
 - Fear: That the House's judgment of her is simply correct — that a scion who cannot fight the front lines and bend magic to war is worthless — and that she will die having proven them right.
 - Attitude: Bitter, driven, and wrong about who wronged her. Treats [[High Inquisitor Varius]] and the [[Ecclesia Solari]] as her betrayers; does not know the party exists as the true cause. Toward the party in the Library she is cold and territorial, assuming they are Varius's agents.
@@ -56,7 +56,6 @@ betrayal is why she abandoned her Ecclesia posting and returned to her family's 
 determined to finally prove her worth to House Aurum. It is also why, in the Library,
 she assumes Varius is the one hunting her. She has been wrong about her enemy ever
 since: the party unknowingly caused her turn, and she still does not know they exist.
-[NEW — the DM's premise, made explicit]
 
 Her departure from the church is quiet. Publicly she is still presumed the House's
 scion within the [[Ecclesia Solari]].
@@ -87,8 +86,7 @@ deliberately unspecified.
 She believes the church or Varius is subtly poisoning her. She is wrong; the real cause
 is the crystal augmentation ([[Resonance Crystals]]).
 
-Those lines stand
-as her belief and history. She has distrusted Varius since the gala, yet accepted his job
+She has distrusted Varius since the gala, yet accepted his job
 knowing it was his. Varius is in fact now moving against her (a case for excommunication,
 not death), but not for the reason she thinks.
 

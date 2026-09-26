@@ -1,6 +1,8 @@
 ---
 draft: false
 title: "Session 22: Trouble At The Docks"
+tags:
+  - session-notes
 ---
 ## Summary
 ### The Archives Office

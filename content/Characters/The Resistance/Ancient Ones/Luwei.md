@@ -4,7 +4,7 @@ tags:
   - ancient-ones
   - resistance
   - in-between-isles
-draft: "true"
+draft: true
 ---
 %%
 # Flashcard

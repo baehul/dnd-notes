@@ -48,11 +48,9 @@ Vase's no-books vow, the [[Ecclesia Solari]] / [[House Aurum]] tension.
    something.
 
 ## Character pages owed
-- **[[Lady Alexandra Aurum]]** — major antagonist of Session 28 with a full stat block
-  and no canon page. Referenced as a hanging link since Session 4.
-  **Naming:** `Lady Alexandra Aurum` is canonical; `Alexandra Aurum` should be a
-  frontmatter alias, matching the alias convention already used on Player Character
-  pages. Worldsmith job.
+- **[[Lady Alexandra Aurum]]** — page now exists at
+  `Characters/The Crusade/House Aurum/Lady Alexandra Aurum.md` (currently `draft: true`);
+  the `Alexandra Aurum` alias is already set.
 - **[[Professor Sylas Thistlethorn]]** — the missing gnome scholar the party was hired
   to find, and the objective of the Session 28 boss fight. Referenced as a hanging link
   since Session 20 with no page. Worldsmith job.

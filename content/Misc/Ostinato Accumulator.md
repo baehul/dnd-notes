@@ -4,7 +4,7 @@ tags:
   - magic-item
   - house-cuprum
   - crusade
-draft: "true"
+draft: true
 ---
 The **Ostinato Accumulator** is a massive industrial arcanotech engine developed by [[House Cuprum]], led by [[Lady Dagna Cuprum]], along with the advisement of [[Professor Jitterhop]] of [[Cult of the Goddess Whose Name Is Night|The Cult of Night]]. It is the primary device contracted by [[The Crusade]] to execute [[Project Orchestra]].
 
