@@ -26,7 +26,7 @@
 
 **Tower-Bound Ward.** While any tower stands, Alexandra gains the AC, saving throw and damage reduction bonuses above. She is *touchable but futile* — the party can reach her from round one and accomplish almost nothing.
 
-**Window of Vulnerability.** When a tower is disabled, her ward buckles. **Until the end of the current round she loses all tower bonuses** — base AC 15, base saves, no damage reduction. Her reactions still function.
+**Window of Vulnerability.** When a tower is disabled, her ward buckles **for one full round: until the start of the next turn of the creature that completed the disable.** During the window she loses all tower bonuses — base AC 15, base saves, no damage reduction. Every creature, her included, gets exactly one turn inside it. Her reactions still function.
 
 **Final Contingency.** When Alexandra drops to 0 hit points she falls unconscious and golden runes begin crawling outward from her body. **After 1 minute they detonate**, destroying every remaining segment of research and savaging anyone nearby. Sealing her with *Imprisonment* takes the contingency with her. Killing her outright triggers it immediately.
 
@@ -34,7 +34,7 @@
 
 **Consign (Action).** She feeds a volume of [[Professor Sylas Thistlethorn|Sylas]]'s research into golden fire. Mark **1 segment as burning**; it is consumed at the start of her next turn. *(At Contempt she does this twice per round.)*
 
-> **Any creature may use its Action to smother a burning volume**, saving that segment. *Dispel Magic* does the same at range, automatically.
+> **Any creature may use its Action to smother a burning volume** (a Utilize action), saving that segment. *Dispel Magic* does the same at range, automatically.
 
 **Control (Action).** In place of Consign, she casts one of:
 - ***Dispel Magic*** — strips a party buff or breaks concentration.
@@ -43,7 +43,7 @@
 
 ### Bonus Action
 
-**Interference.** She reaches out and **changes which tower is watching a creature** — swap that PC's dealt card for another of her choosing. She does this *after* they have seen their card and planned around it. It is entirely visible, entirely legal, and entirely infuriating. This is her signature move.
+**Interference.** She reaches out and **trades the tower cards held by two PCs.** Because cards are held a full round ahead, she does this *after* they have seen their cards and planned around them. It is entirely visible, entirely legal, and entirely infuriating. This is her signature move. If a trade hands a PC the tower they just discarded, it goes face-down under the doubled-card rule — so she gains nothing by doing it.
 
 ### Reactions — 1 / 2 / 3 per round by stage
 
@@ -63,32 +63,42 @@ When the last tower falls, she is fighting for the first time in her life, and s
 
 ### Triggers and Penalties — all DC 15, checked at end of turn
 
-| Tower               | Save | Trigger                                                         | Damage                                                     | Rider                                                     |
-| :------------------ | :--- | :-------------------------------------------------------------- | :--------------------------------------------------------- | :-------------------------------------------------------- |
-| **The Anchor**      | STR  | Ended turn **less than 15 ft** from where it started            | 3d6 bludgeoning                                            | Knocked **prone**, Speed halved until end of next turn    |
-| **The Lightning Rod | DEX  | Ended turn **within 5 ft of an ally**                           | 2d6 lightning to **you and every ally within 5 ft of you** | —                                                         |
-| **The Blizzard**    | CON  | Ended turn **more than 20 ft from every ally**                  | 5d6 cold                                                   | —                                                         |
-| **The Pendulum**    | INT  | Took the **same Action** as on the previous turn                | 4d6 psychic                                                | Lose **bonus action**; can't repeat that Action next turn |
-| **The Watcher**     | WIS  | Ended turn **in its line of sight** without at least half cover | 2d6 psychic                                                | **−1d4 to all d20 tests** until end of next turn          |
-| **The Shadow**      | CHA  | Took **any Action other than Dash**                             | 2d6 force                                                  | **Pushed 15 ft** directly away                            |
+Trigger difficulty, rider weight and damage are balanced against each other: an easy-to-avoid trigger hits hard, a hard-to-avoid one hits lightly, and a heavy rider means low damage. Every rider lasts until the end of the holder's next turn unless it is a plain condition.
+
+| Tower | Save | Trigger | Avoid | Damage | Rider |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **The Anchor** | STR | Ended turn **less than 15 ft** from where it started | Medium | 3d6 bludgeoning | Knocked **prone** |
+| **The Lightning Rod** | DEX | Ended turn **within 10 ft of an ally** | Medium | 2d6 lightning to **you and every ally within 10 ft of you** | (the splash) |
+| **The Blizzard** | CON | Ended turn **more than 20 ft from every ally** | Easy | 5d6 cold | — |
+| **The Pendulum** | INT | Took the **same Action** as on your previous turn | Hard | 2d6 thunder | **Can't take a Bonus Action** on your next turn |
+| **The Watcher** | WIS | Ended turn **in its line of sight** without at least half cover | Medium | 3d6 psychic | **−1d4 to attack rolls and ability checks** until the end of your next turn |
+| **The Shadow** | CHA | Ended turn **in the shadow** — outside the lit quadrant and off every active lit spot | Medium | 3d6 necrotic | **Can't regain hit points** until the end of your next turn |
+
+**Trigger notes**
+- **Ally** means a party member. Summons and familiars don't count.
+- **Pendulum:** Actions are the 2024 list — Attack, Dash, Disengage, Dodge, Help, Hide, Influence, Magic, Ready, Search, Study, Utilize. Every spell is Magic. Smothering a volume is Utilize. A readied action counts as Ready. Taking no Action after taking none last turn counts as a repeat.
+- **Watcher cover:** draw a ruler line from the Watcher's center to your token's center. If it crosses terrain marked as cover, you're covered. **An invisible creature is out of its sight** — safe from its trigger, and it can't count toward its disable. (Plain *Invisibility* ends when you attack or cast.)
+- **Shadow:** see the arena notes below for the lit quadrant and lit spots.
 
 ### Disables — deterministic, no rolls, towers cannot be damaged
 
-| Tower                 | Disable | Inverts Its Own Trigger By |
-| :-------------------- | :--------------------------------------------------------------------------------------------------------------- | :------------------------------------------- |
-| **The Anchor**        | Three creatures end their turns within 10 ft **without having moved at all** | Demanding the stillness it punishes |
-| **The Lightning Rod** | Two creatures end their turns **adjacent to each other**, both within 5 ft of it | Demanding the adjacency it punishes |
-| **The Blizzard**      | A creature ends its turn adjacent to it in **three consecutive rounds** — may be a different creature each round | Posting someone in the isolation it punishes |
-| **The Pendulum**      | Three creatures within 10 ft each take a **different Action** in one round | Demanding the variety it denies |
-| **The Watcher**       | End a round with **every party member out of its line of sight** | Demanding the invisibility it punishes |
-| **The Shadow**      | Three creatures each **Dash** and end their turns within 10 ft of it in one round | Weaponizing its own exemption |
+Each disable **overloads** its tower: the party floods it with the very thing it punishes, more than it can handle. A disable never requires the holder of that tower's card to break that tower's trigger.
+
+| Tower | Shape | Disable |
+| :--- | :--- | :--- |
+| **The Anchor** | Many in one round | Three party members each end their turn within 10 ft of it **without spending any movement**, in the same round |
+| **The Lightning Rod** | Chain | At the end of any turn, a **chain of party members, each within 10 ft of the next, links the Rod to Alexandra** |
+| **The Blizzard** | Relay across rounds | In **two consecutive rounds**, a *different* party member each round ends their turn adjacent to it **with no other party member within 20 ft** |
+| **The Pendulum** | Initiative streak | **Three party members in a row in initiative** each take the **same Action** and end their turn within 10 ft of it. Alexandra's turn doesn't break the streak |
+| **The Watcher** | Whole party in one wedge | At the end of any turn, **every other conscious party member stands in the same eighth of the map as the Watcher-card holder**, in its sight without cover. The holder only needs to be in that eighth |
+| **The Shadow** | Spread across the map | At the end of any turn, **all six active lit spots are occupied** by party members. If fewer than six party members are conscious, every conscious party member on an active spot is enough |
 
 ### Party Vulnerability — from their actual sheets, at DC 15
 
 | Tower          | Avg Failure | Hammers                                                      | Shrugs Off                                                   |
 | :------------- | :---------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | Anchor (STR)   | 59%         | [[Collin McCambridge\|Collin]], [[Twilight Emberrest]] (80%) | [[Otis Thulu]] (30%)                                         |
-| Tesla (DEX)    | 53%         | [[Vaxen the Unkillable]] (65%)                               | [[Collin McCambridge]] (40%)                                 |
+| Lightning Rod (DEX) | 53%    | [[Vaxen the Unkillable]] (65%)                               | [[Collin McCambridge]] (40%)                                 |
 | Blizzard (CON) | 49%         | [[Collin McCambridge]] [[Twilight Emberrest]] (65%)          | [[Vaxen the Unkillable]] (35%)                               |
 | Pendulum (INT) | 62%         | **[[Otis Thulu]], [[Vaxen the Unkillable]] (80%)**           | [[Cletus Ironplow]], [[Collin McCambridge\|Collin]] (35%)    |
 | Watcher (WIS)  | 54%         | [[Cletus Ironplow]], [[Vaxen the Unkillable]] (70%)          | [[Collin McCambridge\|Collin]], [[Twilight Emberrest]] (35%) |
@@ -96,21 +106,49 @@ When the last tower falls, she is fighting for the first time in her life, and s
 
 ## III. GLOBAL RULES
 
-**The Deal.** Six tower cards. At the **start of each PC's turn**, deal one **face-up**. That PC can only be affected by that tower this turn. Reshuffle every round. **A disabled tower leaves the deck permanently**, so fewer PCs are constrained each round and free turns increase as the party wins.
+**The Deal — two decks.** A red deck and a blue deck, each holding one card per tower. **Before initiative is rolled, each PC is assigned one card from the blue deck**, so everyone knows their first tower before the fight starts. At the **end of each PC's turn**, they discard their held card back to the deck it came from and draw from the other deck (blue → red → blue …). The card drawn at the end of one turn is the card checked at the end of that PC's next turn, so everyone sees their card a full round ahead. Every tower is dealt before any repeats, but the pairing of PC and tower is random each round.
 
-**One exception.** The Lightning Rod's arc also strikes allies within 5 ft regardless of what card *they* hold. It is the only cross-player coupling in the system.
+**Doubled cards.** If you draw the tower you just discarded, turn it **face-down**. It doesn't trigger; discard it normally at the end of your next turn.
+
+**Disabled towers.** Both of a disabled tower's cards become **blanks** (flip or mark them). A blank in a deck stays there, and drawing it is a free turn. A blank in someone's hand goes face-down at once. Both decks stay at six cards, so free turns rise by one per fallen tower.
+
+**Order at the end of a turn.** First check whether a disable has just been completed; if so, that tower's cards become blanks. **Then** check the current holder's trigger. The player whose turn completes a disable never takes damage from that tower.
 
 **A successful save means nothing happens** — no damage, no rider.
 
-**No penalty for a position you didn't choose.** Being pushed, prone, restrained or incapacitated never triggers a tower.
+**Unavoidable turns don't trigger.** A tower doesn't trigger on a turn you couldn't have avoided it: you were Incapacitated, or your Speed was 0 for the whole turn because of something you didn't choose. Conditions you give yourself — dropping prone, staying in an ally's grapple — don't count.
 
-**Only end-of-turn conditions count.** *(Reactions and readied actions are still unruled — likely resolved live by checking that PC's card.)*
+**Only your own turn counts.** Position triggers check where you end your turn; the Pendulum checks the Action you took. Reactions never count.
 
-**Towers are immune to all damage.** They have no hit points and cannot be destroyed. The unique disables are the only way through.
+**Towers are immune to all damage.** They have no hit points and cannot be destroyed. The disables are the only way through.
 
-***Dispel Magic* suppresses a tower for one round** — it deals no card — automatically, with no check. It never disables.
+***Dispel Magic* suppresses a tower until the start of the caster's next turn** — its cards don't trigger — automatically, with no check. It never disables.
 
-**The arena requires real cover.** Pillars, standing shelves, overturned stacks. The Watcher makes terrain load-bearing, and players will fight over it.
+### The Arena (Owlbear Rodeo)
+
+- **Five towers hang from the ceiling like stalactites; the Watcher rises from the floor like a stalagmite**, since it works by line of sight. **Distances to a ceiling tower are measured to its footprint** — the floor square directly beneath it. Mark each footprint on the map.
+- **The Watcher stands at the center of the room. Alexandra stands off-center.** Place cover so each piece protects from her *or* from the Watcher, rarely both.
+- **Quadrant lines** run through the center. The Watcher's **eighths** are drawn as stepped lines along the grid, each centered on a compass direction and numbered 1–8 clockwise from north. Every square belongs to exactly one eighth, and all boundaries follow grid lines, so no token ever straddles one.
+- **The lit quadrant.** One quadrant is in Alexandra's light; the other three are shadow. Mark it with a single bright shape and **rotate it one quadrant clockwise at the start of each round.**
+- **Lit spots.** Eight gold squares, **two per quadrant**. The two in the lit quadrant are inactive; the other six are active and count as light for the Shadow's trigger. In each quadrant, place the pair **about 15 ft apart** (clear of the Lightning Rod's 10 ft, inside the Blizzard's 20 ft), with **one of the pair covered from the Watcher and the other exposed**. That way filling the spots never forces anyone to break their own card.
+- **The Lightning Rod** sits far enough from Alexandra that the chain takes **4 people** (the Watcher stands on the straight line between them).
+- **Cover:** bookshelves mirrored across the vertical center line, cave pillars scattered. About **25% of each eighth** is covered from the Watcher, and every eighth keeps at least 12 exposed squares so its disable is always possible.
+- **Mark all cover pieces** before the fight.
+
+### Teaching the Disables
+
+The party has already overloaded two wards: in Session 27 they shattered the reflective sphere by all throwing stones at once, and drained the ghost's lightning ward along a line of metal to the water. Build on that.
+
+1. **Callback.** The towers carry the same gold runes as the Session 27 wards. The first disable is the real lesson; after it, every disable is just the tower's own trigger — which they know from their cards — done by many at once.
+2. **Strain.** Whenever someone *not* holding a tower's card does its forbidden thing near it, the tower visibly strains, building toward the disable. A crack marker on the tower in Owlbear, reset when progress breaks, is enough.
+   - **Anchor:** groans and sags for each creature standing still beneath it.
+   - **Lightning Rod:** sparks jump between allies near it and reach toward Alexandra, further as the chain grows.
+   - **Blizzard:** frost creeps around an isolated person beneath it, and a crack stays in the ice into the next round.
+   - **Pendulum:** its swing stutters when people near it repeat the same Action, harder as the streak grows.
+   - **Watcher:** its eye darts, unable to settle, as exposed people crowd into one wedge of its view.
+   - **Shadow:** a lit spot flares when someone stands in it and dims when it's empty.
+3. **Study.** A PC within 30 ft of a tower can take the Study action and make a **DC 15 Arcana check** to learn its disable in plain words. (Study also counts as a fresh Action for the Pendulum.)
+4. **Recoil.** Every time a tower punishes its holder, it visibly spends itself — its runes gutter and it dims before recovering. One victim costs it something; many at once should break it.
 
 ## IV. THE CLOCK
 
@@ -126,20 +164,20 @@ Progress slows the clock and raises the threat simultaneously. **The total is yo
 
 ## V. RUNNING A ROUND
 
-1. **Deal a card face-up** at the start of each PC's turn. They plan around it.
-2. Alexandra may **swap that card** with her bonus action, after they've planned.
-3. At the **end of the turn**, check only that one tower. If violated, one save, DC 15.
-4. **If a tower is disabled**, her ward buckles for the rest of the round — everyone still to act can capitalize.
-5. **On her turn**: Consign or control, plus interference.
+1. **Start of round:** rotate the lit quadrant one step clockwise.
+2. **Each PC's turn:** they play around the card they drew at the end of their last turn.
+3. **End of each PC's turn:** check for a completed disable first, then that PC's one tower. If violated, one save, DC 15. Then they discard and draw from the other deck.
+4. **If a tower is disabled**, her ward buckles for one full round — until the start of the finisher's next turn.
+5. **On her turn**: Consign or Control, plus Interference (trade two PCs' cards).
 6. **Her reactions** fire on attacks against her and on saves forced on her.
 
 ## VI. THE SHAPE OF THE FIGHT
 
 **Round one** is comprehension. Six cards land, most of them bite, and the party learns what kind of room they're standing in. Someone attacks her, watches the damage evaporate against AC 21 and −6 reduction, eats a Reprisal, and learns the other half of the lesson.
 
-**The middle** is the puzzle. Every round, six face-up cards and one question: *given what's watching each of us, who can afford which job?* The answer changes every round, which is why one player can't solve it for everybody.
+**The middle** is the puzzle. Every round, six held cards and one question: *given what's watching each of us, who can afford which job?* The answer changes every round, which is why one player can't solve it for everybody.
 
-**The first disable** is the biggest moment in the fight. Her ward drops from +6 to nothing, and for the rest of that round she is a woman in a dress standing in a burning library. Whoever hasn't acted yet unloads. Then it closes.
+**The first disable** is the biggest moment in the fight. Her ward drops from +6 to nothing, and for a full round she is a woman in a dress standing in a burning library. Everyone gets one turn to unload. Then it closes.
 
 **By Attention**, she has stopped working. She is talking to them now, and she is angry about it.
 
@@ -152,21 +190,20 @@ Progress slows the clock and raises the threat simultaneously. **The total is yo
 | | |
 | :--- | :--- |
 | Party arrival (after a short rest) | **~320 / 379** |
-| Tower damage | ~18 per round, ~180 over ten rounds |
+| Tower damage | ~18 per round, ~180 over ten rounds *(pre-revision estimate; the rebalanced penalties land near or slightly under it)* |
 | Reprisal during the endgame | ~80–100 |
 | In-combat healing available | ~70 ([[Twilight Emberrest]]'s slots don't recover on a short rest) |
 | **Margin** | **~110** |
 
-**Watch:** [[Twilight Emberrest]] has 40 maximum hit points and is the only real healer. Two Blizzards kill him and the party's sustain dies with him.
+**Watch:** [[Twilight Emberrest]] has 40 maximum hit points and is the only real healer. The Blizzard (5d6) is the tower that can hurt him most, but a healer is usually near allies, so it rarely catches him. The full-round window makes each disable worth more damage than before; if Alexandra's 230 HP falls too fast, raise it.
 
 ## STILL OPEN
 
 | Item | Note |
 | :--- | :--- |
 | **Verify *Imprisonment*'s casting time and components** | The entire endgame is built on it being 1 minute |
-| **Teaching channel for the disables** | None are deducible from observation — this is Session 27's main job |
-| Towers vs. reactions and readied actions | Probably resolved live at the table |
+| **Arena layout** | Blueprint done (70 × 70 ft, 14 × 14 squares). Build the Owlbear map from it and add the rotating lit-quadrant shape |
 | Session 27's target arrival state | ~85% health, short rest taken |
-| Whether [[Collin McCambridge|Collin]]'s parentage surfaces here | Narrative, deferred |
+| Whether [[Collin McCambridge\|Collin]]'s parentage surfaces here | Narrative, deferred |
 | **Session 29 exit item** | A single-use, one-way, local fast-travel item (a scroll) in Alexandra's robe, unused because her crystal corruption stopped her. Found after the fight whichever way it ends. Limits still to design; see `Planning Backlog.md` |
 | **Alexandra's fate** | Feeds Session 29: the debrief with Sylas and Varius, and Varius's excommunication case (K-002 in `Threads.md`) |
