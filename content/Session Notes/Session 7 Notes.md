@@ -20,7 +20,7 @@ When the [[Harmony Engine]] was dropped onto the table, it clicked into the cent
 
 ### The Aurum Assault and Escape
 
-The island was suddenly besieged by [[House Aurum]] ships, leading to the destruction of the party's remaining moored vessels. As the enemy fleet, including [[August Aurum]], began boarding, [[Vaxen the Unkillable]] utilized the [[Harmony Engine]] to hurdle a neighboring [[Tectonic Islands|Tectonic Island]] directly toward the attacking ships. 
+The island was suddenly besieged by [[House Aurum]] ships, leading to the destruction of the party's remaining moored vessels. As the enemy fleet, including [[Lord August Aurum|August Aurum]], began boarding, [[Vaxen the Unkillable]] utilized the [[Harmony Engine]] to hurdle a neighboring [[Tectonic Islands|Tectonic Island]] directly toward the attacking ships. 
 
 The Djinn Emissary managed to transport the party to the new island just as the collision occurred, launching their original island away.  [[Duke Ephraim Aurum]], desperate to reclaim the engine, launched a fireball at the group, but the awakened witch's hut absorbed the damage to protect them. The party narrowly escaped, but the battle left [[Broomhilda Bonebelly|Broomhilda]] and [[Gnarl Thulu|Gnarl]] unconscious, the Emissary surrounded, and [[Lancaster Slickwhistle|Lancaster]]'s fate uncertain.
 

@@ -5,6 +5,8 @@
 | *Starting Gold*           | 161      | 161                  |
 | 2 Ooze Cores              | 1000     | 1161                 |
 | Duke Ephraim Aurum's Safe | 3000     | 4161                 |
+| Mulvin Thistlethorn investigation, upfront payment (Session 20) | 3000 | 7161 |
+| Varius: completion payment and bonus (Session 22) | 7000 | 14161 |
 ## Income Guidelines
 
 | Level | Expected Gold Income Each Level Per Person | Expected Total Gold Earned By Level Per Person | Expected Party Gold Earned By Level |

@@ -12,7 +12,7 @@ those are real spawns, not you role-playing them. We're prepping D&D 5e (2024) s
 
 ## Grounding (do this before brainstorming)
 Spawn the **Loremaster** for a brief before we riff: where the party actually is (the LATEST
-`Session Notes/` file), plus the relevant threads, NPCs, factions, locations, and any religion/
+`Session Notes/` file), plus the relevant threads (include the matching rows in `Private Notes/Planning/Threads.md` and who knows what), NPCs, factions, locations, and any religion/
 history the idea touches — facts + file paths + exact spellings. It may pull `Private Notes/Meta
 Notes/` for mechanics/pacing. It must IGNORE `Private Notes/Session Prep/` (current and Old
 Sessions) — old prep is not canon and may never have happened. Brainstorm off that brief; you

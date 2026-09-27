@@ -33,7 +33,7 @@ Exploring [[Duke Ephraim Aurum|Duke Ephraim]]'s nearby bedroom, the party follow
 
 - [[Wolfram Zoloto]]: Head of Security for the Sun Spire, a dwarven man with a scarred eye.
 - [[Duke Ephraim Aurum]]: Governor of Sun Spire, Head of Fabrication, and the mastermind behind House Aurum's commercial dominance.
-- [[August Aurum]]: A noble of House Aurum known for his tall, brutish figure and highly potent evocation magic.
+- [[Lord August Aurum|August Aurum]]: A noble of House Aurum known for his tall, brutish figure and highly potent evocation magic.
 
 ## New Locations
 

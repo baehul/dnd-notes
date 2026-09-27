@@ -144,9 +144,11 @@ after the colon (`title: "Session NN:"`) — players name their own sessions; ne
 suggest one.
 
 **Stage 3 — write.** Only after the DM approves: write to `Session Notes/Session NN Notes.md`
-(the vault convention — NOT `Session NN - Title.md`) and apply the thread and NPC last-seen
-updates the recap implies (advance or resolve threads, bump NPC last-seen) inside the `%%`
-block. The `%%` block holds only lore the DM tracks: threads, hooks, clocks and secrets. No
+(the vault convention — NOT `Session NN - Title.md`) and update `Private Notes/Planning/Threads.md`
+(State, Status, Knows and Touched for every row the session moved; new rows at the next free ID;
+resolved rows to the archive) and bump NPC last-seen. The `%%` block holds only secrets and
+offscreen lore the DM tracks; threads, hooks and clocks live in `Threads.md`. A private aside
+between the DM and one player is recorded in both. No
 resource tracking (spell slots, expended or lost items, unstated durations) and no XP, loot or
 level logging goes in it. Report the exact path written. Do not commit or push unless
 separately asked.

@@ -9,7 +9,7 @@ with the lore already here. All content lives under this folder; work only here.
 ## The team
 Six subagents plus you (the Orchestrator) talking to me:
 
-- **Loremaster** (haiku, read-only) — retrieves established canon, returns a compact cited
+- **Loremaster** (sonnet, read-only) — retrieves established canon, returns a compact cited
   brief. The grounding step before anything is created, planned, or audited.
 - **Worldsmith** (opus, read-only, drafts to chat) — authors setting content: NPCs, locations,
   factions, lore, handouts, magic items. Reconciles every creation against existing canon.
@@ -54,8 +54,9 @@ in-world fact:
 DM REFERENCE — planning artifacts, written by **Steward** on **Showrunner**'s approved drafts
 (the major-arc spine is DM-owned and treated as read-only spec):
   `Private Notes/Planning/`  (`Major Arcs.md` — the campaign's fixed, DM-owned spine of four
-  major arcs; and `Charters/` — minor arc / adventure / session charters and alignment
-  scorecards. Durable reference, not throwaway prep)
+  major arcs; `Threads.md` — the tracker of threads, PC hooks, clocks, items and obligations,
+  and owed pages; and `Charters/` — minor arc / adventure / session charters and alignment
+  scorecards, with templates in `Charter Templates.md`. Durable reference, not throwaway prep)
 DM REFERENCE — the corrections ledger, written/maintained solely by **Steward**, consulted by
 **Loremaster** and **Continuity Auditor**; points at canon, never replaces it:
   `Private Notes/Meta Notes/Corrections.md`  (see "Active corrections" above for the
@@ -98,9 +99,16 @@ IGNORE ALWAYS: `.obsidian/`  `.claude/`  `templates/`  (these are `ignorePattern
   `draft: true`.
 - Session recaps in `Session Notes/` DO publish, so their VISIBLE body is player-facing. DM-only
   tracking for a session goes ONLY inside the `%% ... %%` comment block, which Quartz strips
-  from the published site. Never put DM-only info in the visible sections. This same `%% %%`
-  convention is already used on some `Player Characters/` pages for DM-only notes. DM-only
-  means lore only I track, never something said or done at the table.
+  from the published site. Never put DM-only info in the visible sections. DM-only
+  means lore only I track, never something said or done at the table (the one exception is a
+  private aside; see the recap rules below).
+- **Player Character pages sync from the players' Google Docs.** There, `%%` marks the
+  player's private background: hidden from the public site and from the other players, visible
+  to me. Only the final `# Local Notes` block is my own. Never edit player-authored text; the
+  sync owns it.
+- `%%` blocks on wiki pages stay in the wiki's in-world voice. No writer's notes, provenance,
+  session citations or open questions inside them; those go in the page's Local Notes or in
+  `Private Notes/Planning/Threads.md`.
 - For any other player-facing page, never include DM-only info: secrets, unrevealed plot, NPC
   motives the party hasn't learned, monster tactics, or anything the characters didn't witness.
   If unsure whether the party learned something, ask me before including it.
@@ -139,7 +147,7 @@ always-loaded reminder; an entry's canonical source is the actual truth, not thi
 - A brief item flagged `improvised` is provenance only, not a demotion. It happened at the table, so it may go in the recap like any other item.
 - What a character or NPC says is recorded as said ("the ghost said …"), not as unattributed world fact, unless I settle it as fact. Anything I have marked as unnamed (for example the woman the ghost mentions) stays unnamed.
 - If a session event conflicts with a canon page, flag the page to me so I can decide whether it is out of date. Never override it silently, and never log it as a mistake.
-- Table talk and rules chatter stay out of the visible recap. Anything said or done in a session, including in the opening recap, is no longer secret and is never left out of the recap to keep a secret. DM-only tracking (lore only I track) stays in the %% block and is sourced from you, not from the brief.
+- Table talk and rules chatter stay out of the visible recap. Anything said or done in a session, including in the opening recap, is no longer secret and is never left out of the recap to keep a secret. Exception: a private aside between me and one player is canon but stays out of the visible recap. It is recorded in the %% block and in `Private Notes/Planning/Threads.md`, with the Knows column naming the characters who know. DM-only tracking (lore only I track) stays in the %% block and is sourced from you, not from the brief.
 - Read-only access to the brief folder and transcript is by your permission only; I never write there. Standing permission: for a `/session-summary` run, the Steward may read, read-only, the whole released `C:\Users\mehul\DND\dnd-audio-transcription\state\briefs\session-NN-v2\for-notes\` folder for the session being summarized, plus `C:\Users\mehul\DND\dnd-audio-transcription\transcripts\corrected\session-NN.json`, and nothing else in that repo. If the `for-notes\` folder is missing, or its `MANIFEST.json` shows no release, say so and stop; do not read any other folder.
 - The Steward may add facts from the opening-recap check to the previous session's page only after showing me the exact diff and getting my yes.
 
@@ -151,6 +159,7 @@ always-loaded reminder; an entry's canonical source is the actual truth, not thi
 - Session prep (DM-only): `Private Notes/Session Prep/Session NN - Prep.md`
 - Major-arc spine (DM-owned, read-only): `Private Notes/Planning/Major Arcs.md`
 - Arc/adventure/session charters (DM-only): `Private Notes/Planning/Charters/`
+- Threads, PC hooks, clocks, items and obligations, owed pages (DM-only): `Private Notes/Planning/Threads.md`
 
 ## Style
 - Player-facing voice: third person, past tense, narrative chronicle.
@@ -181,6 +190,7 @@ Existing skills and commands now route through the team rather than writing dire
   approximating them.
 - `Administrative/House Rules.md`, `Administrative/Dungeon Turns Cheatsheet.md`,
   `Administrative/Session Zero.md` — player-facing mechanical/tone reference.
-- No Dataview dashboards, templates, or ledger/tracker files exist in this vault yet. Threads,
-  hooks, and clocks are currently tracked inline in Session Notes' `%% %%` blocks; if that
-  becomes unwieldy, a dedicated tracker page is a future option, not something assumed to exist.
+- No Dataview dashboards or templates exist in this vault. Threads, PC hooks, clocks, items and
+  obligations, and owed pages are tracked in `Private Notes/Planning/Threads.md` (IDs T-, H-,
+  K-, I-, P-; the Steward updates it after each session summary). Charters and scorecards live
+  in `Private Notes/Planning/Charters/`, with templates in `Charter Templates.md`.

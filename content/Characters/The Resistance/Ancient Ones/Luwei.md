@@ -1,5 +1,5 @@
 ---
-title: Luwei, The Whisper In The Reeds
+title: Luwei, The Whisper in the Reed
 tags:
   - ancient-ones
   - resistance
@@ -18,7 +18,7 @@ draft: true
 - Enemies: [[The Crusade]]
 - Capabilities: Ancient Green Dragon, can do magic of the mind and control the swamp anywhere on his [[Tectonic Islands|tectonic island]]
 %%
-**Luwei, The Whisper In The Reeds**, is an Ancient Green Dragon and a prominent member of the [[Ancient Ones]]. %%Luwei is a creature of immense age, cunning, and patience.%%He resides within the [[In-Between Isles]] on a mist-shrouded tectonic island called The Jade Fragment.
+**Luwei, The Whisper in the Reed**, is an Ancient Green Dragon and a prominent member of the [[Ancient Ones]]. %%Luwei is a creature of immense age, cunning, and patience.%%He resides within the [[In-Between Isles]] on a mist-shrouded tectonic island called The Jade Fragment.
 
 %%
 Luwei’s involvement in [[The Resistance]] is driven by a singular, deeply personal obsession: the hatching of his heir.

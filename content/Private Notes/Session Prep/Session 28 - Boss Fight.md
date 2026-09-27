@@ -168,3 +168,5 @@ Progress slows the clock and raises the threat simultaneously. **The total is yo
 | Towers vs. reactions and readied actions | Probably resolved live at the table |
 | Session 27's target arrival state | ~85% health, short rest taken |
 | Whether [[Collin McCambridge|Collin]]'s parentage surfaces here | Narrative, deferred |
+| **Session 29 exit item** | A single-use, one-way, local fast-travel item (a scroll) in Alexandra's robe, unused because her crystal corruption stopped her. Found after the fight whichever way it ends. Limits still to design; see `Planning Backlog.md` |
+| **Alexandra's fate** | Feeds Session 29: the debrief with Sylas and Varius, and Varius's excommunication case (K-002 in `Threads.md`) |
