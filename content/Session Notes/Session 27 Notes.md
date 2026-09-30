@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Session 27:"
+title: "Session 27: Tithe and Snare"
 tags:
   - session-notes
 ---

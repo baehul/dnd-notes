@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Session 26:"
+title: "Session 26: Triple D's"
 tags:
   - session-notes
 ---

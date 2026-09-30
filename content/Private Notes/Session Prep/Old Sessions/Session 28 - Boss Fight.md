@@ -10,7 +10,7 @@
 | | |
 | :--- | :--- |
 | **Armor Class** | 15 **+1 per standing tower** (21 at full) |
-| **Hit Points** | 230 |
+| **Hit Points** | 380 *(live dial, 330–420; see VII)* |
 | **Speed** | 30 ft. (she does not use it) |
 | **Damage Reduction** | **−1 per standing tower**, applied to each instance of damage |
 
@@ -189,13 +189,19 @@ Progress slows the clock and raises the threat simultaneously. **The total is yo
 
 | | |
 | :--- | :--- |
-| Party arrival (after a short rest) | **~320 / 379** |
-| Tower damage | ~18 per round, ~180 over ten rounds *(pre-revision estimate; the rebalanced penalties land near or slightly under it)* |
-| Reprisal during the endgame | ~80–100 |
-| In-combat healing available | ~70 ([[Twilight Emberrest]]'s slots don't recover on a short rest) |
-| **Margin** | **~110** |
+*Level 7 party with about half its resources left. Assumes ~13 damage per PC turn at will against AC 15, ~70 per ward window while saved resources last, and the first disable in round 2 with one every 1–1.5 rounds after.*
 
-**Watch:** [[Twilight Emberrest]] has 40 maximum hit points and is the only real healer. The Blizzard (5d6) is the tower that can hurt him most, but a healer is usually near allies, so it rarely catches him. The full-round window makes each disable worth more damage than before; if Alexandra's 230 HP falls too fast, raise it.
+| | |
+| :--- | :--- |
+| Party arrival (no rest needed) | **326 / 379** |
+| Tower damage | ~15 per round at six towers (including Interference), falling as towers drop; ~110 over the fight |
+| Reprisal | ~9 per round at Contempt, ~18 at Attention, ~27 at Alarm; ~160–190 over the fight |
+| In-combat healing available | ~40 ([[Twilight Emberrest]] has about half his slots; they don't recover on a short rest) |
+| **Margin** | **~65–95** |
+
+**Her HP is a live dial, like the clock.** Start at **380** and adjust anywhere from **330 to 420** during the fight. Aim for her to fall about **one round after the last tower**, so she gets her round of fighting alone and badly. If she's cracking early with towers still up, move toward 420; if the party is bleeding, move toward 330. Use the clock for everything else. At 230 she would fall around round 6 with three towers still standing, and the fight would never reach Alarm.
+
+**Watch:** [[Collin McCambridge|Collin]] (AC 14, 40 / 62 HP) is the likeliest to drop. Reprisal hits him about 75% of the time, he'll be attacking her, and he fails the Anchor and Blizzard often. Expect trouble around Alarm, when she has three reactions. [[Twilight Emberrest]] (AC 17, 37 / 40 HP) is safer: Reprisal hits him about 60% of the time, and only if he attacks her.
 
 ## STILL OPEN
 
@@ -203,7 +209,6 @@ Progress slows the clock and raises the threat simultaneously. **The total is yo
 | :--- | :--- |
 | **Verify *Imprisonment*'s casting time and components** | The entire endgame is built on it being 1 minute |
 | **Arena layout** | Blueprint done (70 × 70 ft, 14 × 14 squares). Build the Owlbear map from it and add the rotating lit-quadrant shape |
-| Session 27's target arrival state | ~85% health, short rest taken |
 | Whether [[Collin McCambridge\|Collin]]'s parentage surfaces here | Narrative, deferred |
 | **Session 29 exit item** | A single-use, one-way, local fast-travel item (a scroll) in Alexandra's robe, unused because her crystal corruption stopped her. Found after the fight whichever way it ends. Limits still to design; see `Planning Backlog.md` |
 | **Alexandra's fate** | Feeds Session 29: the debrief with Sylas and Varius, and Varius's excommunication case (K-002 in `Threads.md`) |
