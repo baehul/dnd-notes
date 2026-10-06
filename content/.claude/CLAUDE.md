@@ -37,6 +37,16 @@ Six subagents plus you (the Orchestrator) talking to me:
   (e.g. Adventure Designer inventing permanent lore instead of asking Worldsmith, or a draft
   that should've started with a Loremaster brief but didn't). Flag it to me rather than letting
   it slide.
+- **Spend agents deliberately.** Each subagent starts cold and re-reads the vault, so:
+  - Collect my open decisions before launching or resuming a maker (Worldsmith / Adventure
+    Designer / Showrunner). Ask them in one batch; don't start a draft I'm still changing.
+  - Run the Continuity Auditor once per build, on the locked draft, not on every revision. For a
+    quick advisory pass on a brainstorm, say so in the prompt and keep its scope narrow.
+  - Brief tightly: pass the Loremaster brief's facts with exact file paths and line numbers
+    rather than asking later agents to re-ground themselves.
+  - Small, mechanical vault edits (a row, a line swap) don't need a maker: draft the diff
+    yourself, show it to me, and hand the approved diff to the Steward.
+  - Relay my approval to the Steward by quoting my words and the exact changes approved.
 
 ## Folder map
 CANON — world lore (the truth about the world; ground all lore claims in these). Owned by

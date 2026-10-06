@@ -13,12 +13,12 @@
 ## 2. Strong start
 - **Night, deep in the Library.** The runes are keening and something just blasted below them. Sylas is sealed in crystal, and Alexandra is awake but unresponsive. The scroll she threw lies at Collin's feet.
 - **The scroll is a Scroll of Teleport** and works exactly like the 2024 spell. **House ruling:** major teleportation works *within* a tectonic island and fails *between* islands. This is the table moment that teaches it.
-  - **Who can read it:** Teleport is on the **Bard, Sorcerer and Wizard** lists. If it's on your list but above what you can cast, roll a **DC 17** ability check.
-  - **Passengers:** the caster **plus up to 8 willing creatures.** Alexandra counts as willing **only in a lucid moment**, so she has to surface to consent. Sylas in the shell: you decide on the spot whether he's a creature or an object.
+  - **Who can read it:** anyone may try. Roll a **DC 17** ability check.
+  - **Passengers:** the caster **plus up to 8 willing creatures.** Alexandra counts as willing **only in a lucid moment**, so she has to surface to consent. Sylas in the shell counts as an object, carried by a passenger (DM ruling 2026-10-05).
   - **Destinations** (stated as places they know well enough, no in-world reason needed):
     - **A.** Rat Race Private Detective Agency (city)
     - **B.** In front of Auntie Dorian's hut (swamp)
-    - **C.** The Lair
+    - **C.** The Lair. The moored Lair counts as part of the Sinking City, so the scroll works there.
   - Familiarity sets the chance of a mishap, which is optional tension for you.
 
 ## 3. Potential scenes (player-led; all landings are **rest spots with no complications**)
@@ -30,13 +30,13 @@
 - **Sylas debrief** (see NPCs). His first words are his horror. Then he says his "brother" stabbed him, while the party knows the real Mulvin was chained in Varius's warehouse.
 - **Alexandra's rites.** She's lucid only while praying at dawn, noon and dusk and while tending the fire. Joining her, or respecting the prayer, earns the next rung of her ladder.
 - **Varius (only if they go to him)** at his warehouse base. The offer is **20,000 gp for Sylas plus proof of who went into the Library with him.** They can keep Alexandra and still get paid if they testify against her.
-- **Auntie Dorian:** *tabled.* Her service and the Mudhollow cutting are still owed before they leave the region.
+- **Auntie Dorian:** *tabled.* Her service, a cursed weapon for Vaxen (design pending), is still owed before they leave the region.
 - **Leaving the island in the Lair.** This is the charter's handoff. It can slip to the next session's opening.
 
 ## 4. Secrets & clues (not tied to any location)
 1. Sylas's claim: **"Terramancy may have caused the Shattering."** They weren't its first casualties; they were at the center of a great working. *(His claim, not confirmed.)*
 2. Sylas: the Duke **didn't invent the Engine.** It comes from an older Terramancer design, and the pages that finished it were in the cut-off stacks.
-3. Sylas reading the saved diagram book (I-007) **confirms that lineage.** The party's Lair runs on the magic that may have broken the world.
+3. Sylas reading the saved diagram book (I-007): the book shows **an older design that Ephraim built on.** The Duke-did-not-invent-it claim stays Sylas's claim, not confirmed. The party's Lair runs on the magic that may have broken the world.
 4. Sylas: "If anything still knows what they became, it's the **old things in the deep**." This leads toward the aboleth.
 5. Sylas walked the whole descent with "Mulvin," who is the stabber. **The real Mulvin was in chains** (Session 22). Someone wore his face.
 6. Alexandra: the crystal corruption from the inside. She blames **the Church for poisoning the rites.**
@@ -54,7 +54,7 @@
 
 **Lady Alexandra Aurum**
 - **State:** awake but unresponsive. Lucid only during Solari rites: the dawn Greeting, the noon Exaltation, the dusk Gratitude, the hearth vigil and ash marking.
-- **Faith:** **deeply devout to Solaris,** but believes **the Church betrayed and poisoned her.** A clean fire lit by outsiders means a great deal to her.
+- **Faith:** **deeply devout to Solaris and a believer in the Church as an institution, who feels betrayed by the people within it.** A clean fire lit by outsiders means a great deal to her.
 - **Lucidity ladder** (one rung per earned moment; joining the words takes **Religion DC 12**; marking her brow with ash is the strongest trust gesture):
   1. The corruption, described from the inside
   2. The uncle is Ephraim
@@ -81,17 +81,18 @@
   - **Tier 3 (strong rapport):** "the old things in the deep."
 - **Never says:** anything about the core, the mana, their goal, survivors, "horned," sects or the Sun. "May have" stays "may have."
 - **Wants:** to tell people, to find who wore Mulvin's face, and to be reunited with Varius and Mulvin. He becomes a remote consultant ("bring me anything in Primordial") and pleads for the books.
+- **Voice:** very nervous and nasal.
 
 **High Inquisitor Varius** (only if the party seeks him out)
 - **Where:** his warehouse base.
 - **Wants:** Sylas, plus proof of who went in. He wants Alexandra excommunicated, not dead.
-- **Offers:** **20,000 gp** and Vase's holy texts. The original 10,000 is already paid.
+- **Offers:** **20,000 gp** and Vase's holy texts: a copy of the Codex Solari, handed over outright. Lay possession breaks the Codex's own law (Dawn 5:3), so the gift is leverage over Vase and shows Varius bending the rules for his own ends. The original 10,000 is already paid.
 - **Lie-reading:** he's reputed to see a lie in someone's eyes. **Deception against his Insight**, or you rule it.
 - **Hearing Sylas's claim:** to him, "a working broke the world, not Solaris" is heresy. It's a seed for his later turn, not the turn itself.
 - **Held back:** his Project Orchestra suspicions, and the mole (T-009).
-- **Voice:** TBD.
+- **Voice:** Italian accent.
 
-**Auntie Dorian:** *tabled.* Her service is the Mudhollow cutting. Its regional effect is still to be decided.
+**Auntie Dorian:** *tabled.* Her service is a cursed weapon for Vaxen, holding a bloodlusted warrior's soul that rests only by dying in battle. Design is locked (the restless blade, see I-008). **Voice:** witch doctor, in the vein of Calypso from Pirates of the Caribbean, who she is based on.
 
 ## 7. Relevant monsters
 - None planned. This is a rest session led by the players.
@@ -103,7 +104,7 @@
 - **The saved books,** including I-007
 - **The stasis knife breaks.** Nothing is recovered from it.
 
-## Table reference: Solari scripture (Worldsmith draft; name still to be chosen, working name *Codex Solari*)
+## Table reference: Codex Solari (Worldsmith draft)
 - **Greeting (Dawn 1:1–3):** "Face the east, for I return. / The eye of the world is opened, and nothing is hidden from it. / I have kept my watch through the night; rise, and be seen."
   - *Resp.:* "Welcome, Father. The eye is open. We are seen, and we are glad."
 - **Exaltation (Zenith 1:1–3):** "This is the hour of the smallest shadow…" *Resp.:* "You alone are great. We are beneath you, and it is good."
@@ -116,6 +117,4 @@
 - **Sealing (Dusk 27:3, DM-only):** "What I cannot cleanse, I seal… The sealed are not dead; they are forgotten."
 
 ## Open / tabled
-- What Auntie Dorian wants, and her reactions. The cutting's regional effect.
-- Voices for Varius, Sylas and Dorian.
-- A name for the scripture.
+- What Auntie Dorian wants, and her reactions.
