@@ -7,6 +7,13 @@
 | Duke Ephraim Aurum's Safe | 3000     | 4161                 |
 | Mulvin Thistlethorn investigation, upfront payment (Session 20) | 3000 | 7161 |
 | Varius: completion payment and bonus (Session 22) | 7000 | 14161 |
+
+## Party Gold On Hand
+
+| Date | Gold On Hand | Source | Note |
+| --- | --- | --- | --- |
+| 2026-10-10 | 8,835 | D&D Beyond party inventory | Lifetime earned 14,161; implied spent ~5,326 (spending not itemised). Add a row at each session end. |
+
 ## Income Guidelines
 
 | Level | Expected Gold Income Each Level Per Person | Expected Total Gold Earned By Level Per Person | Expected Party Gold Earned By Level |

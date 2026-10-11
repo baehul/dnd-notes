@@ -17,7 +17,7 @@ When successfully executed, this recipe results in a **Marionette's Fang**.
 %% Category B (Minor Uncommon) — grants no flight, bonus, resistance, summon, or stat bump; it only lets an existing cantrip target a conjured weapon. Collin can already cast true strike off a mundane dagger, so the real delta is the psychic blade's range and bonus-action second blade. Bump to F if that plays stronger than expected. %%
 
 ## Components
-- [ ] 1 Tooth of a Puppeteer Parasite
+- [x] 1 Tooth of a Puppeteer Parasite
 - [ ] 8 Levels of Divination Magic
 - [ ] 150 GP of powdered moonstone and drawn silver wire
 - [ ] 50 GP of nerve-quieting oil (sweet oil cut with distilled valerian)

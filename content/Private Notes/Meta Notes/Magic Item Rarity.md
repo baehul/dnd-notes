@@ -28,9 +28,9 @@ Counts toward the distribution below. Status: Held (in party hands), Used (consu
 | Party | — | Scroll of Reduce | B | S25 | Used (S25) |
 | Party | — | Scroll of Catnap | B | S25 | Used (S27) |
 | Sean | Cletus | Armor of Acid Resistance | F | — | Recipe, ready (Ooze Core in hand; armor still plain studded leather) |
-| Sean | Cletus | Pearl of Power | F | — | Recipe; component gap: Resonance-seeded pearl (I-011) |
-| Dugan | Vase | Instrument of the Bards (Doss Lute) | F | — | Recipe; planned for Vase; component gap: Darkweaver web (I-009) |
-| Trey | Collin | Marionette's Fang | B | — | Recipe; component gap: Puppeteer Parasite tooth (I-010) |
+| Sean | Cletus | Pearl of Power | F | — | Recipe; hard component: Resonance Crystal sand from Sylas's shell (I-011) |
+| Dugan | Vase | Instrument of the Bards (Doss Lute) | F | — | Recipe; planned for Vase; hard component: ettercap web, Jade Fragment (I-009) |
+| Trey | Collin | Marionette's Fang | B | — | Recipe, ready (tooth in hand) |
 | Rahul | Vaxen | the restless blade (Auntie Dorian's service) | F (G on release) | — | Planned (I-001, I-008) |
 
 ### Infusions (not counted)
@@ -45,7 +45,8 @@ Cletus's Artificer infusions do not count toward the distribution:
 - The Ring
 - Golden Tooth (I-002)
 - Residue flakes (the vial of unidentified golden magical residue, S25)
-- The self-mending desk (I-003)
+- The self-mending desk (I-003; now Self-Mending Desk recipe)
+- Keystone Lens (Harmony Engine augment)
 
 ## Distribution
 This is for a distribution for a party of 6 PC's

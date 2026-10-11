@@ -51,4 +51,7 @@ The recovered notes are written in two languages. Primordial is the original lan
 ## Luwei's Interest
 [[Luwei]], the ancient green dragon of [[The Resistance]], has suspected the existence of such a device. If he learns that the Harmony Engine can create perfectly stable landmasses without violence, he will stop at nothing to acquire it for himself to hatch his egg (See: [[Luwei#The Unhatched Egg]]), potentially betraying the party to get it.
 
+## Keys
+The Engine finds its way by the memories of those aboard: it can steer the Lair toward any place someone aboard has stood, though never reliably. To reach a place no one aboard has stood, it needs a key, an object holding the way to a single place, and an eye to read it. Fitted with the [[Keystone Lens Recipe|Keystone Lens]], whose heart is an eye of [[The Six-Eyed Tentacle of the Deep Icy Waters]], the Engine can take in a key and spend it to steer the Lair through the void there. Nothing of the key remains. The first key is the [[Ring of Restless Revelation]]. It will set the Lair's course once toward the voices that speak through it, and then it will speak no more. A strong bond with someone who stands at the place can also guide the Engine there: it follows the tie as it follows a key, though a bond is not spent in the reading. The compass the voices once spoke of is no longer a way to them; the ring and the Lens take its place.
+
 %%

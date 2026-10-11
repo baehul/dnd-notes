@@ -197,6 +197,9 @@ In general, your characters are going to be running into characters that are par
 
 ---
 # Local Notes
+Crafting reference (D&D Beyond, 2026-10-10)
+Class: Barbarian 7 (Path of the World Tree). Tools: Carpenter's.
+
 
 Jonny
 

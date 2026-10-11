@@ -108,6 +108,9 @@ Vaxen and Otis are currently tasked with rescuing [[Lancaster Slickwhistle]] and
 
 ---
 # Local Notes
+Crafting reference (D&D Beyond, 2026-10-10)
+Class: Fighter 7 (Champion). Tools: Three-Dragon Ante Set.
+
 
 
 

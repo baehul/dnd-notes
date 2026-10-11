@@ -45,6 +45,9 @@ After realizing that they were not fully ready to settle down with Dawn, as they
 
 ---
 # Local Notes
+Crafting reference (D&D Beyond, 2026-10-10)
+Class: Cleric 7 (Trickery Domain). Tools: Herbalism Kit.
+
 
 
 

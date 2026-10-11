@@ -74,6 +74,9 @@ For a resistance mission, Twilight needed to bypass a basic arcane lock. He went
 
 ---
 # Local Notes
+Crafting reference (D&D Beyond, 2026-10-10)
+Class: Artificer (Armorer) 7. Tools: Carpenter's, Leatherworker's, Smith's, Thieves', Tinker's, Weaver's.
+
 
 
 

@@ -86,6 +86,9 @@ So far, the compendium contains:
 
 ---
 # Local Notes
+Crafting reference (D&D Beyond, 2026-10-10)
+Class: Fighter 1 / Bard 6 (College of Valor). Tools: Lyre.
+
 
 
 

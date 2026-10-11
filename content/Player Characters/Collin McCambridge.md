@@ -105,6 +105,9 @@ Collin worked a mission with senior resistance member Rat Detective alongside tw
 
 ---
 # Local Notes
+Crafting reference (D&D Beyond, 2026-10-10)
+Class: Rogue 4 (Soulknife) / Wizard 3 (Diviner). Tools: Calligrapher's Supplies, Thieves' Tools.
+
 
 
 
