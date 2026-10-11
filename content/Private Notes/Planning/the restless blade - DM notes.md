@@ -2,7 +2,7 @@
 draft: true
 ---
 # the restless blade — DM notes
-Player page: [[the restless blade]] (Magic Items/). Tracker: Threads I-001, I-008. Value: Category F (Major Uncommon, permanent, 475–525 gp); Category G on release (Major Rare, permanent, 4,750–5,250 gp).
+Player page: [[The Restless Blade]] (Magic Items/). Tracker: Threads I-001, I-008. Value: Category F (Major Uncommon, permanent, 475–525 gp); Category G on release (Major Rare, permanent, 4,750–5,250 gp).
 
 ## Before publishing
 Before flipping the player page to `draft: false` after the handover, rewrite its "Auntie Dorian's Terms" paragraph to match what she actually said at the table (per the Session 29 recap), including whether she named Remove Curse.
