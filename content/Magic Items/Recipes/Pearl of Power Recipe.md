@@ -1,6 +1,6 @@
 ---
 title: Recipe for Pearl of Power
-draft: true
+draft: false
 tags:
   - magic-item
   - magic-item-recipe
@@ -14,7 +14,7 @@ When successfully executed, this recipe results in a [Pearl of Power](https://ww
 This is a variant [[Resonance Crystals|Tuning]], and it skips Faceting entirely — a pearl cannot be cut without destroying it, so the nacre's own growth rings stand in for the facets. Any crafter who has tuned a crystal before should get advantage on the final check. %%
 
 ## Components
-- [ ] 1 measure of Resonance Crystal sand, salvaged from the shell that held [[Professor Sylas Thistlethorn|Sylas]]
+- [ ] 1 measure of Resonance Crystal sand
 - [ ] 1 pearl (100 GP)
 - [ ] 12 Levels of Transmutation Magic
 - [ ] 200 GP of powdered nacre and silver salts

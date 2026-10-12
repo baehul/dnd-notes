@@ -1,6 +1,6 @@
 ---
 title: Recipe for the Keystone Lens
-draft: true
+draft: false
 tags:
   - magic-item
   - magic-item-recipe

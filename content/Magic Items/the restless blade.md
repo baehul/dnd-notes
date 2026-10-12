@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 tags:
   - magic-item
 ---
@@ -23,4 +23,4 @@ tags:
 
 A *Remove Curse* spell ends your attunement, as it would for any cursed item. It does not lay the spirit to rest.
 
-**Auntie Dorian's Terms.** When [[Auntie Dorian]] placed the blade in [[Vaxen the Unkillable|Vaxen]]'s hands, she told them the ancient magic asks for something carried in return. A restless spirit was bound within the steel, and the party was to carry it and help it find rest. She warned that breaking the binding, or casting the blade aside, would violate the old magic and anger the spirits.
+**Auntie Dorian's Terms.** When the party reminded [[Auntie Dorian]] of the debt they owed the spirits, she called it a small one: help gather berries and roots for the next morning's breakfast, and carry something for her. That something was a dark steel dagger wrapped in leather, twine and vines, holding a restless spirit in need of help finding rest. She began to offer it to [[Collin McCambridge|Collin]], then turned to [[Vaxen the Unkillable|Vaxen]] when the spirit sensed a kinship with him. Helping the spirit find rest, she said, was the only debt she asked, along with the breakfast foraging.

@@ -7,7 +7,7 @@ tags:
 ---
 When successfully executed, this recipe turns any stringed instrument into an [Instrument of the Bards](https://www.dndbeyond.com/magic-items/4657-instrument-of-the-bards). Whatever the instrument's form — lute, guitar, lyre, fiddle — the result uses the **Doss Lute** statblock.
 
-*The strings are drawn from an ettercap's web, spun where the fog never lifts, and never quite catch the light. Plucked, they throw no shadow of their own.*
+*The strings are drawn from a strange web, spun where the fog never lifts, and never quite catch the light. Plucked, they throw no shadow of their own.*
 
 %% Category F (Major Uncommon) — Uncommon rarity that grants flight and extra spells, so Major per the flowchart. Charged rather than Permanent: each spell returns at dawn.
 

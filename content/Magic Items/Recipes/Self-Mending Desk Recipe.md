@@ -1,6 +1,6 @@
 ---
 title: Recipe for the Self-Mending Desk
-draft: true
+draft: false
 tags:
   - magic-item
   - magic-item-recipe

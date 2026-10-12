@@ -1,6 +1,6 @@
 ---
 title: Recipe for Marionette's Fang
-draft: true
+draft: false
 tags:
   - magic-item
   - magic-item-recipe
