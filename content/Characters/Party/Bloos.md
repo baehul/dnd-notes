@@ -1,9 +1,9 @@
 ---
-draft: false
+draft: true
 tags:
 ---
 ![[BloosPortrait.png]]
-
+%%
 **Flashcard / Quick Reference**
 
 - **Visual:** A giant humanoid moth with soft, powdery wings and fuzzy antennae. Currently wearing a ridiculously oversized, half-eaten knit sweater.
@@ -24,7 +24,7 @@ tags:
     
 - **Capabilities:** Capable of natural flight and druidic magic, though easily distracted.
     
-
+%%
 **Background & Current Status**
 
 - Originally a druid, Bloos is currently cursed to live his life as a giant humanoid moth.
