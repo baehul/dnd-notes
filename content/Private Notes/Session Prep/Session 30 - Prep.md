@@ -28,8 +28,13 @@ Skill numbers are approximate (DM's D&D Beyond screenshots, 2026-10-10).
 - **Each PC does one thing per day:** roll on Sylas, **Help** someone's roll (advantage; 2024 rules: the helper must be proficient in the skill or tool used), craft (8 ritual hours), or a personal project. A PC who spends **half a day** on a fix can't make a rescue roll that day (the other half can go to crafting).
 - **Gates**, in order; several can fall in one day:
   - **Gate I, Read the Shell: DC 13, 3 successes.** Arcana, Investigation, Perception, Religion, or Bloos's Prismatic Perception.
-  - **Gate II, Loosen It: DC 15, 4 successes.** Thieves' or Tinker's Tools, Vase's lyre listening for resonance, Carpenter's Tools (cradle), or Arcana.
-  - **Gate III, Steady and Draw: DC 17, 4 successes.** Athletics to hold the shell, Herbalism Kit or healing, Insight or Persuasion to guide Sylas through waking, or Arcana.
+	  - 3 successes
+  - **Gate II, Loosen It: DC 15, 4 successes.** Carpenter's Tools (cradle), Thieves', Jewlers or Tinker's Tools,  (insturment) Vase's lyre listening for resonance, or Arcana.
+	  - 1 fail 
+	  - 3 success 
+  - **Gate III, Steady and Draw: DC 17, 4 successes.** ~~Athletics~~ to hold the shell, ~~Herbalism Kit~~ or medicine, ~~Insight~~ or ~~Persuasion~~ to guide Sylas through waking.
+	  - 3 success
+
 - **Every failed roll:** **+1 to the failure tally**, and roll on the current gate's complication table.
 - **End of day 6:** any missing successes complete automatically, **each +1 to the tally**. Sylas is always freed.
 - **Waking tier (by tally):**

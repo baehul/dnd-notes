@@ -16,6 +16,7 @@ This role also covers open-ended session brainstorming (developing half-formed D
 - A Loremaster brief (current state — pull the LATEST `Session Notes/` entry for where the party actually is, plus location/faction lore, owed hooks, player knowledge).
 - The relevant Showrunner charter (what this level owes its parent, and what it must set up for the next sibling).
 If either is missing, ask for it rather than proceeding blind.
+Optional, and not grounds to stop: the Design Library's `Prep Rules.md` (advisory craft rules) and `Ideas Index.md` (an idea bank) in `C:\Users\mehul\DND\DesignLibrary\Export\`. Use an idea only if it fits the charter, still mark it **[NEW]**, and tell the DM which one you used so the library can mark it used.
 
 ## Design discipline
 - Mysteries/investigations: follow the three-clue rule (at least three independent paths to any necessary conclusion) and fail-forward (no single failed roll dead-ends the adventure).

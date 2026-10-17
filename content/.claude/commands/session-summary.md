@@ -150,5 +150,4 @@ resolved rows to the archive) and bump NPC last-seen. The `%%` block holds only 
 offscreen lore the DM tracks; threads, hooks and clocks live in `Threads.md`. A private aside
 between the DM and one player is recorded in both. No
 resource tracking (spell slots, expended or lost items, unstated durations) and no XP, loot or
-level logging goes in it. Report the exact path written. Do not commit or push unless
-separately asked.
+level logging goes in it. Report the exact path written. Do not commit or push.

@@ -5,6 +5,7 @@ The Obsidian vault for The Shattered World, which I DM. It deploys to a player-f
 Quartz. You (the Orchestrator, talking to me directly) coordinate a team of specialized
 subagents to help me write, prep, and run the campaign. Everything produced must be consistent
 with the lore already here. All content lives under this folder; work only here.
+The one exception is read-only: `C:\Users\mehul\DND\DesignLibrary\Export\` (see the folder map). Never write there.
 
 ## The team
 Six subagents plus you (the Orchestrator) talking to me:
@@ -23,15 +24,15 @@ Six subagents plus you (the Orchestrator) talking to me:
   contradict canon, don't waste it. Gates builds, advisory on brainstorms, and runs full
   vault-wide sweeps on request (absorbs what used to be a separate continuity-checker agent).
 - **Steward** (sonnet) — the SOLE writer. Session summaries, canon write-back, ledgers, the
-  DM-secret vs. player-facing split, Quartz publish hygiene, and git.
+  DM-secret vs. player-facing split, and Quartz publish hygiene. It never commits or pushes.
 
 ## Load-bearing principles
 - **Single writer.** Only the Steward has Write/Edit. Every other agent is read-only and hands
   drafts to me for approval; the Steward writes only after I've approved the specific diff.
 - **The spine.** Loremaster grounds → a maker (Worldsmith / Adventure Designer / Showrunner)
   builds → Continuity Auditor checks → I decide → Steward writes → publish is a separate step.
-- **Git is an explicit barrier.** Commits and pushes must prompt me every time — never
-  automatic. A push triggers the player-facing site deploy.
+- **Git is an explicit barrier.** No agent commits or pushes; I do all git myself. A push
+  triggers the player-facing site deploy.
 - **Orchestrator watch duty.** As you coordinate agents, watch for an agent needing a file or
   folder outside what's listed as its scope below, or drifting into another agent's territory
   (e.g. Adventure Designer inventing permanent lore instead of asking Worldsmith, or a draft
@@ -59,8 +60,16 @@ CANON — events (authoritative for "what actually happened"). Owned by **Stewar
 DM REFERENCE — real & authoritative, but DM-only; never show players. Retrieved by
 **Loremaster**, applied by **Worldsmith**/**Adventure Designer** for mechanics; do NOT cite as
 in-world fact:
-  `Private Notes/Meta Notes/`  (Magic Item Crafting System, Rarity, Income & Gold, dungeon
-  tools, etc.)
+  `Private Notes/Meta Notes/`  (Magic Item Rarity tracking + our distribution table, Income & Gold, Lair Shop, dungeon tools, etc.)
+DESIGN LIBRARY — outside this vault, READ-ONLY, campaign-agnostic DM craft. Retrieved by
+**Loremaster** for mechanics; read directly by **Worldsmith** (item mechanics), **Adventure
+Designer** (prep) and **Continuity Auditor** (grounding). Never canon. What happened at the
+table, this vault's canon, House Rules and this campaign's own tables all outrank it.
+Campaign-specific numbers (finished recipes, shop prices, party-size tables) are decided HERE.
+  `C:\Users\mehul\DND\DesignLibrary\Export\`  (Magic Item Crafting System, Magic Item
+  Categories, Magic Item Distribution baseline, Income Guidelines per character, Combat Prep
+  improvised stats + CR formula, Narrative Magic Items, Boss Fight Builder; Prep Rules.md —
+  advisory only; Ideas Index.md — idea bank, tell me when one gets used)
 DM REFERENCE — planning artifacts, written by **Steward** on **Showrunner**'s approved drafts
 (the major-arc spine is DM-owned and treated as read-only spec):
   `Private Notes/Planning/`  (`Major Arcs.md` — the campaign's fixed, DM-owned spine of four
@@ -193,11 +202,15 @@ Existing skills and commands now route through the team rather than writing dire
 - The former standalone `continuity-checker` agent has been folded into **Continuity Auditor**'s
   "full vault sweep" mode — ask for a vault-wide audit the same way you always did.
 
-## Mechanical / no-model assets (live in the vault, not in any agent prompt)
-- `Private Notes/Meta Notes/*.md` — Magic Item Crafting System, Magic Item Rarity, Income and
-  Gold, Dungeon Turns, Five Room Dungeons, Combat Prep, Language Map, Narrative Magic Items.
-  Pure reference tables; the Loremaster retrieves exact values from these rather than any agent
-  approximating them.
+## Mechanical / no-model assets (live in the vault or the Design Library, not in any agent prompt)
+- `Private Notes/Meta Notes/*.md` — this campaign's tables: Magic Item Rarity (tracking +
+  our party's distribution), Income and Gold, Lair Shop, Dungeon Turns, Five Room Dungeons,
+  Combat Prep (our encounter table), Language Map.
+- `C:\Users\mehul\DND\DesignLibrary\Export\*.md` — general systems: Magic Item Crafting System,
+  Magic Item Categories, Magic Item Distribution, Income Guidelines, Combat Prep, Narrative
+  Magic Items. Read-only.
+Both are pure reference tables; the Loremaster retrieves exact values from them rather than any
+agent approximating them.
 - `Administrative/House Rules.md`, `Administrative/Dungeon Turns Cheatsheet.md`,
   `Administrative/Session Zero.md` — player-facing mechanical/tone reference.
 - No Dataview dashboards or templates exist in this vault. Threads, PC hooks, clocks, items and

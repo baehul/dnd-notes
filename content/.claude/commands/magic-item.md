@@ -18,11 +18,11 @@ and bring the recipe to me for approval. Be precise; no in-character dialogue.
      choose one before the full recipe is generated.
    - Ambiguous → ask me which I meant before dispatching.
 2. **Spawn the Loremaster** to pull the mechanics as exact table lookups (never approximated):
-   - `Private Notes/Meta Notes/Magic Item Crafting System.md` — the "DM Guide: Balancing the
-     System" table (Costs, Time, DC, Magic Levels). Values used EXACTLY.
-   - `Private Notes/Meta Notes/Magic Item Rarity.md` — the "Quick Decision Flowchart" to assign
-     Category (A–I) and rarity if I didn't give one.
-   - `Private Notes/Meta Notes/Narrative Magic Items.md` — narrative grounding.
+   - `C:\Users\mehul\DND\DesignLibrary\Export\Magic Item Crafting System.md` — the "DM Guide:
+     Balancing the System" table (Costs, Time, DC, Magic Levels). Values used EXACTLY.
+   - `C:\Users\mehul\DND\DesignLibrary\Export\Magic Item Categories.md` — the "Quick Decision
+     Flowchart" to assign Category (A–I) and rarity if I didn't give one.
+   - `C:\Users\mehul\DND\DesignLibrary\Export\Narrative Magic Items.md` — narrative grounding.
    - Plus the format of a few existing `Magic Items/Recipes/` files, and any campaign-specific
      sources/crafters/materials the item touches. If the vault differs from anything below, THE
      VAULT WINS — have the Loremaster flag it.

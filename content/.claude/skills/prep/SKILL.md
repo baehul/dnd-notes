@@ -13,8 +13,9 @@ those are real spawns, not you role-playing them. We're prepping D&D 5e (2024) s
 ## Grounding (do this before brainstorming)
 Spawn the **Loremaster** for a brief before we riff: where the party actually is (the LATEST
 `Session Notes/` file), plus the relevant threads (include the matching rows in `Private Notes/Planning/Threads.md` and who knows what), NPCs, factions, locations, and any religion/
-history the idea touches — facts + file paths + exact spellings. It may pull `Private Notes/Meta
-Notes/` for mechanics/pacing. It must IGNORE `Private Notes/Session Prep/` (current and Old
+history the idea touches — facts + file paths + exact spellings. It may pull `Private Notes/Meta Notes/` and `C:\Users\mehul\DND\DesignLibrary\Export\` for
+mechanics/pacing, and should list, in a separate 'Design Library (advisory)' section apart from
+the canon facts, any Prep Rules and Ideas Index entries that fit the session. It must IGNORE `Private Notes/Session Prep/` (current and Old
 Sessions) — old prep is not canon and may never have happened. Brainstorm off that brief; you
 may spot-check canon directly (Read/Grep) for a quick fact mid-flow, but the heavy read is the
 Loremaster's.

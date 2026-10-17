@@ -8,13 +8,13 @@
     ],
     "ask": [
       "Write",
-      "Edit",
-      "Bash(git commit:*)",
-      "Bash(git push:*)"
+      "Edit"
     ],
     "deny": [
       "Bash(rm -rf:*)",
-      "Bash(git reset --hard:*)"
+      "Bash(git reset --hard:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
     ],
     "defaultMode": "default"
   }

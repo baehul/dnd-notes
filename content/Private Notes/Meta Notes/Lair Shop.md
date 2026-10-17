@@ -1,6 +1,6 @@
 # Lair Shop: Sylas's Library in Exile
 
-DM reference for [[Professor Sylas Thistlethorn]]'s shop aboard the Lair. Prices for magic items come from [[Magic Item Rarity]] (Cost table); recipe numbers come from [[Magic Item Crafting System]]. Hard components are never sold (Crafting System, Pillar 1); Sylas sells only leads to them.
+DM reference for [[Professor Sylas Thistlethorn]]'s shop aboard the Lair. Prices for magic items come from the Design Library's Magic Item Categories (Cost table); recipe numbers come from the Design Library's Magic Item Crafting System (`C:\Users\mehul\DND\DesignLibrary\Export\`). Hard components are never sold (Crafting System, Pillar 1); Sylas sells only leads to them.
 
 ## Core rules
 - **Restock:** the catalog refreshes once each time the Lair moors at a new island. Nothing refreshes while underway.
@@ -48,10 +48,10 @@ DM reference for [[Professor Sylas Thistlethorn]]'s shop aboard the Lair. Prices
 | Woodcarver's Tools | 1 gp |
 | Healer's Kit | 6 gp |
 
-**Jeweler's Tools note (DM default 2026-10-10):** nobody in the party is proficient. Owning the tools lets a crafter make the check, but without proficiency they add no Proficiency Bonus. The Arcana-check fallback from [[Magic Item Crafting System]] (line 65) also applies. The Pearl's final check (DC 14) is Stone/Gemcraft, which uses STR. A helper grants advantage under the Crafting System's group-check guidance. The Pearl recipe also grants advantage to a crafter who has tuned a crystal before. A helper's advantage and the tuner's advantage do not stack. The Fang uses Jeweler's Tools only in step 2, which has no check; its final check is the psychic blade (DC 13).
+**Jeweler's Tools note (DM default 2026-10-10):** nobody in the party is proficient. Owning the tools lets a crafter make the check, but without proficiency they add no Proficiency Bonus. The Arcana-check fallback (Design Library: Magic Item Crafting System, Pillar 3) also applies. The Pearl's final check (DC 14) is Stone/Gemcraft, which uses STR. A helper grants advantage under the Crafting System's group-check guidance. The Pearl recipe also grants advantage to a crafter who has tuned a crystal before. A helper's advantage and the tuner's advantage do not stack. The Fang uses Jeweler's Tools only in step 2, which has no check; its final check is the psychic blade (DC 13).
 
 ## Magic items
-- **Rotation:** three items per restock, leaning on Category A and B. Category F is nearly at its distribution cap (11 through level 10, [[Magic Item Rarity]] lines 55-56), so F appears only occasionally. A single Category C display piece is optional, at most once per arc.
+- **Rotation:** three items per restock, leaning on Category A and B. Category F is nearly at its distribution cap (11 through level 10, [[Magic Item Rarity#Distribution]], rows 1–4 and 5–10), so F appears only occasionally. A single Category C display piece is optional, at most once per arc.
 - **Price:** inside the band for the item's category and type (Single / Limited / Charged / Permanent), at the low end for Lair-mates, never above the band's ceiling.
 - **Spell scrolls** stand in for Magic Levels: 1st level = Category A Single; 2nd–3rd level = Category B Single.
 - **Distribution:** purchases count toward the level 5–10 distribution. Category B has the most room.
