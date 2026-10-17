@@ -8,23 +8,7 @@ with the lore already here. All content lives under this folder; work only here.
 The one exception is read-only: `C:\Users\mehul\DND\DesignLibrary\Export\` (see the folder map). Never write there.
 
 ## The team
-Six subagents plus you (the Orchestrator) talking to me:
-
-- **Loremaster** (sonnet, read-only) — retrieves established canon, returns a compact cited
-  brief. The grounding step before anything is created, planned, or audited.
-- **Worldsmith** (opus, read-only, drafts to chat) — authors setting content: NPCs, locations,
-  factions, lore, handouts, magic items. Reconciles every creation against existing canon.
-- **Adventure Designer** (sonnet, read-only, drafts to chat) — builds adventures (3-4 session
-  plot points) and individual sessions from Showrunner charters; also the session-brainstorm
-  partner before anything is locked into a plan.
-- **Showrunner** (opus, read-only, drafts to chat) — owns charters and alignment across minor
-  arc / adventure / session. Checks vertical fit (serves its parent, up to the fixed DM-owned
-  major arc) and horizontal handoff (sets up the next sibling).
-- **Continuity Auditor** (opus, read-only) — adversarial check in both directions: don't
-  contradict canon, don't waste it. Gates builds, advisory on brainstorms, and runs full
-  vault-wide sweeps on request (absorbs what used to be a separate continuity-checker agent).
-- **Steward** (sonnet) — the SOLE writer. Session summaries, canon write-back, ledgers, the
-  DM-secret vs. player-facing split, and Quartz publish hygiene. It never commits or pushes.
+Six subagents (definitions in `.claude/agents/`) plus you (the Orchestrator) talking to me.
 
 ## Load-bearing principles
 - **Single writer.** Only the Steward has Write/Edit. Every other agent is read-only and hands
@@ -108,10 +92,8 @@ IGNORE ALWAYS: `.obsidian/`  `.claude/`  `templates/`  (these are `ignorePattern
 - The site is built with Quartz's `RemoveDrafts` filter (see `quartz.config.ts`): a page
   publishes unless its frontmatter has `draft: true`. There is no ExplicitPublish/`publish:
   true` mechanism in this vault — don't use that key.
-- **Every currently-publishing page in the vault now carries `draft: false` explicitly** (added
-  during this restructure, purely for clarity/searchability — functionally identical to
-  omitting the key). Keep writing it explicitly on new player-facing pages so the convention
-  holds.
+- Write `draft: false` explicitly on new player-facing pages (every publishing page already
+  carries it; functionally identical to omitting the key).
 - Player-facing = a page NOT under an ignored folder (`Private Notes/`, `.claude/`,
   `.obsidian/`, `templates/`) AND without `draft: true`.
 - DM-only = anything under `Private Notes/` (incl. `Meta Notes/`) OR any page with
@@ -131,9 +113,6 @@ IGNORE ALWAYS: `.obsidian/`  `.claude/`  `templates/`  (these are `ignorePattern
 - For any other player-facing page, never include DM-only info: secrets, unrevealed plot, NPC
   motives the party hasn't learned, monster tactics, or anything the characters didn't witness.
   If unsure whether the party learned something, ask me before including it.
-- `Administrative/`, `Lair/`, and `Misc/` publish and were reviewed during this restructure —
-  only `Misc/Ostinato Accumulator.md` held a real DM secret (Project Orchestra), and it was
-  already correctly marked `draft: true`. Nothing else in those three folders needed a change.
 - Publish hygiene: the draft filter applies to MARKDOWN ONLY — images/maps/PDFs under `Images/`
   emit publicly regardless of any page's draft state. Keep secret handouts/maps out of `Images/`
   entirely if they'd reveal something; there's no per-asset draft flag.
@@ -202,18 +181,7 @@ Existing skills and commands now route through the team rather than writing dire
 - The former standalone `continuity-checker` agent has been folded into **Continuity Auditor**'s
   "full vault sweep" mode — ask for a vault-wide audit the same way you always did.
 
-## Mechanical / no-model assets (live in the vault or the Design Library, not in any agent prompt)
-- `Private Notes/Meta Notes/*.md` — this campaign's tables: Magic Item Rarity (tracking +
-  our party's distribution), Income and Gold, Lair Shop, Dungeon Turns, Five Room Dungeons,
-  Combat Prep (our encounter table), Language Map.
-- `C:\Users\mehul\DND\DesignLibrary\Export\*.md` — general systems: Magic Item Crafting System,
-  Magic Item Categories, Magic Item Distribution, Income Guidelines, Combat Prep, Narrative
-  Magic Items. Read-only.
-Both are pure reference tables; the Loremaster retrieves exact values from them rather than any
-agent approximating them.
-- `Administrative/House Rules.md`, `Administrative/Dungeon Turns Cheatsheet.md`,
-  `Administrative/Session Zero.md` — player-facing mechanical/tone reference.
-- No Dataview dashboards or templates exist in this vault. Threads, PC hooks, clocks, items and
-  obligations, and owed pages are tracked in `Private Notes/Planning/Threads.md` (IDs T-, H-,
-  K-, I-, P-; the Steward updates it after each session summary). Charters and scorecards live
-  in `Private Notes/Planning/Charters/`, with templates in `Charter Templates.md`.
+## Mechanical reference tables
+The `Private Notes/Meta Notes/` tables and the Design Library are pure reference tables; the
+Loremaster retrieves exact values from them rather than any agent approximating them. The
+Steward updates `Private Notes/Planning/Threads.md` after each session summary.
