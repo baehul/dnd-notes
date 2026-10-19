@@ -15,13 +15,13 @@ Free of the Library and already sailing for Luwei's island, the party frees Syla
 
 ## Milestones
 - [ ] **Sylas freed; the shop opens.** In the Session 30 downtime, under way, Sylas is freed through a three-gate skill challenge that fails forward. He wakes with a clean memory gap and opens his shop with an opening stock: leads, soft components and magic items. The first recipes are built; the Keystone Lens is not. (T-006 resolve, T-031 plant, T-025 kept open)
-- [ ] **Luwei's terms land.** The Lair moors at the Jade Fragment, its first mooring and the shop's first restock. Luwei asks two things: the Restitution (Otis carries a sealed coffer of Whisper Reeds, adapted to deep icy water, as a gift for the aboleth) and the Ledger (proof of Mithbarakaz's double-dealing). He names the hydrosphere as the gift's destination. His leave lets the party hunt the Ettercap there for the Bards web. (T-001 advance, T-002 advance, I-009)
+- [ ] **Luwei's terms land.** The Lair moors at the Jade Fragment. Luwei puts Collin through a trial to put him back in his place, then asks for the Ledger (proof of Mithbarakaz's double-dealing) and hints that the money for the aboleth's favor must come from Mithbarakaz. He asks Collin what Alexandra's fate should be. (T-001 advance, T-002 advance)
 - [ ] **Windmill Island and Silver Moon.** Vase's homecoming (needs the player's buy-in). Clay Argilla appears. Evidence of Mithbarakaz's double-dealing surfaces but is not resolved. (H-006 service, T-017 plant)
 - [ ] **The Deep Hull relic** is taken from Mithbarakaz's hoard, forcing the Silver Moon visit.
 - [ ] **The Deep Hull is built** as a downtime recipe on the trip to the hydrosphere. The Lair seals itself into an enclosed, reinforced shell to pass the Membrane.
 - [ ] **Dawn and the way down.** Twilight learns that Dawn is at the hydrosphere doing research. *DM only: the Engine steers the Lair there by Twilight's personal bond with her; the mechanism is the DM's.* H-003 is served, not resolved, and T-009 stays open. How she came to be there is an open item. (H-003 service, I-014)
 - [ ] **A deliberate character beat** for Collin (H-001) and room for Vaxen's blade (I-008). Twilight's beat is Dawn (above). Cletus's beat (H-005) is the Keystone Lens, the arc's final beat; it is never built in Session 30.
-- [ ] **The hydrosphere.** The party delivers the coffer. Otis's restitution is complete, and the reeds, which link to Luwei wherever they grow, become a listening post in the aboleth's home. (T-002 resolve)
+- [ ] **The hydrosphere.** The party reaches the aboleth's home and pays for its favor with the money from Mithbarakaz.
 - [ ] **The eye.** The Six-Eyed Tentacle of the Deep Icy Waters grants a boon in exchange for the great gift: one of its eyes, the hard component of the Keystone Lens. It does not locate anything by itself. (T-004 resolve, H-005 advance, T-012 advance)
 - [ ] **Word of the church's move against Alexandra** reaches the party at a later mooring while she is with them. Varius builds his case without the party, since no evidence was handed over (Session 29 Notes.md:15). (K-002, T-014, T-005)
 - [ ] **Final beat: the Lens and the first key.** On the voyage out of the hydrosphere, Cletus builds the Keystone Lens (Category G, one week of downtime). The ring is offered and sets the Lair's course once toward the voices that speak through it, then speaks no more. The arc ends as the course is set; arrival belongs to the next sibling. (H-005 resolve, I-012 spent, I-014, T-015 resolve)
@@ -30,13 +30,13 @@ Free of the Library and already sailing for Luwei's island, the party frees Syla
 Deliver Arc 2 the means to reach the Terramancers (T-012): the aboleth's eye, built into the Keystone Lens, spends the ring as the first key (I-014). The compass (T-028) is with House Aurum and is not a route. This fulfils the "find them" beat of "The Terramancers' Bargain"; the bargain itself belongs to the next sibling. The Ledger strand is Arc 3 material arriving early: it seeds a fault line among the Resistance that the party must broker later.
 
 ## Horizontal obligation
-Hand the next sibling a party with the Keystone Lens fitted and the ring spent, the Lair already sailing on the course the ring set. Arrival and the bargain belong to the next sibling. Leave live: Luwei's leverage over Collin and his seeded Engine co-opt; the listening post; Mithbarakaz's double-dealing (unresolved); the unidentified mole (T-009); Dawn (H-003); Sylas's lost discovery (T-031); and the compass with House Aurum (T-028, dormant).
+Hand the next sibling a party with the Keystone Lens fitted and the ring spent, the Lair already sailing on the course the ring set. Arrival and the bargain belong to the next sibling. Leave live: Luwei's leverage over Collin and his seeded Engine co-opt; Mithbarakaz's double-dealing (unresolved); the unidentified mole (T-009); Dawn (H-003); Sylas's lost discovery (T-031); and the compass with House Aurum (T-028, dormant).
 
 ## In play
 - **Threads:** T-001, T-002, T-004, T-005, T-006, T-007, T-009 (kept open), T-012, T-014, T-015, T-017, T-025 (kept open), T-028 (dormant), T-030, T-031; K-002.
 - **PC hooks:** H-006 (primary), H-003 (Dawn), H-005 (the Keystone Lens, final beat), H-001; H-002 and H-004 (Vaxen is back with the party as of Session 28); H-008 (Otis's leaf, available).
-- **Items:** the Harmony Engine and the Lair; I-003 (the desk, a Lair-addition recipe); I-008 (the restless blade; Auntie Dorian's service continues through it); I-009 (the Ettercap web, from the Jade Fragment); I-011 (sand from Sylas's shell); I-012 (the ring, the first key); I-013 (Otis's leaf); I-014 (the key system).
-- **New:** the Deep Hull relic, the coffer, the aboleth eye, the Keystone Lens (recipe written, P-016), Sylas's shop.
+- **Items:** the Harmony Engine and the Lair; I-003 (the desk, a Lair-addition recipe); I-008 (the restless blade; Auntie Dorian's service continues through it); I-011 (sand from Sylas's shell); I-012 (the ring, the first key); I-013 (Otis's leaf); I-014 (the key system).
+- **New:** the Deep Hull relic, the aboleth eye, the Keystone Lens (recipe written, P-016), Sylas's shop.
 
 ## Entry conditions (from Session 29)
 Session 29 ended with the party back at its own island (Session 29 Notes.md:61). When Session 30 opens, the Lair is under way, bound for the Jade Fragment, Luwei's island, and all of Session 30's downtime happens under way (DM, 2026-10-11). The party holds the Harmony Engine and the Lair, the self-mending desk, the Puppeteer Parasite tooth, Otis's leaf and the ring (with Vase). Vaxen carries the restless blade (I-008), and Auntie Dorian's service continues through it as a long-term quest. Sylas is still sealed in his shell (T-006), and there is no shop until he is freed. Alexandra is with the party, neither captive nor free on the record (T-005). The party did not return to Varius (Session 29 Notes.md:15), and he builds his case without them (K-002). The compass is with House Aurum (T-028).
@@ -53,7 +53,7 @@ Session 29 ended with the party back at its own island (Session 29 Notes.md:61).
 - Published Lair pages must never mention Luwei, reeds or hive-minds.
 
 ## Risks
-- **Fetch-chain fatigue.** Sylas, then Luwei and the Ettercap, then Mithbarakaz, then the hydrosphere, then the Lens. Give each leg its own dramatic core: Sylas's waking; Vase's homecoming and Clay's intrigue; Dawn and the aboleth as an awe-and-dread scene; the ring's last reading.
+- **Fetch-chain fatigue.** Sylas, then Luwei's trial, then Mithbarakaz, then the hydrosphere, then the Lens. Give each leg its own dramatic core: Sylas's waking; Vase's homecoming and Clay's intrigue; Dawn and the aboleth as an awe-and-dread scene; the ring's last reading.
 - **Vase's private background.** Windmill Island's hideout, Clay's device, Shrine Island and Teapot are Vase's player's private material. Get his buy-in first.
 - **Twilight's background.** Dawn is in Twilight's player-authored background (Twilight Emberrest.md:40-42). Get the player's buy-in before she appears at the hydrosphere.
 - **The GSC tracks every Weavesilk sail.** Decide whether the Lair is trackable, since the arc passes through GSC-heavy places.
@@ -62,10 +62,10 @@ Session 29 ended with the party back at its own island (Session 29 Notes.md:61).
 - **Under-served characters.** Twilight's beat is Dawn (H-003). Vaxen carries the restless blade (I-008) and needs room for it.
 
 ## New permanent lore this arc needs (Worldsmith)
-The Six-Eyed Tentacle of the Deep Icy Waters (character page); the aboleth eye (covered by the Keystone Lens recipe, P-016); Whisper Reeds adapted to deep icy water and the coffer (extends Luwei's page); the Deep Hull relic and mechanism (a Lair capability); the aboleth's hydrosphere; Clay Argilla; Windmill Island and Shrine Island (only in Vase's private notes today); Mithbarakaz's double-dealing (reconcile with his flashcard; T-017, P-011); Auntie Dorian (P-007); the restless blade (I-008; drafted, publishes on handover); Dawn (P-015); the Harmony Engine's Keys section, reconciled for steering by a bond (P-017).
+The Six-Eyed Tentacle of the Deep Icy Waters (character page); the aboleth eye (covered by the Keystone Lens recipe, P-016); the Deep Hull relic and mechanism (a Lair capability); the aboleth's hydrosphere; Clay Argilla; Windmill Island and Shrine Island (only in Vase's private notes today); Mithbarakaz's double-dealing (reconcile with his flashcard; T-017, P-011); Auntie Dorian (P-007); the restless blade (I-008; drafted, publishes on handover); Dawn (P-015); the Harmony Engine's Keys section, reconciled for steering by a bond (P-017).
 
 ## Open items
-The Deep Hull relic and how it is obtained; the terms of the aboleth's boon beyond the coffer; how Dawn came to be inside an isolationist hydrosphere (the DM's call); how Twilight learns she is there; whether the Lair is trackable.
+The Deep Hull relic and how it is obtained; the aboleth's price, paid with Mithbarakaz's money; how Dawn came to be inside an isolationist hydrosphere (the DM's call); how Twilight learns she is there; whether the Lair is trackable.
 
 ## Scorecard
 Score against this charter when the arc closes, using the scorecard template in `Charter Templates.md`.
