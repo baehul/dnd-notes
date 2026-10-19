@@ -1,3 +1,5 @@
+
+
 ## Income Tracking
 
 | Description               | GP Value | Lifetime Gold Earned |

@@ -2,9 +2,9 @@
 tags:
   - session-prep
 ---
-# Session 31 — Prep (Lazy DM)
+ # Session 31 — Prep (Lazy DM)
 
-**Party:** 6 PCs, level 7. Aboard, non-combatants: [[Bloos]], [[Lady Alexandra Aurum|Alexandra]], [[Professor Sylas Thistlethorn|Sylas]] (unconscious), [[Lancaster Slickwhistle]].
+**Party:** 6 PCs, level 7. Aboard, non-combatants: [[Bloos]], [[Lady Alexandra Aurum|Alexandra]], [[Professor Sylas Thistlethorn|Sylas]] (wakes on the voyage), [[Lancaster Slickwhistle]].
 **Voyage clock:** about 3 of 6 days remain when the session opens.
 **K-001 (DM-only):** with the one-week slip, Operation Green Thunder is about 14 days away on arrival; the party believes about 7.
 
@@ -39,15 +39,29 @@ Play the unresolved Session 30 beat: **Collin's conversation with Alexandra.** N
 Her exit: while the party is ashore, she slips off the moored Lair unseen. Her bat familiar, **Isiah**, goes with her (T-005). Optional clue: in Room 3, someone glimpses a bat in the fog — the only sign she's ashore.
 
 ### Beat 1 — Voyage montage (short)
-- **Sylas:** still unconscious on the library table where he was freed. Nobody moved him; nothing mysterious. Stable.
+- **Sylas:** wakes on the library table where he was freed — see Beat 1a.
 - **The shop:** not open — it opens once Sylas has had a chance to recover.
 - **Lancaster:** in the library with a drink, chatting with Bloos. Watches; doesn't interfere. He is on leave over his Ancient Ones investigations (T-009) and is now about to moor at an Ancient One's island — give him one line about it (curiosity, or a dry warning) and let him stay aboard.
 - **The restless blade** whispers to Vaxen — one or two lines.
 - The Lair moors at the Jade Fragment. **Alexandra stays aboard.** Collin leads the party ashore.
 
+### Beat 1a — Sylas wakes (voyage, before the mooring)
+- **When:** one of the last days at sea. Alexandra is still aboard.
+- **State:** wakes on the library table, discombobulated — reaches for his red pencil, starts cataloguing the room, grades the bloodstains before he's fully upright. **Remembers nothing of the Library.** His last memory is the evening at Smoke's Speakeasy with Mulvin, before the passes were used. No fragments return.
+- **Who he says he is:** a former history professor turned treasure hunter, hired by an **anonymous benefactor** to research Terramancy, the Terramancers, and what their motivations and goals might be. Paid through intermediaries; never met them. *(DM-only: the benefactor is [[High Inquisitor Varius]].)*
+- **Mulvin:** his first real question is where his brother is. Told Mulvin was left as Varius's prisoner, he wants the party's help finding him. *(DM-only irony: he doesn't know Varius is the man who's been paying him.)*
+- **He signs on:** research lost, weeks lost, aboard a library on a moving island with a party chasing the Terramancers — he appoints himself their scholar ("field team"). The shop opens once he's recovered.
+- **Alexandra:** he doesn't know her. She entered the Library wearing Mulvin's face, and she knows what she did. How she handles him is the table's.
+- **Voice:** nervous and nasal; talks fast, stammers through apologies, pitch cracks upward when stressed. Still grades things, but mutters them under his breath. Taps the red pencil against his teeth when anxious.
+- **Don't:** no memory fragments; he doesn't know his attacker; he doesn't know who the benefactor is.
+
 ### Room 1 — Entrance (combat)
 - Collin feels the fog that once parted for him and the reeds that once showed his path turn foreign and hostile. The party pushes in for a while; it becomes clear to everyone that Luwei will not be kind.
-- Fight to the finish: **8 green Guardian Drakes** (Fizban's), **two waves of 4** (wave 2 arrives round 3, out of the fog). Beasts of Luwei's domain — not the canon Ambushers.
+- Fight to the finish: **8 green Guardian Drakes** (Fizban's, CR 2), **two waves of 4** (wave 2 arrives round 3, out of the fog). Beasts of Luwei's domain — not the canon Ambushers.
+  - **Ambush:** wave 1 attacks out of heavy fog — **advantage on their first round** of attacks.
+  - **Flank:** wave 2 comes in behind the party or at its casters, not from wave 1's direction.
+  - **Focus:** drakes pile onto whoever is isolated or wounded — the island's hostility, not random beasts.
+  - Expect ~4–5 rounds and about a quarter of the party's HP; the real drain is Room 3 and the Grove-Coil.
 - **Maw #1:** the mud under Otis softens and gapes, then closes before it holds.
 
 ### Room 2 — Roleplay: the Tenders' village
@@ -114,6 +128,8 @@ Her exit: while the party is ashore, she slips off the moored Lair unseen. Her b
 8. Vase is Mithbarakaz's nephew. *(Collin knows, per his page; player-private for Vase; Luwei doesn't know)*
 9. Alexandra left the Lair and is in the fog. *(revealed by Luwei, Room 5)*
 10. Ancient Ones culture — transactional, rank by age, servants as go-betweens, scorn for the Cult's "discoveries." *(shown through the Tenders and Luwei's tone, never lectured)*
+11. Sylas's anonymous benefactor is High Inquisitor Varius. *(DM-only)*
+12. Alexandra entered the Library disguised as Mulvin, Sylas's twin. *(DM-only)*
 
 ## 5. Fantastic locations
 - **The Jade Fragment:** humid marsh and towering bamboo under fog that never lifts. Damp heat; muffled footsteps; bamboo creaking as it shifts; reeds whispering with no wind; wet stone and green rot. Paths rearrange when no one is watching.
@@ -130,10 +146,10 @@ Her exit: while the party is ashore, she slips off the moored Lair unseen. Her b
 | **The Ambushers** | Obey Luwei | Silent | Surround the party after Room 4; stand down at his word. |
 | **Alexandra** | Find Collin | Clipped, formal | Off-stage after the strong start; the stake in Room 5. |
 | **Lancaster** | His own business | Easy, ironic | In the library with Bloos. Doesn't follow. |
-| **Sylas** | — | — | Unconscious on the library table; stable; doesn't wake. |
+| **Sylas** | Mulvin found; his research rebuilt | Nervous, nasal; mutters grades under his breath | Wakes on the voyage; signs on as the party's scholar. |
 
 ## 7. Relevant monsters
-- **Guardian Drake, green** (Fizban's Treasury of Dragons) — **×8, two waves of 4.** Believed CR 2 (450 XP each; 3,600 XP total — light on paper; Rooms 3 and 4 carry the drain). Confirm the stat block on D&D Beyond.
+- **Guardian Drake, green** (Fizban's Treasury of Dragons) — **×8, two waves of 4.** CR 2 (450 XP each; 3,600 XP total — light on paper; the fog ambush and flank make it bite; Rooms 3 and 4 carry the drain).
 - **Grove-Coil** — see Room 4 and the D&D Beyond link.
 - **Ambushers** — no fight.
 
@@ -154,5 +170,5 @@ None this session. The payoff is leverage and information.
 
 ## Open items
 1. Room 4 arena — pinned.
-2. Confirm the Guardian Drake stat block and CR.
+2. ~~Confirm the Guardian Drake stat block and CR.~~ Confirmed CR 2.
 3. Time on the island: about one day, no long rest until back aboard, so Room 3's Exhaustion carries into Room 4.
