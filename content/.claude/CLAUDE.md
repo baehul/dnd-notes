@@ -50,10 +50,9 @@ DESIGN LIBRARY — outside this vault, READ-ONLY, campaign-agnostic DM craft. Re
 Designer** (prep) and **Continuity Auditor** (grounding). Never canon. What happened at the
 table, this vault's canon, House Rules and this campaign's own tables all outrank it.
 Campaign-specific numbers (finished recipes, shop prices, party-size tables) are decided HERE.
-  `C:\Users\mehul\DND\DesignLibrary\Export\`  (Magic Item Crafting System, Magic Item
-  Categories, Magic Item Distribution baseline, Income Guidelines per character, Combat Prep
-  improvised stats + CR formula, Narrative Magic Items, Boss Fight Builder; Prep Rules.md —
-  advisory only; Ideas Index.md — idea bank, tell me when one gets used)
+  `C:\Users\mehul\DND\DesignLibrary\Export\`  (every .md in it: general systems and toolkits;
+  Prep Rules.md — advisory only; Ideas Index.md — idea bank, tell me when one gets used.
+  List the folder; don't assume a fixed set.)
 DM REFERENCE — planning artifacts, written by **Steward** on **Showrunner**'s approved drafts
 (the major-arc spine is DM-owned and treated as read-only spec):
   `Private Notes/Planning/`  (`Major Arcs.md` — the campaign's fixed, DM-owned spine of four
