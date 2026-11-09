@@ -15,6 +15,7 @@
 | Date | Gold On Hand | Source | Note |
 | --- | --- | --- | --- |
 | 2026-10-10 | 8,835 | D&D Beyond party inventory | Lifetime earned 14,161; implied spent ~5,326 (spending not itemised). Add a row at each session end. |
+| 2026-10-19 (Session 31) | 7,835 (and 9 sp) | Session 31 start 8,835 gp 9 sp (D&D Beyond party inventory), less 1,000 spent | Spent 400 on Marionette's Fang materials, 400 on Self-Mending Desk materials and 200 on Winfrey's harness equipment. The silver stickpin was provided at no cost. Lifetime earned unchanged at 14,161. |
 
 ## Income Guidelines
 

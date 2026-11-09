@@ -47,9 +47,9 @@ It is common knowledge that House Aurum holds a superstitious reverence for [[Th
 
 The third son of the previous High Baron, Magnus is the leader of House Aurum. A political genius who has held the High Barony for two decades. He expertly maintains powers, outmaneuvering both the Triumvirate and the [[Upper Crust Houses]].
 ### [[Duke Ephraim Aurum]]
-**Role:** Governor of Sun Spire & Head of Fabrication
+**Role:** Former Governor of Sun Spire & Former Head of Fabrication
 
-The second son of the previous High Baron and [[High Baron Magnus Aurum|Magnus Aurum]]'s older brother. A brilliant but reclusive arcanotech artificer, he governs the Sun Spire, the family's fortress-factory. He is the mastermind behind the family's commercial dominance, turning magical theory into mass-production.
+The second son of the previous High Baron and [[High Baron Magnus Aurum|Magnus Aurum]]'s older brother. A brilliant but reclusive arcanotech artificer, he governed the Sun Spire, once the family's fortress-factory, until [[House Cuprum]] was given command of it. He is the mastermind behind the family's commercial dominance, turning magical theory into mass-production.
 ### [[Lord Romauld Aurum]]
 **Role:** The Enforcer
 

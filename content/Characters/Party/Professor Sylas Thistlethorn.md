@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Professor Sylas Thistlethorn
 aliases:
   - Sylas

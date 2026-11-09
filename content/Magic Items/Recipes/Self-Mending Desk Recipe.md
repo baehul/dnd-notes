@@ -13,12 +13,12 @@ When successfully executed, this recipe binds the self-mending desk recovered fr
 
 ## Components
 - [x] 1 Self-mending desk from the Library of Layers
-- [ ] 6 Levels of Transmutation Magic
-- [ ] 150 GP of iron-gall ink and binding glue
-- [ ] 50 GP of beeswax and linseed oil
+- [x] 6 Levels of Transmutation Magic
+- [x] 150 GP of iron-gall ink and binding glue
+- [x] 50 GP of beeswax and linseed oil
 
 ## Ritual
-- [ ] **1. Ease the Old Binding (2 Hours):** Work the desk's joints loose from the drawers outward with Carpenter's Tools, letting the Library's magic bleed out slowly. Forced, it discharges all at once, as it did when the desk was first pried free.
-- [ ] **2. Set Its Place (1 Hour):** Stand the desk in the Lair's library, facing the shelves it will serve. Once bound, it will not move again.
-- [ ] **3. Ink the Joints (3 Hours):** Work the iron-gall ink and binding glue into every joint and runner while channeling the Transmutation Magic, so the desk draws on the Lair rather than the Library.
-- [ ] **4. Wax and Seal (2 Hours):** Rub the beeswax and linseed oil into the grain with Woodcarver's or Carpenter's Tools until the desk's feet and the Lair's floor are one piece (DC 13).
+- [x] **1. Ease the Old Binding (2 Hours):** Work the desk's joints loose from the drawers outward with Carpenter's Tools, letting the Library's magic bleed out slowly. Forced, it discharges all at once, as it did when the desk was first pried free.
+- [x] **2. Set Its Place (1 Hour):** Stand the desk in the Lair's library, facing the shelves it will serve. Once bound, it will not move again.
+- [x] **3. Ink the Joints (3 Hours):** Work the iron-gall ink and binding glue into every joint and runner while channeling the Transmutation Magic, so the desk draws on the Lair rather than the Library.
+- [x] **4. Wax and Seal (2 Hours):** Rub the beeswax and linseed oil into the grain with Woodcarver's or Carpenter's Tools until the desk's feet and the Lair's floor are one piece (DC 13).
