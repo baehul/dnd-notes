@@ -1,0 +1,128 @@
+<title>Jade Fragment Battlemaps</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<style>
+/* Layout: one plain working grid with a narrow notes column. Flat shapes only; this is a layout tool. */
+:root{
+  --bg:#f4f5f1;--panel:#ffffff;--fg:#20241f;--muted:#5d645a;--line:#c5cabf;
+  --ground:#fbfbf8;--grid:#b9beb2;--party:#2c6da3;--ally:#b0851a;--enemy:#b23b2e;--minion:#c9743a;--boss:#5b3c86;
+  --terrain:#7fa06f;--water:#6fa3b5;--hazard:#a8926c;--marker:#20241f;--on:#ffffff;--overlay:#b23b2e;--accent:#2f5d3a;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#191c18;--panel:#232721;--fg:#e6e9e2;--muted:#a4aa9f;--line:#41473d;
+  --ground:#272b25;--grid:#50574b;--party:#4d90c9;--ally:#c79a2c;--enemy:#cf5546;--minion:#d58750;--boss:#8664b8;
+  --terrain:#5f8151;--water:#4b8294;--hazard:#7d6b4d;--marker:#e6e9e2;--on:#ffffff;--overlay:#e8796a;--accent:#8fc293;color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#191c18;--panel:#232721;--fg:#e6e9e2;--muted:#a4aa9f;--line:#41473d;
+  --ground:#272b25;--grid:#50574b;--party:#4d90c9;--ally:#c79a2c;--enemy:#cf5546;--minion:#d58750;--boss:#8664b8;
+  --terrain:#5f8151;--water:#4b8294;--hazard:#7d6b4d;--marker:#e6e9e2;--on:#ffffff;--overlay:#e8796a;--accent:#8fc293;color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font:16px/1.4 system-ui,"Segoe UI",sans-serif;padding-block:20px;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.wrap{max-width:1160px;margin:0 auto;display:flex;flex-direction:column;gap:12px}
+h1{font-size:1.3rem;margin:0}
+.controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+button,select{font:inherit;color:var(--fg);background:var(--panel);border:1px solid var(--line);border-radius:3px;padding:5px 10px;cursor:pointer}
+button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--bg)}
+button:focus-visible,select:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+label{display:inline-flex;gap:5px;align-items:center;cursor:pointer}
+.main{display:grid;grid-template-columns:minmax(0,1fr) 270px;gap:16px;align-items:start}
+@media (max-width:800px){.main{grid-template-columns:minmax(0,1fr)}}
+svg{display:block;width:100%;height:auto;max-width:100%;touch-action:none;user-select:none;background:var(--panel);border:1px solid var(--line)}
+aside{min-width:0}aside h2{font-size:1rem;margin:0 0 4px}aside ul{margin:0 0 12px;padding-left:18px}
+.key{display:grid;grid-template-columns:16px 1fr;gap:3px 8px;align-items:center}.sw{width:14px;height:14px}
+.ground{fill:var(--ground)}.grid{stroke:var(--grid);stroke-width:.1}.grid.major{stroke-width:.22}
+.ruler{fill:var(--muted);font:2.3px system-ui,sans-serif;text-anchor:middle}
+.tl{fill:var(--on);font:600 2.2px system-ui,sans-serif;text-anchor:middle;dominant-baseline:central;pointer-events:none}
+.al{fill:var(--fg);font:600 2.4px system-ui,sans-serif;text-anchor:middle;dominant-baseline:central;pointer-events:none}
+.border{fill:none;stroke:var(--terrain);stroke-width:1;stroke-dasharray:3 1.5}
+.overlay{fill:var(--overlay);opacity:.2;stroke:var(--overlay);stroke-width:.3;pointer-events:none}
+[data-id]{cursor:grab}
+</style>
+
+<div class="wrap">
+  <h1 id="heading"></h1>
+  <div class="controls" id="controls"></div>
+  <div class="main">
+    <svg id="map" role="img" aria-label="Top-down layout grid with draggable tokens and areas"></svg>
+    <aside><h2>Must have</h2><ul id="notes"></ul><h2>Key</h2><div class="key" id="key"></div></aside>
+  </div>
+</div>
+
+<script>
+/* ===== EDIT ONLY THIS CONFIG =====
+   Units are feet. x and y are the CENTER of the item. One square is 5 ft.
+   item: {id, label, group, x, y, w, h, shape}
+     group: party | ally | enemy | minion | boss (tokens, drawn above areas)
+            terrain | water | hazard | marker (areas, drawn below tokens)
+     w: token footprint. Medium/Small 5, Large 10, Huge 15, Gargantuan 20. h defaults to w.
+     shape: circle (default for tokens) or rect (default for areas)
+   overlay: {name, type:"radius", from, ft}  |  {name, type:"cone", from, ft, aim:"party" or an item id}
+   state:   {name, moves:{id:{to:otherId, dx, dy}}}  an optional checkbox that pins a token to another
+   border:  optional dashed edge label for a map boundary */
+const CONFIG={title:"Jade Fragment Battlemaps",sizes:[80,100,120],maps:[
+ {id:"ambush",name:"Ambush",size:100,
+  notes:["Cover near the edges so handlers can vanish and return","Open middle for the drakes","Marked exit where the shell is dragged away"],
+  items:[
+   {id:"b1",label:"Bamboo",group:"terrain",x:17,y:20,w:20},{id:"b2",label:"Bamboo",group:"terrain",x:72,y:13,w:20},{id:"b3",label:"Bamboo",group:"terrain",x:88,y:42,w:20},
+   {id:"b4",label:"Bamboo",group:"terrain",x:11,y:62,w:20},{id:"b5",label:"Bamboo",group:"terrain",x:86,y:84,w:20},{id:"b6",label:"Bamboo",group:"terrain",x:30,y:90,w:20},
+   {id:"exit",label:"Shell exit",group:"marker",x:42,y:3,w:20,h:5},
+   {id:"co",label:"Col",group:"party",x:42,y:57,w:5},{id:"ot",label:"Oti",group:"party",x:47,y:52,w:5},{id:"va",label:"Vas",group:"party",x:57,y:52,w:5},
+   {id:"vx",label:"Vax",group:"party",x:62,y:57,w:5},{id:"cl",label:"Cle",group:"party",x:57,y:67,w:5},{id:"tw",label:"Twi",group:"party",x:47,y:67,w:5},
+   {id:"al",label:"Ale",group:"ally",x:52,y:60,w:5},
+   {id:"oz",label:"Ozh",group:"enemy",x:42,y:22,w:5},
+   {id:"h1",label:"H1",group:"enemy",x:22,y:27,w:5},{id:"h2",label:"H2",group:"enemy",x:72,y:22,w:5},{id:"h3",label:"H3",group:"enemy",x:82,y:47,w:5},{id:"h4",label:"H4",group:"enemy",x:17,y:57,w:5},
+   {id:"d1",label:"D1",group:"minion",x:32,y:37,w:5},{id:"d2",label:"D2",group:"minion",x:62,y:32,w:5},{id:"d3",label:"D3",group:"minion",x:72,y:57,w:5},{id:"d4",label:"D4",group:"minion",x:27,y:62,w:5}
+  ],overlays:[],states:[]},
+ {id:"boss",name:"Grove-Coil",size:80,border:true,
+  notes:["Open ground is enough","Room to spread out against the 60-ft cone","One entry; the edge is a closed bamboo ring"],
+  items:[
+   {id:"mud",label:"Mud (optional)",group:"hazard",x:60,y:50,w:20,h:15},{id:"chan",label:"Channel (optional)",group:"water",x:14,y:36,w:15,h:50},
+   {id:"entry",label:"Entry",group:"marker",x:40,y:77,w:15,h:5},
+   {id:"co",label:"Col",group:"party",x:32,y:62,w:5},{id:"ot",label:"Oti",group:"party",x:37,y:57,w:5},{id:"va",label:"Vas",group:"party",x:47,y:57,w:5},
+   {id:"vx",label:"Vax",group:"party",x:52,y:62,w:5},{id:"cl",label:"Cle",group:"party",x:47,y:67,w:5},{id:"tw",label:"Twi",group:"party",x:37,y:67,w:5},
+   {id:"snake",label:"Grove-Coil",group:"boss",x:40,y:20,w:20,shape:"rect"}
+  ],
+  overlays:[{name:"Spit cone (60 ft)",type:"cone",from:"snake",ft:60,aim:"party"},{name:"Bite reach (15 ft)",type:"radius",from:"snake",ft:15}],
+  states:[{name:"Otis held (challenge failed)",moves:{ot:{to:"snake",dx:0,dy:7.5}}}]}
+]};
+const GROUP={party:"Party",ally:"Ally",enemy:"Enemy",minion:"Minion",boss:"Boss",terrain:"Cover",water:"Water",hazard:"Difficult ground",marker:"Marker"};
+const AREA=new Set(["terrain","water","hazard","marker"]);
+/* ===== END CONFIG ===== */
+const $=i=>document.getElementById(i),svg=$("map"),SK="proto-map-"+CONFIG.title;let cur=CONFIG.maps[0],drag=null,store={},opts={};
+try{store=JSON.parse(localStorage.getItem(SK)||"{}")}catch(e){store={}}
+const save=()=>{try{localStorage.setItem(SK,JSON.stringify(store))}catch(e){}};
+const size=()=>store["size-"+cur.id]||cur.size,key=()=>cur.id+"-"+size(),W=i=>i.w||5,H=i=>i.h||W(i);
+const isOn=n=>opts[cur.id+n]!==undefined?opts[cur.id+n]:false;
+const scale=()=>size()/cur.size;
+const snap=(v,w)=>Math.round((v-w/2)/5)*5+w/2,clamp=(v,a,b)=>Math.max(a,Math.min(b,v));
+function pos(it){const s=(store[key()]||{})[it.id];if(s)return s;const S=size();return{x:clamp(snap(it.x*scale(),W(it)),W(it)/2,S-W(it)/2),y:clamp(snap(it.y*scale(),H(it)),H(it)/2,S-H(it)/2)}}
+function pinned(it){for(const st of cur.states||[])if(isOn(st.name)&&st.moves[it.id])return st.moves[it.id];return null}
+function at(it){const m=pinned(it);if(m){const t=pos(cur.items.find(i=>i.id===m.to));return{x:t.x+m.dx,y:t.y+m.dy,pin:1}}return pos(it)}
+function shape(it,p){const w=W(it),h=H(it),c=`fill:var(--${it.group})`,area=AREA.has(it.group);
+ const rect=it.shape==="rect"||(area&&it.shape!=="circle");
+ const body=rect?`<rect style="${c};opacity:${area?(it.group==="marker"?.18:.55):1}" x="${p.x-w/2}" y="${p.y-h/2}" width="${w}" height="${h}"/>`:`<ellipse style="${c}" cx="${p.x}" cy="${p.y}" rx="${w/2-.2}" ry="${h/2-.2}"/>`;
+ return `<g ${p.pin?"":`data-id="${it.id}"`}>${body}<text class="${area?"al":"tl"}" x="${p.x}" y="${p.y}">${it.label}</text></g>`}
+function overlay(o){if(!isOn(o.name))return"";const f=cur.items.find(i=>i.id===o.from),s=at(f),r=W(f)/2;
+ if(o.type==="radius")return `<rect class="overlay" x="${s.x-r-o.ft}" y="${s.y-r-o.ft}" width="${2*(r+o.ft)}" height="${2*(r+o.ft)}" rx="${o.ft}"/>`;
+ const tg=o.aim==="party"?cur.items.filter(i=>i.group==="party").map(at):[at(cur.items.find(i=>i.id===o.aim))];
+ let dx=tg.reduce((a,b)=>a+b.x,0)/tg.length-s.x,dy=tg.reduce((a,b)=>a+b.y,0)/tg.length-s.y,l=Math.hypot(dx,dy)||1;dx/=l;dy/=l;const k=r/Math.max(Math.abs(dx),Math.abs(dy)),ax=s.x+dx*k,ay=s.y+dy*k,h=o.ft/2;
+ return `<polygon class="overlay" points="${ax},${ay} ${ax+dx*o.ft-dy*h},${ay+dy*o.ft+dx*h} ${ax+dx*o.ft+dy*h},${ay+dy*o.ft-dx*h}"/>`}
+function render(){const S=size();svg.setAttribute("viewBox",`-7 -7 ${S+10} ${S+10}`);
+ let h=`<defs><clipPath id="c"><rect width="${S}" height="${S}"/></clipPath></defs><rect class="ground" width="${S}" height="${S}"/>`;
+ for(let v=0;v<=S;v+=5){const c=v%10?"grid":"grid major";h+=`<line class="${c}" x1="${v}" y1="0" x2="${v}" y2="${S}"/><line class="${c}" x1="0" y1="${v}" x2="${S}" y2="${v}"/>`;if(v%20===0)h+=`<text class="ruler" x="${v}" y="-2.4">${v}</text><text class="ruler" x="-3.4" y="${v+.8}">${v}</text>`}
+ h+=`<g clip-path="url(#c)">`+(cur.border?`<rect class="border" x=".5" y=".5" width="${S-1}" height="${S-1}"/>`:"")+cur.items.filter(i=>AREA.has(i.group)).map(i=>shape(i,pos(i))).join("")+(cur.overlays||[]).map(overlay).join("")+`</g>`+cur.items.filter(i=>!AREA.has(i.group)).map(i=>shape(i,at(i))).join("");svg.innerHTML=h}
+const pt=e=>new DOMPoint(e.clientX,e.clientY).matrixTransform(svg.getScreenCTM().inverse());
+svg.addEventListener("pointerdown",e=>{const g=e.target.closest("[data-id]");if(!g)return;const it=cur.items.find(i=>i.id===g.dataset.id),p=pt(e),c=pos(it);drag={it,ox:p.x-c.x,oy:p.y-c.y};svg.setPointerCapture(e.pointerId);e.preventDefault()});
+svg.addEventListener("pointermove",e=>{if(!drag)return;const S=size(),p=pt(e),it=drag.it,w=W(it),h=H(it);(store[key()]=store[key()]||{})[it.id]={x:clamp(snap(p.x-drag.ox,w),w/2,S-w/2),y:clamp(snap(p.y-drag.oy,h),h/2,S-h/2)};render()});
+const end=()=>{if(drag){drag=null;save()}};svg.addEventListener("pointerup",end);svg.addEventListener("pointercancel",end);
+function ui(){const c=$("controls");let h=CONFIG.maps.map(m=>`<button type="button" data-tab="${m.id}" aria-pressed="${m===cur}">${m.name}</button>`).join("")+`<label>Size <select id="size">${CONFIG.sizes.map(v=>`<option value="${v}">${v} × ${v} ft</option>`).join("")}</select></label>`;
+ (cur.overlays||[]).concat(cur.states||[]).forEach((o,i)=>{if(opts[cur.id+o.name]===undefined)opts[cur.id+o.name]=!!o.type;h+=`<label><input type="checkbox" data-opt="${i}"${isOn(o.name)?" checked":""}> ${o.name}</label>`});
+ c.innerHTML=h+`<button type="button" id="reset">Reset layout</button>`;$("heading").textContent=CONFIG.title;$("size").value=size();
+ c.querySelectorAll("[data-tab]").forEach(b=>b.onclick=()=>{cur=CONFIG.maps.find(m=>m.id===b.dataset.tab);ui()});
+ $("size").onchange=e=>{store["size-"+cur.id]=+e.target.value;save();render()};
+ c.querySelectorAll("[data-opt]").forEach(b=>b.onchange=()=>{const o=(cur.overlays||[]).concat(cur.states||[])[+b.dataset.opt];opts[cur.id+o.name]=b.checked;render()});
+ $("reset").onclick=()=>{delete store[key()];save();render()};
+ $("notes").innerHTML=(cur.notes||[]).map(n=>`<li>${n}</li>`).join("");
+ $("key").innerHTML=[...new Set(cur.items.map(i=>i.group))].map(g=>`<span class="sw" style="background:var(--${g})"></span><span>${GROUP[g]}</span>`).join("");render()}
+ui();
+</script>

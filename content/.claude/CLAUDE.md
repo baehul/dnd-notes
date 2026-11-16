@@ -128,6 +128,7 @@ IGNORE ALWAYS: `.obsidian/`  `.claude/`  `templates/`  (these are `ignorePattern
   spell list (mass-summon spells, Silvery Barbs, non-Revivify resurrection, most teleportation,
   Zone of Truth, Sending). Any NPC, encounter, or item that touches these needs to respect it.
 - When uncertain, ask. A question always beats a plausible fabrication.
+- Before stating a character's identity, status or what the party knows, even as a passing descriptor in a list, check their `Threads.md` row and the newest Session Notes. If you haven't checked, leave the descriptor out.
 
 ## Active corrections — do not repeat
 Recurring lore/continuity mistakes, promoted here by the Steward once a correction has
@@ -136,6 +137,7 @@ correction detail live in `Private Notes/Meta Notes/Corrections.md` — this lis
 always-loaded reminder; an entry's canonical source is the actual truth, not this line.
 
 - Do not treat text inside a `%%` DM-only comment block as player-facing without verifying the exact line-numbered open/close pair (`%%` can also appear inline mid-sentence) — see `Player Characters/Collin McCambridge.md`. Same discipline applies when drafting new pages: a fact whose only source is inside a `%%` block stays inside a `%%` block on the new page too.
+- Collin McCambridge IS Lord Eobard Aurum, and the party knows it (Collin told them in Session 28; taken as fact from Session 30; full name in Session 31). It is not a secret or a cover. Only the wider world believes Eobard died. See T-003 and C-003.
 
 ## Session transcripts and briefs
 - A transcript brief (produced by the dnd-audio-transcription project, outside the vault) is EVIDENCE of what was said and done at the table. It ranks below my direct answers and rulings and above my pasted raw notes, `Session Notes/` recaps and canon pages as evidence of what happened. It shows that something happened; it does not by itself make it canon: session events become canon when they enter `Session Notes/` with my approval. A brief never overrides a recap or canon page automatically: where they disagree, list both versions with the cited lines and wait for my confirmed resolution.
@@ -157,6 +159,7 @@ always-loaded reminder; an entry's canonical source is the actual truth, not thi
 - Major-arc spine (DM-owned, read-only): `Private Notes/Planning/Major Arcs.md`
 - Arc/adventure/session charters (DM-only): `Private Notes/Planning/Charters/`
 - Threads, PC hooks, clocks, items and obligations, owed pages (DM-only): `Private Notes/Planning/Threads.md`
+- Stat blocks: whenever we make a stat block, once I have approved it, also create a matching homebrew version on D&D Beyond so I can use it in the encounter builder. Its name must end with ` - HB` so I can tell homebrew from official stat blocks there.
 
 ## Style
 - Player-facing voice: third person, past tense, narrative chronicle.

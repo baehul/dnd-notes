@@ -15,4 +15,5 @@ The deceased ninth son of [[High Baron Magnus Aurum|Magnus Aurum]]. Was consider
 %%
 Trey's character
 Death was completely made up by [[High Baron Magnus Aurum|Magnus Aurum]].
+He lives, and fights for [[The Resistance]] under the name [[Collin McCambridge]]. His companions know his true name, as does his sister [[Lady Alexandra Aurum]].
 %%

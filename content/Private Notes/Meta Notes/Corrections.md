@@ -44,3 +44,12 @@ Entry format:
 - **The correction:** Player Character pages sync from the players' Google Docs. There, `%%` marks the player's private background: hidden from the public site and from the other players, visible to the DM, and known to that player. Only the final `# Local Notes` block is the DM's own notes. Never edit player-authored text; the sync owns it. `CLAUDE.md` now states this rule.
 - **Canonical source:** [[Google Doc Formatting For Campaign Wiki]]
 - **Scope:** player-character, google-doc-sync
+
+## C-003: Collin's identity as Eobard Aurum is known to the party
+- **Status:** active
+- **Severity:** high
+- **Occurrences:** 2+ (earlier occurrences not logged; 2026-11-16)
+- **The mistake:** Collin McCambridge being Lord Eobard Aurum was treated as a secret or a "cover identity" the party doesn't know. Sourced from stale text: the visible "(Deceased)" on [[Lord Eobard Aurum]] and the Session 19 recap's "the steward story is a cover," read without the later sessions.
+- **The correction:** Collin told the party he is Eobard Aurum in Session 28, and Alexandra called him Eobard. From Session 30 the party takes it as fact (DM ruling). In Session 31 he gave his full name, Lord Eobard Lucidean Aurum. The party and Alexandra know; the wider world still believes Eobard died. General rule: an entity page's status line, or an early recap, can be stale. Before stating any character's identity, status or what the party knows, read the matching Threads.md row and the newest Session Notes first.
+- **Canonical source:** [[Session 28 Notes]], [[Session 30 Notes]], [[Session 31 Notes]]; Threads.md T-003
+- **Scope:** player-character, collin-mccambridge, house-aurum
