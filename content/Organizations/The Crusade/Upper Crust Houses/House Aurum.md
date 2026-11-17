@@ -55,13 +55,12 @@ The second son of the previous High Baron and [[High Baron Magnus Aurum|Magnus A
 
 The third son of [[High Baron Magnus Aurum|Magnus Aurum]]. Romauld is the living embodiment of House Aurum's words. He is a terrifying combatant, an accomplished mage, and a sharp political mind. He is rumored to be the favored son to inherit the Barony of House Aurum following his father's death. He serves [[High Baron Magnus Aurum|the High Baron]] as their enforcer.
 ### [[Lord Eobard Aurum]]
-**Role:** (Deceased)
+**Role:** Ninth son, long believed dead
 
-The deceased ninth son of [[High Baron Magnus Aurum|Magnus Aurum]]. Was considered by House Aurum to be the fated scion of the House. Died in an ambush by a [[Blood Horde]] tribe before coming of age about five years ago. 
+The ninth son of [[High Baron Magnus Aurum|Magnus Aurum]]. Was considered by House Aurum to be the fated scion of the House. He was said to have died in an ambush by a [[Blood Horde]] tribe before coming of age about five years ago. Though once believed dead, the party discovered that he lives under the name of [[Collin McCambridge]], fighting alongside [[The Resistance]].
 
 %%
-Trey's character
-Death was completely made up by [[High Baron Magnus Aurum|Magnus Aurum]].
+His death was completely made up by [[High Baron Magnus Aurum|Magnus Aurum]].
 %%
 
 

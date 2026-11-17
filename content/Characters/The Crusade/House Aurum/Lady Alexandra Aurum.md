@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Lady Alexandra Aurum
 aliases:
   - Alexandra Aurum
@@ -19,6 +19,8 @@ A daughter of [[House Aurum]], known publicly for her station within the
 the faith — the House lends its name to the church, and the church lends its good
 standing back to the House.
 
+After the fall of [[The Library of Layers]], she travelled with the party aboard their island. She is the sister of [[Lord Eobard Aurum]], whom the party knows as [[Collin McCambridge]].
+
 %%
 # Flashcard
 - Visual: Human woman, mid-twenties, the Aurum blonde hair and golden eyes, kept severe and immaculate. Wears abjurer's regalia layered over church vestments she no longer respects — the sun-motifs of the [[Ecclesia Solari]] deliberately half-covered.
@@ -26,9 +28,9 @@ standing back to the House.
 - Mannerism: Compulsively re-establishes order around her (straightens objects, corrects others' phrasing). Never raises a hand to fight; instead throws up wards and lets others bleed.
 - Want: To prove her worth to [[House Aurum]] on the House's own terms and be seen as something other than a failure by its words — *"Born of Steel, Crowned by Gold."*
 - Fear: That the House's judgment of her is simply correct — that a scion who cannot fight the front lines and bend magic to war is worthless — and that she will die having proven them right.
-- Attitude: Bitter, driven, and wrong about who wronged her. Treats [[High Inquisitor Varius]] and the [[Ecclesia Solari]] as her betrayers; does not know the party exists as the true cause. Toward the party in the Library she is cold and territorial, assuming they are Varius's agents.
+- Attitude: Bitter, driven, and long wrong about who wronged her. She treated [[High Inquisitor Varius]] and the [[Ecclesia Solari]] as her betrayers and, in the Library, took the party for Varius's agents, cold and territorial. Travelling with them since, she has learned the gala was a misunderstanding and accepts that the church did not poison her.
 - Allies: [[House Aurum]], her twin [[Alexander Aurum]]
-- Enemies: (believes) [[High Inquisitor Varius]] and the [[Ecclesia Solari]]; (actually, unknowingly) the Party
+- Enemies: (once believed) [[High Inquisitor Varius]] and the [[Ecclesia Solari]]; (once, unknowingly) the Party
 - Capabilities: A powerful abjurer — wards, counters, defensive control — but genuinely lacking in offensive combat capability. She survives fights by outlasting and shielding, not striking. She works alone, or with whatever she can bind or conscript. (No banned/modified spells per `Administrative/House Rules.md`; her kit is warding and abjuration, not teleport-escape or mass summons.)
 
 # Family & Station
@@ -54,8 +56,7 @@ Alexandra heard of it. She concluded that [[High Inquisitor Varius]] had used he
 to force his way in — the church exploiting the scion it had leashed. That perceived
 betrayal is why she abandoned her Ecclesia posting and returned to her family's fold,
 determined to finally prove her worth to House Aurum. It is also why, in the Library,
-she assumes Varius is the one hunting her. She has been wrong about her enemy ever
-since: the party unknowingly caused her turn, and she still does not know they exist.
+she assumed Varius was the one hunting her. She was wrong about her enemy for a long while: the party unknowingly caused her turn, and she did not know they existed until she met them and learned the truth.
 
 Her departure from the church is quiet. Publicly she is still presumed the House's
 scion within the [[Ecclesia Solari]].
@@ -74,8 +75,7 @@ job was Varius's. She did NOT know it was bait (see [[High Inquisitor Varius]]).
 Varius, Alexandra, and Romanis (Varius's aide) crossed the swamp, the group of three
 [[The Ferryman]] describes in Session 19, and reached the Library much earlier than
 the party. She was the golden-eyed passenger he mentions. She entered the Library
-disguised as [[Mulvin Thistlethorn]], Sylas's twin brother. Sylas does NOT know it is
-her. Sylas is alive, in stasis.
+disguised as [[Mulvin Thistlethorn]], Sylas's twin brother. Sylas did not know it was her. He was left alive, in stasis, until the party freed him.
 
 She undercut Varius by sending Sylas's research notes and Terramancy literature to
 [[House Aurum]] for her family's benefit, carried by her familiar, a bat. (The players
@@ -83,7 +83,7 @@ see bats fly through the Library about hourly; the recaps do not record it. Her 
 [[Alexander Aurum]]'s familiar is also a bat.) How the notes reach House Aurum is
 deliberately unspecified.
 
-She believes the church or Varius is subtly poisoning her. She is wrong; the real cause
+She long believed the church or Varius was subtly poisoning her, and has since accepted that the church did not. The real cause
 is the crystal augmentation ([[Resonance Crystals]]).
 
 She has distrusted Varius since the gala, yet accepted his job
@@ -105,7 +105,10 @@ Stages:
 
 Her order-compulsion (Flashcard, Mannerism) is her attempt to restore the selectivity she has lost. The corruption's tells are mineral and optical, not gold; her spellcasting residue is gold (Session 25).
 
-Her belief that the church or Varius is poisoning her rests on: the ash-marking, brazier smoke, the timing of her decline, the gala, and daily prayers.
+Her belief that the church or Varius was poisoning her rested on: the ash-marking, brazier smoke, the timing of her decline, the gala, and daily prayers.
+
+# Since the Library
+She left the fallen Library with the party and travelled aboard their island, where she and her brother Eobard, who lives as [[Collin McCambridge]], came to know one another again. She vanished during the ambush on the Jade Fragment.
 
 # Portrait
 %%

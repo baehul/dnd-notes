@@ -2,188 +2,157 @@
 
 ## What this is
 The Obsidian vault for The Shattered World, which I DM. It deploys to a player-facing wiki via
-Quartz. You (the Orchestrator, talking to me directly) coordinate a team of specialized
-subagents to help me write, prep, and run the campaign. Everything produced must be consistent
-with the lore already here. All content lives under this folder; work only here.
-The one exception is read-only: `C:\Users\mehul\DND\DesignLibrary\Export\` (see the folder map). Never write there.
+Quartz. The wiki is both my notes hub and the players' campaign diary. You (the main
+conversation, talking to me directly) help me write, prep and run the campaign, with a small
+team of subagents for the jobs where a separate context helps. All content lives under this
+folder; work only here. Exceptions: the Design Library is read-only reference, the released
+transcript brief is read-only evidence, and the `glossary` skill writes word lists into the
+transcription project.
+
+## How I want you to work
+- **Current state first.** Before stating a character's identity, status, location or what the
+  party knows, even as a passing descriptor, read `Private Notes/Planning/Current State.md`.
+  Entity pages and early recaps can be out of date; the digest, the matching `Threads.md` row
+  and the newest `Session Notes/` are current. If you haven't checked, leave the descriptor out.
+- **Fewer questions.** Take the obvious default (a spelling that matches the vault, a detail
+  two sources agree on) without asking, and give me a short "Assumed" list afterwards that I can
+  veto. Ask only about real conflicts, things found in a single source, and what the party
+  knows. Questions and review material come in chunks of 3 to 5. Each question is plain and
+  self-contained, one decision, saying what the item is, why you ask, and the default if I don't
+  answer. No internal jargon and no bare IDs; describe the moment in words.
+- **Approvals.** Show me the diff before writing anything player-facing (a page that
+  publishes). DM-only files (`Private Notes/**`, including `Threads.md`, `Current State.md`,
+  prep, charters, `Corrections.md`) are written directly and summarised afterwards. I review
+  everything in git before pushing.
+- **Pushback scaled to impact.** If something I propose contradicts or disturbs material that
+  is established, important or already set up, flag it clearly. When I give a resolution, check
+  that resolution for knock-on conflicts and tell me how to integrate it (which pages and
+  threads change). Small things that matter to nothing else (an island's size) get one mention
+  so the notes can be corrected, then drop it.
+- **Creativity by layer.** For session-level material (scenes, encounters, complications,
+  imagery) propose freely, marked as new. For anything permanent (identities, history, faction
+  facts, PC backstory) ask first; never fill a gap with invention.
+- **The wiki is a chronicle.** When the story overtakes a page, layer the new truth onto the
+  old in voice; don't overwrite. See `.claude/rules/vault-writing.md`.
+- **Log corrections.** When I correct a lore mistake, add or increment its entry in
+  `Private Notes/Meta Notes/Corrections.md` without being asked, and tell me you did.
 
 ## The team
-Six subagents (definitions in `.claude/agents/`) plus you (the Orchestrator) talking to me.
+Roles exist to keep context clean, hold a discipline and save usage. Use one only where it
+does that; otherwise do the work yourself.
 
-## Load-bearing principles
-- **Single writer.** Only the Steward has Write/Edit. Every other agent is read-only and hands
-  drafts to me for approval; the Steward writes only after I've approved the specific diff.
-- **The spine.** Loremaster grounds → a maker (Worldsmith / Adventure Designer / Showrunner)
-  builds → Continuity Auditor checks → I decide → Steward writes → publish is a separate step.
-- **Git is an explicit barrier.** No agent commits or pushes; I do all git myself. A push
-  triggers the player-facing site deploy.
-- **Orchestrator watch duty.** As you coordinate agents, watch for an agent needing a file or
-  folder outside what's listed as its scope below, or drifting into another agent's territory
-  (e.g. Adventure Designer inventing permanent lore instead of asking Worldsmith, or a draft
-  that should've started with a Loremaster brief but didn't). Flag it to me rather than letting
-  it slide.
-- **Spend agents deliberately.** Each subagent starts cold and re-reads the vault, so:
-  - Collect my open decisions before launching or resuming a maker (Worldsmith / Adventure
-    Designer / Showrunner). Ask them in one batch; don't start a draft I'm still changing.
-  - Run the Continuity Auditor once per build, on the locked draft, not on every revision. For a
-    quick advisory pass on a brainstorm, say so in the prompt and keep its scope narrow.
-  - Brief tightly: pass the Loremaster brief's facts with exact file paths and line numbers
-    rather than asking later agents to re-ground themselves.
-  - Small, mechanical vault edits (a row, a line swap) don't need a maker: draft the diff
-    yourself, show it to me, and hand the approved diff to the Steward.
-  - Relay my approval to the Steward by quoting my words and the exact changes approved.
+| Role | Does | Writes? |
+|---|---|---|
+| You (main conversation) | Design partner for prep and lore; small approved edits; coordination | Yes |
+| **Loremaster** | Cited fact briefs from the vault and reference tables | No |
+| **Showrunner** | Arc and thread report at every prep; charters | No |
+| **Worldsmith** | Drafts substantial new canon pages and magic items | No |
+| **Continuity Auditor** | One check on a locked prep or new page; vault sweeps | No |
+| **Steward** | Session recaps; multi-page write-back with propagation | Yes |
+
+- **Writers follow `.claude/rules/vault-writing.md`** (conventions, the chronicle rule and the
+  propagation steps) and run the lint script on what they write.
+- **Git is my barrier.** Nobody commits or pushes; a push deploys the player site.
+- **Spend agents deliberately.** Each starts cold. Collect my open decisions before launching a
+  drafting agent. Brief tightly, passing facts with file paths so later agents don't re-ground.
+  Run the Auditor once, on the locked draft. A one-line edit doesn't need an agent.
+- **Watch for drift.** If an agent needs something outside its scope or invents permanent lore
+  it wasn't asked for, tell me.
 
 ## Folder map
-CANON — world lore (the truth about the world; ground all lore claims in these). Owned by
-**Worldsmith** (drafts) / **Steward** (writes):
+CANON, world lore (ground all lore claims here):
   `Characters/` (`Party/`, `The Crusade/…`, `The Resistance/…`)  `History/`  `Locations/`
-  `Organizations/`  `Religion/`  `Player Characters/` (backstory hooks only, on my request)
-  `Magic Items/` (+ `Recipes/`)
-CANON — events (authoritative for "what actually happened"). Owned by **Steward**:
-  `Session Notes/`    ← player-facing session recaps
-DM REFERENCE — real & authoritative, but DM-only; never show players. Retrieved by
-**Loremaster**, applied by **Worldsmith**/**Adventure Designer** for mechanics; do NOT cite as
-in-world fact:
-  `Private Notes/Meta Notes/`  (Magic Item Rarity tracking + our distribution table, Income & Gold, Lair Shop, dungeon tools, etc.)
-DESIGN LIBRARY — outside this vault, READ-ONLY, campaign-agnostic DM craft. Retrieved by
-**Loremaster** for mechanics; read directly by **Worldsmith** (item mechanics), **Adventure
-Designer** (prep) and **Continuity Auditor** (grounding). Never canon. What happened at the
-table, this vault's canon, House Rules and this campaign's own tables all outrank it.
-Campaign-specific numbers (finished recipes, shop prices, party-size tables) are decided HERE.
-  `C:\Users\mehul\DND\DesignLibrary\Export\`  (every .md in it: general systems and toolkits;
-  Prep Rules.md — advisory only; Ideas Index.md — idea bank, tell me when one gets used.
-  List the folder; don't assume a fixed set.)
-DM REFERENCE — planning artifacts, written by **Steward** on **Showrunner**'s approved drafts
-(the major-arc spine is DM-owned and treated as read-only spec):
-  `Private Notes/Planning/`  (`Major Arcs.md` — the campaign's fixed, DM-owned spine of four
-  major arcs; `Threads.md` — the tracker of threads, PC hooks, clocks, items and obligations,
-  and owed pages; and `Charters/` — minor arc / adventure / session charters and alignment
-  scorecards, with templates in `Charter Templates.md`. Durable reference, not throwaway prep)
-DM REFERENCE — the corrections ledger, written/maintained solely by **Steward**, consulted by
-**Loremaster** and **Continuity Auditor**; points at canon, never replaces it:
-  `Private Notes/Meta Notes/Corrections.md`  (see "Active corrections" above for the
-  always-loaded subset)
-NOT CANON — speculative; do not treat as things that happened. Drafted by **Adventure
-Designer**, written by **Steward**:
-  `Private Notes/Session Prep/` (+ `Old Sessions/`)  and  `Private Notes/Old Stuff/`
-ASSETS (reference only, not lore text): `Images/`
-IGNORE ALWAYS: `.obsidian/`  `.claude/`  `templates/`  (these are `ignorePatterns` in
-`quartz.config.ts` and never publish regardless of frontmatter)
+  `Organizations/`  `Religion/`  `Magic Items/` (+ `Recipes/`)
+  `Player Characters/` (player-owned, synced; backstory hooks only, on my request)
+CANON, events (what actually happened): `Session Notes/` (player-facing recaps)
+DM REFERENCE, tracking (DM-only; cite for what is open or owed, never as in-world fact):
+  `Private Notes/Planning/Current State.md` — the digest: where things stand as of the last session
+  `Private Notes/Planning/Threads.md` — threads, PC hooks, clocks, items and obligations, owed pages
+  `Private Notes/Planning/Major Arcs.md` — my fixed four-arc spine; read-only
+  `Private Notes/Planning/Charters/` — minor-arc and adventure charters, templates
+  `Private Notes/Planning/the restless blade - DM notes.md` — DM-only design notes for Vaxen's blade
+  `Private Notes/Meta Notes/Corrections.md` — ledger of recurring mistakes; points at canon
+  `Private Notes/Meta Notes/Workflow Log.md` — friction notes for improving this setup
+DM REFERENCE, mechanics (never in-world fact): `Private Notes/Meta Notes/` (Magic Item Rarity
+  and our distribution table, Income & Gold, Lair Shop, dungeon tools) and
+  `Administrative/House Rules.md`
+DESIGN LIBRARY, outside the vault, READ-ONLY: `C:\Users\mehul\DND\DesignLibrary\Export\` (every
+  .md in it; list the folder). Campaign-agnostic craft. `Prep Rules.md` is advisory;
+  `Ideas Index.md` is an idea bank (tell me when one gets used). Never canon. The table, this
+  vault's canon, House Rules and this campaign's own tables all outrank it.
+NOT CANON: `Private Notes/Session Prep/` (+ `Old Sessions/`) and `Private Notes/Old Stuff/`
+ASSETS: `Images/` (publishes regardless of draft flags)
+IGNORE: `.obsidian/`  `.claude/`
 
-## Canon vs. prep — READ FIRST
-- The CANON folders above are the only source of truth for established lore, subject to the order of authority below.
-- `Private Notes/Session Prep/` is NOT canon — it records what I planned, which often changes
-  or never happens. Never treat prep as evidence an event occurred, and never use it to write
-  player-facing pages. Ignore `Old Sessions/` and `Old Stuff/` entirely unless I explicitly
-  point you at a file.
-- To answer "what happened," use `Session Notes/`, never prep. Canon always beats prep.
-- Order of authority: my direct answers and rulings > the transcript brief, as evidence of what
-  was said and done at the table > raw notes I paste (player-written and paraphrased) >
-  `Session Notes/` recaps > canon pages. On what was SAID, pasted notes never override the
-  brief; if they disagree, use the brief's version and show me the disagreement, since a
-  transcript can mishear. Prep is not a source at all — do not surface prep details as
-  questions or ask me to reconcile them with canon. What happened at the table (details I
-  improvised included) is more recent than the canon pages, but it outranks a canon page only
-  where they conflict AND I have confirmed a resolution: until then, don't override either one;
-  flag the conflict to me with both versions and the cited lines, and propose a resolution.
+## Canon vs. prep
+- Prep records what I planned, which often changes or never happens. Never treat prep as
+  evidence an event occurred, never use it for player-facing pages, never ask me to reconcile
+  it with canon. Ignore `Old Sessions/` and `Old Stuff/` unless I point you at a file.
+- **Order of authority:** my direct answers and rulings > the transcript brief (evidence of
+  what was said and done) > raw notes I paste > `Session Notes/` recaps > canon pages. On what
+  was SAID, pasted notes never override the brief; if they disagree, use the brief's version and
+  show me both.
+- What happened at the table outranks an older canon page only once I have confirmed it. Until
+  then flag the conflict with both versions and cited lines, and propose a resolution. A page
+  the story has overtaken is out of date, not a mistake; don't log it in `Corrections.md`.
 
-## Player knowledge vs. DM knowledge — the actual mechanism
-- The site is built with Quartz's `RemoveDrafts` filter (see `quartz.config.ts`): a page
-  publishes unless its frontmatter has `draft: true`. There is no ExplicitPublish/`publish:
-  true` mechanism in this vault — don't use that key.
-- Write `draft: false` explicitly on new player-facing pages (every publishing page already
-  carries it; functionally identical to omitting the key).
-- Player-facing = a page NOT under an ignored folder (`Private Notes/`, `.claude/`,
-  `.obsidian/`, `templates/`) AND without `draft: true`.
-- DM-only = anything under `Private Notes/` (incl. `Meta Notes/`) OR any page with
-  `draft: true`.
-- Session recaps in `Session Notes/` DO publish, so their VISIBLE body is player-facing. DM-only
-  tracking for a session goes ONLY inside the `%% ... %%` comment block, which Quartz strips
-  from the published site. Never put DM-only info in the visible sections. DM-only
-  means lore only I track, never something said or done at the table (the one exception is a
-  private aside; see the recap rules below).
-- **Player Character pages sync from the players' Google Docs.** There, `%%` marks the
-  player's private background: hidden from the public site and from the other players, visible
-  to me. Only the final `# Local Notes` block is my own. Never edit player-authored text; the
-  sync owns it.
-- `%%` blocks on wiki pages stay in the wiki's in-world voice. No writer's notes, provenance,
-  session citations or open questions inside them; those go in the page's Local Notes or in
-  `Private Notes/Planning/Threads.md`.
-- For any other player-facing page, never include DM-only info: secrets, unrevealed plot, NPC
-  motives the party hasn't learned, monster tactics, or anything the characters didn't witness.
-  If unsure whether the party learned something, ask me before including it.
-- Publish hygiene: the draft filter applies to MARKDOWN ONLY — images/maps/PDFs under `Images/`
-  emit publicly regardless of any page's draft state. Keep secret handouts/maps out of `Images/`
-  entirely if they'd reveal something; there's no per-asset draft flag.
+## Player knowledge vs. DM knowledge
+- A page is player-facing if it is not under `Private Notes/`, `.claude/` or `.obsidian/` and
+  does not have `draft: true`. Everything else is DM-only.
+- Never put DM-only information in visible player-facing text: secrets, unrevealed plot, NPC
+  motives the party hasn't learned, anything the characters didn't witness. If unsure whether
+  the party learned something, ask.
+- Anything said or done at the table is not secret and is never left out of a recap to keep a
+  secret. The one exception is a private aside between me and one player: canon, kept out of the
+  visible recap, recorded in the recap's `%%` block and in `Threads.md` with who knows.
+- The `%%` mechanics, the Player Character page rule and the draft-flag rule are in
+  `.claude/rules/vault-writing.md`.
 
-## Grounding — errors can derail the campaign
-- Ground every world claim in a specific vault page; be ready to name the file.
-- Do NOT invent names, places, history, factions, or lore. If it isn't in the vault, say "I
-  don't find this in the vault" and ask.
-- Match established spellings exactly — search the vault before writing any proper noun. (Watch
-  faction names: The Crusade vs. The Resistance, Ecclesia Solari, House Aurum / Argentum /
-  Cuprum, Blood Horde, Cult of the Goddess Whose Name Is Night, etc.)
-- Respect `Administrative/House Rules.md`: D&D 2024 rules, official-content-only baseline (no
-  broad homebrew rules, though homebrew magic items are fine), and its specific banned/modified
-  spell list (mass-summon spells, Silvery Barbs, non-Revivify resurrection, most teleportation,
-  Zone of Truth, Sending). Any NPC, encounter, or item that touches these needs to respect it.
-- When uncertain, ask. A question always beats a plausible fabrication.
-- Before stating a character's identity, status or what the party knows, even as a passing descriptor in a list, check their `Threads.md` row and the newest Session Notes. If you haven't checked, leave the descriptor out.
+## Grounding
+- Ground every world claim in a specific vault page and be ready to name it.
+- Do not invent names, places, history, factions or lore. If it isn't in the vault, say so and ask.
+- Respect `Administrative/House Rules.md`: D&D 2024 rules, official content only (homebrew magic
+  items are fine), and its banned or modified spells (mass-summon spells, Silvery Barbs,
+  non-Revivify resurrection, most teleportation, Zone of Truth, Sending).
 
 ## Active corrections — do not repeat
-Recurring lore/continuity mistakes, promoted here by the Steward once a correction has
-recurred (or was marked `severity: high`). Full history, occurrence counts, and the mistake/
-correction detail live in `Private Notes/Meta Notes/Corrections.md` — this list is only the
-always-loaded reminder; an entry's canonical source is the actual truth, not this line.
+The always-loaded subset of `Private Notes/Meta Notes/Corrections.md` (entries that recurred or
+are high severity). The ledger holds the detail; the canonical source is the truth.
 
-- Do not treat text inside a `%%` DM-only comment block as player-facing without verifying the exact line-numbered open/close pair (`%%` can also appear inline mid-sentence) — see `Player Characters/Collin McCambridge.md`. Same discipline applies when drafting new pages: a fact whose only source is inside a `%%` block stays inside a `%%` block on the new page too.
-- Collin McCambridge IS Lord Eobard Aurum, and the party knows it (Collin told them in Session 28; taken as fact from Session 30; full name in Session 31). It is not a secret or a cover. Only the wider world believes Eobard died. See T-003 and C-003.
+- Do not treat text inside a `%%` block as player-facing without verifying the exact line-numbered open/close pair (`%%` can also appear inline mid-sentence) — see `Player Characters/Collin McCambridge.md`. A fact whose only source is inside a `%%` block stays inside a `%%` block on a new page too. (C-001)
+- Collin McCambridge IS Lord Eobard Aurum, and the party knows it (Collin told them in Session 28; taken as fact from Session 30; full name in Session 31). It is not a secret or a cover. Only the wider world believes Eobard died. (C-003, T-003)
+- Do not present a fact the party has long known as a new reveal, a secret or an open question (for example, Dawn has long been known as Twilight's wife). If `Current State.md` lists it as known to the party, it is settled. (C-004)
 
 ## Session transcripts and briefs
-- A transcript brief (produced by the dnd-audio-transcription project, outside the vault) is EVIDENCE of what was said and done at the table. It ranks below my direct answers and rulings and above my pasted raw notes, `Session Notes/` recaps and canon pages as evidence of what happened. It shows that something happened; it does not by itself make it canon: session events become canon when they enter `Session Notes/` with my approval. A brief never overrides a recap or canon page automatically: where they disagree, list both versions with the cited lines and wait for my confirmed resolution.
-- Facts from a brief or transcript (who, what, amount, name) may be stated in my own words in a recap. No quotes, dialogue, or close paraphrase of transcript text goes into the vault.
-- Every brief item is checked against its cited lines and canon before use. Items found only in the brief are confirmed with you before they enter a draft. Player inferences are phrased as belief, not fact.
-- A brief item flagged `improvised` is provenance only, not a demotion. It happened at the table, so it may go in the recap like any other item.
-- What a character or NPC says is recorded as said ("the ghost said …"), not as unattributed world fact, unless I settle it as fact. Anything I have marked as unnamed (for example the woman the ghost mentions) stays unnamed.
-- If a session event conflicts with a canon page, flag the page to me so I can decide whether it is out of date. Never override it silently, and never log it as a mistake.
-- Table talk and rules chatter stay out of the visible recap. Anything said or done in a session, including in the opening recap, is no longer secret and is never left out of the recap to keep a secret. Exception: a private aside between me and one player is canon but stays out of the visible recap. It is recorded in the %% block and in `Private Notes/Planning/Threads.md`, with the Knows column naming the characters who know. DM-only tracking (lore only I track) stays in the %% block and is sourced from you, not from the brief.
-- Read-only access to the brief folder and transcript is by your permission only; I never write there. Standing permission: for a `/session-summary` run, the Steward may read, read-only, the whole released `C:\Users\mehul\DND\dnd-audio-transcription\state\briefs\session-NN-v2\for-notes\` folder for the session being summarized, plus `C:\Users\mehul\DND\dnd-audio-transcription\transcripts\corrected\session-NN.json`, and nothing else in that repo. If the `for-notes\` folder is missing, or its `MANIFEST.json` shows no release, say so and stop; do not read any other folder.
-- The Steward may add facts from the opening-recap check to the previous session's page only after showing me the exact diff and getting my yes.
+- A transcript brief (from the dnd-audio-transcription project) is evidence of what was said
+  and done. It does not by itself make something canon: session events become canon when they
+  enter `Session Notes/`. Where a brief disagrees with a recap or canon page, list both versions
+  with cited lines and wait for my resolution.
+- Facts from a brief may be stated in my own words in a recap. No quotes, dialogue or close
+  paraphrase of transcript text goes into the vault.
+- Items found only in the brief are confirmed with me before they enter a draft. Player
+  inferences are phrased as belief. A brief item flagged `improvised` is provenance only; it
+  happened, so it goes in the recap like any other.
+- What a character or NPC says is recorded as said ("the ghost said …"), not as world fact,
+  unless I settle it. Anything I have marked unnamed stays unnamed.
+- Table talk and rules chatter stay out of the visible recap. DM-only tracking in the `%%`
+  block comes from me, not from the brief.
+- Standing permission, read-only, for a session summary: the released
+  `C:\Users\mehul\DND\dnd-audio-transcription\state\briefs\session-NN-v2\for-notes\` folder for
+  that session, plus `...\transcripts\corrected\session-NN.json`, and nothing else in that repo.
+  If the folder is missing or `MANIFEST.json` shows no release, say so and stop.
+- Facts from a session's opening recap are added to the previous session's page only after
+  showing me the diff.
 
-## Where things go
-- Player-facing session recaps: `Session Notes/Session NN Notes.md` — never
-  `Session NN - Title.md`. Leave the frontmatter title blank after the colon
-  (`title: "Session NN:"`); my players name the sessions themselves.
-- Magic item recipes: `Magic Items/Recipes/<Item Name>.md`
-- Session prep (DM-only): `Private Notes/Session Prep/Session NN - Prep.md`
-- Major-arc spine (DM-owned, read-only): `Private Notes/Planning/Major Arcs.md`
-- Arc/adventure/session charters (DM-only): `Private Notes/Planning/Charters/`
-- Threads, PC hooks, clocks, items and obligations, owed pages (DM-only): `Private Notes/Planning/Threads.md`
-- Stat blocks: whenever we make a stat block, once I have approved it, also create a matching homebrew version on D&D Beyond so I can use it in the encounter builder. Its name must end with ` - HB` so I can tell homebrew from official stat blocks there.
+## Stat blocks
+Whenever we make a stat block and I approve it, also create the homebrew version on D&D Beyond
+(name ending ` - HB`) with the `statblock` skill, so I can use it in the encounter builder. Prep
+documents name the creature and its D&D Beyond entry; they don't carry the stat block.
 
-## Style
-- Player-facing voice: third person, past tense, narrative chronicle.
-- Questions to me: plain and self-contained, one decision each. Say what the item is, why you are asking, and what happens by default if I don't answer. No internal jargon (for example 'brief-only') and no bare line ids; describe the moment in words.
-- `[[wikilinks]]`: hanging links to pages that do not exist yet are fine and useful — they let
-  me create the note later. What matters is the NAME: search the vault first and match the
-  established spelling exactly, and never link a proper noun you invented.
-
-## Skill / command → agent map
-Existing skills and commands now route through the team rather than writing directly:
-- `session-summary` command → **Steward** end to end (grounding, drafting, and writing the
-  recap all live in one role here; there's no separate "maker" step for a recap).
-- `magic-item` command → **Worldsmith** (creative flavor + mechanical numbers applied from a
-  Loremaster-sourced table pull) → **Continuity Auditor** (gate) → **Steward** (writes to
-  `Magic Items/Recipes/`).
-- `lore` skill (new-page creation / weaving lore into existing pages) → **Worldsmith** (drafts)
-  → **Continuity Auditor** (gate on anything nontrivial) → **Steward** (writes).
-- `prep` skill (session brainstorm → Lazy DM compile) → **Adventure Designer** (Phase 1
-  brainstorm and Phase 2 compile, with **Showrunner** confirming arc fit) → **Steward** (writes
-  to `Private Notes/Session Prep/`).
-- The former standalone `continuity-checker` agent has been folded into **Continuity Auditor**'s
-  "full vault sweep" mode — ask for a vault-wide audit the same way you always did.
-
-## Mechanical reference tables
-The `Private Notes/Meta Notes/` tables and the Design Library are pure reference tables; the
-Loremaster retrieves exact values from them rather than any agent approximating them. The
-Steward updates `Private Notes/Planning/Threads.md` after each session summary.
+## Skills and commands
+- `/cycle NN` — the whole between-session loop: recap → write-back → arc and thread report → prep.
+- `/session-summary NN` — recap of a played session (Steward).
+- `prep` — session prep: Showrunner report, then brainstorm with me, then compile.
+- `lore` — new or updated lore pages. `/magic-item` — crafting recipes.
+- `statblock` — D&D Beyond homebrew entry. `proto-map` — battlemap layout prototype.
+- `glossary` — word lists for the transcription pipeline.

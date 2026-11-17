@@ -36,12 +36,12 @@ Jitterhop maintains a policy of absolute scientific neutrality. He rejects the t
 
 Despite his frantic demeanor, Jitterhop is an incredibly supportive and wise teacher. He defends his students' work fiercely, encourages them to question everything (including him), and provides sage, unbiased life advice. He teaches that a good scientist must be able to entertain a thought without accepting it.
 
-%%
 # Current Research: Project Genesis
 
 Jitterhop’s current field of study is Artificial Tectonic Genesis.
 
 He believes the housing crisis of the [[Strata]], where billions fight over limited land, can be solved by manufacturing new [[Tectonic Islands]].
 
+%%
 To understand how to create land, he must understand how it breaks. Jitterhop is currently conducting controlled demolitions of islands. By exploding these islands and observing how the [[Resonance Crystals]] and [[Ley Lines]] react, he hopes to reverse-engineer the binding process.
 %%

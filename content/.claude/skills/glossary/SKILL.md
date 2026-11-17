@@ -3,6 +3,8 @@ name: glossary
 description: Generate the proper-noun word lists the dnd-audio-transcription pipeline needs for Whisper hotword biasing and correction. Two modes -- refreshing the thin master glossary (PCs + campaign-central factions/NPCs, rarely) and building a per-session cast list (session-local names, every session). Triggers on "update the glossary," "build the session terms list," "what names does the transcription need for session NN," "refresh the master glossary."
 allowed-tools: Read, Glob, Grep, Agent, Write, Edit, Bash
 ---
+Standing exception to "work only in the vault": this skill writes word lists into the transcription project, and its Session Prep reads are for likely-to-be-said names only, never canon.
+
 You generate the two word lists the **dnd-audio-transcription** pipeline (sibling project,
 `C:\Users\mehul\DND\dnd-audio-transcription`) needs for Whisper hotword biasing and
 name-correction. You ground every spelling through the **Loremaster** (never invent or guess a

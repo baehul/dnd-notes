@@ -53,3 +53,19 @@ Entry format:
 - **The correction:** Collin told the party he is Eobard Aurum in Session 28, and Alexandra called him Eobard. From Session 30 the party takes it as fact (DM ruling). In Session 31 he gave his full name, Lord Eobard Lucidean Aurum. The party and Alexandra know; the wider world still believes Eobard died. General rule: an entity page's status line, or an early recap, can be stale. Before stating any character's identity, status or what the party knows, read the matching Threads.md row and the newest Session Notes first.
 - **Canonical source:** [[Session 28 Notes]], [[Session 30 Notes]], [[Session 31 Notes]]; Threads.md T-003
 - **Scope:** player-character, collin-mccambridge, house-aurum
+
+## C-004: Long-known facts treated as new, secret or unsettled
+- **Status:** active
+- **Occurrences:** 3 (2026-10-19, 2026-10-19, 2026-10-19; backfilled 2026-11-16 from session transcripts, not logged at the time)
+- **The mistake:** Facts the party has known for many sessions were presented to the DM as new reveals or as open questions. Three instances in one sitting: [[Dawn]] being Twilight's wife was treated as new information; two points about [[Professor Sylas Thistlethorn|Sylas]] and [[Mulvin Thistlethorn|Mulvin]] were raised as unclear when the players already understood them; and see C-005. Same root as C-003: reading one page or one early recap without the later sessions.
+- **The correction:** Dawn has been known as Twilight's wife for a long time; it is not a reveal. General rule: before calling anything new, secret, or unclear to the players, read `Private Notes/Planning/Current State.md` and the matching Threads row. If the digest lists it as known to the party, it is settled; do not ask about it.
+- **Canonical source:** `Private Notes/Planning/Current State.md`; [[Twilight Emberrest]]
+- **Scope:** player-knowledge, twilight-emberrest, sylas, mulvin
+
+## C-005: Cole and Callum McCambridge, which is the father figure
+- **Status:** watch
+- **Occurrences:** 1 (2026-10-19; backfilled 2026-11-16)
+- **The mistake:** The roles of Cole and Callum McCambridge in Collin's life were misread, and the DM had to point back to Collin's page.
+- **The correction:** As Collin told it in Session 30: Cole was his steward, Callum's father, and the man Collin regards as his father figure; Callum and Cole were more family to him than his blood family, and his father killed them both. Recorded as said by Collin.
+- **Canonical source:** [[Session 30 Notes]]; [[Collin McCambridge]]; Threads.md T-003
+- **Scope:** player-character, collin-mccambridge

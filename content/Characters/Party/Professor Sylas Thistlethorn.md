@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Professor Sylas Thistlethorn
 aliases:
   - Sylas
@@ -25,7 +25,7 @@ tags:
 Sylas and his brother had secured passes to [[The Library of Layers]] in the [[Sinking City]]. According to the party's client, the brothers were last together at Smoke's Speakeasy preparing to use them, and Sylas never arrived at the Library as planned. The party took up the search through the Rat Race Private Detective Agency, a contract later revealed to have been set in motion by [[High Inquisitor Varius]]. Their inquiries turned up signs of a struggle in the alley where the kidnapping occurred, a [[Golden Sails Trading & Shipping Company|Golden Sails]] receipt placing him inside the Library, and Mulvin himself, chained in a warehouse basement at the docks.
 
 # Found in the Library
-Deep in the Library, the party found Sylas sealed in a shell that resembled [[Resonance Crystals|Resonance Crystal]], a knife lodged in his back, held in a kind of suspended stillness. As the Library came down around them, [[Twilight Emberrest|Twilight]] and [[Vaxen the Unkillable|Vaxen]] carried him out. He spent the night at [[Auntie Dorian]]'s hut still sealed, rode [[The Ferryman]]'s raft to the party's island, and remained there in his shell while the party decided what to do about the knife.
+Deep in the Library, the party found Sylas sealed in a shell that resembled [[Resonance Crystals|Resonance Crystal]], a knife lodged in his back, held in a kind of suspended stillness. As the Library came down around them, [[Twilight Emberrest|Twilight]] and [[Vaxen the Unkillable|Vaxen]] carried him out. He spent the night at [[Auntie Dorian]]'s hut still sealed, rode [[The Ferryman]]'s raft to the party's island, and remained there in his shell while the party decided what to do about the knife. On the voyage that followed, the party freed him from the shell and drew out the knife. Sylas woke aboard the island unable to feel his legs. He remembered meeting his brother that morning to enter the Library, and nothing after. He asked for [[Mulvin Thistlethorn|Mulvin]], whose whereabouts the party did not know. He now travels in a wheelchair beside his owl automaton, Winfrey.
 
 %%
 ---

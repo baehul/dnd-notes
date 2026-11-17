@@ -1,110 +1,99 @@
 ---
-description: Turn raw session notes into a player-facing Session Notes recap, interactively
+description: Turn a played session into the player-facing Session Notes recap and bring the trackers and wiki pages up to date
 argument-hint: NN [notes path] (or paste your raw notes in the next message)
 allowed-tools: Agent, SendMessage
 ---
 Usage: `/session-summary NN <notes path>`, or paste your raw session notes in the next message.
-The brief path is derived from NN:
-`C:\Users\mehul\DND\dnd-audio-transcription\state\briefs\session-NN-v2\for-notes\` (judge-blind;
-it only exists after the DM says "release"). If that folder is missing, or `MANIFEST.json` shows
-no release, say so and stop; do not read any other folder. In Stage 1 the Steward reads
-`brief.md`, `brief.json`, `opening_recap.json`, `table_names.tsv` and `MANIFEST.json` from that
-folder, and `lines.json` only for cited lines.
 
-This flow is owned end-to-end by the **Steward** subagent — grounding, timeline, drafting, and
-writing all happen inside the Steward's context, so the raw session files and canon pages never
-load into mine. My only job is to relay between you and the Steward. I do NOT read, grep, or
-glob the vault for this flow, and I do NOT draft the recap myself. The Orchestrator adds no
-separate review round between the Steward's draft and the DM unless the DM asks for one.
+The brief folder is derived from NN:
+`C:\Users\mehul\DND\dnd-audio-transcription\state\briefs\session-NN-v2\for-notes\`. It exists
+only after the DM releases it. If the folder is missing, or `MANIFEST.json` shows no release,
+say so and stop; do not read any other folder.
 
-Run it as a resumable loop with a SINGLE Steward instance — spawn it once, then continue it via
-SendMessage so it keeps everything it has read. Never re-spawn a fresh Steward mid-flow; that
-throws away its context and re-reads every file.
+This flow belongs to the **Steward** subagent: grounding, timeline, drafting and writing all
+happen in its context, so the raw session files never load into the main conversation. The main
+conversation relays between the DM and the Steward and adds no review round of its own.
 
-1. **Spawn the Steward** with your raw notes plus the SOURCES rule and Stage 1 instructions
-   below. Relay its timeline back to you.
-2. **Corrections.** You give corrections/additions. I SendMessage them to the same Steward
-   along with the Stage 2 instructions (structure + frontmatter below). Relay the draft to you.
-3. **Write.** Only on your explicit approval, I SendMessage the Stage 3 instruction. I never
-   approve on your behalf.
-4. Report back the exact path the Steward wrote. I do NOT commit or push — git is a separate
-   step you trigger.
+Run it with a SINGLE Steward: spawn it once, then continue it with SendMessage so it keeps what
+it has read. Never spawn a fresh Steward mid-flow.
 
-Everything below this line is the Steward's brief — I hand it the relevant stage's text; the
-Steward holds the recap format only for the duration of this flow, never permanently.
+1. **Spawn the Steward** with the raw notes, the SOURCES rule and Stage 1. Relay what it returns.
+2. **Corrections.** Send the DM's answers to the same Steward with Stage 2. Relay the draft.
+3. **Write.** On the DM's approval of the recap, send Stage 3, quoting the DM's approving words.
+4. **Stale pages.** Relay the Steward's proposed page edits; send back the DM's decisions.
+5. Report every path written. No commit or push.
+
+**How to relay.** Never pass a whole stage on at once. Relay 3 to 5 items at a time (timeline
+bullets, questions or draft scenes) and wait for the DM before the next chunk. Order: the
+"Assumed" list first as one short block the DM can skim and veto, then the questions, then the
+timeline. Collect all answers and send them to the Steward in one message. If the DM says the
+defaults are fine, stop asking and proceed.
+
+Everything below the line is the Steward's brief; hand it the relevant stage.
 
 ---
 
-**SOURCES**, in order of authority: your answers and rulings > a transcript brief, if the DM has
-granted one (EVIDENCE of what was said and done) > the DM's pasted raw notes (player-written
-and paraphrased) > `Session Notes/` (what happened at the table, improvised details included)
-> the canon folders. On what was said, pasted notes never override the brief; if they
-disagree, use the brief's version and list both for the DM. NEVER consult
-`Private Notes/Session Prep/` — prep is only what was planned, is frequently wrong, and is
-not canon. If a prep detail contradicts the notes, discard it silently: don't raise it,
-don't ask to reconcile it. A brief never overrides anything automatically: where it
-disagrees with `Session Notes/` or a canon page, list both versions with the cited lines in
-Stage 1 and wait for the DM's confirmed resolution; a session event outranks an older canon
-page only once the DM has confirmed the resolution. Brief-only items are confirmed with the
-DM before they enter a draft. Read a brief or transcript only at the exact paths the DM
-granted in this session.
+**SOURCES**, in order of authority: the DM's answers and rulings > the transcript brief
+(evidence of what was said and done) > the DM's pasted raw notes (player-written, paraphrased)
+> `Session Notes/` > the canon folders. On what was said, pasted notes never override the brief;
+where they disagree, use the brief's version and list both for the DM. Never consult
+`Private Notes/Session Prep/`: prep is only what was planned. If a prep detail contradicts the
+notes, discard it silently. A brief never overrides a recap or canon page automatically: list
+both versions with the cited lines as a CONFLICT and wait for the DM. Read the brief folder
+named above and `C:\Users\mehul\DND\dnd-audio-transcription\transcripts\corrected\session-NN.json`
+only; nothing else in that repo.
 
-**Stage 1 — grounding + timeline.** Read the 2–3 most recent `Session Notes/` files (to match
-voice, continuity, and current player knowledge) and cross-check every proper noun against
-`Characters/`, `Locations/`, `Organizations/`, `Religion/`, `Player Characters/` for exact
-established spelling. Return a BULLETED TIMELINE of what happened, in order, with `(?)` on
-anything you can't find or that's ambiguous. STOP — write nothing, draft no prose yet.
+**Stage 1 — grounding and timeline.** Read, in this order:
+- `Private Notes/Planning/Current State.md` (who everyone is and what the party knows going in).
+- The 2 most recent `Session Notes/` files (voice, continuity).
+- From the brief folder: `MANIFEST.json`, `table_names.tsv`, `brief.md`, `brief.json`, and
+  `lines.json` only for cited lines. The opening recap is `opening_recap.json` if the folder has
+  it; otherwise use the opening-recap section inside `brief.json` / `brief.md`; if there is
+  neither, say that the opening recap was not detected for this session and carry on.
 
-If the DM has granted a transcript brief, mark each timeline bullet BOTH (in the DM's notes and
-the brief), NOTES-ONLY (keep; mark it), or BRIEF-ONLY. List BRIEF-ONLY bullets separately and
-hold them for the DM's confirmation; they do not enter a draft unconfirmed. List each
-disagreement between the brief and `Session Notes/` or canon as a CONFLICT with both versions and
-the cited lines; resolve nothing yourself. Handle brief items this way: (1) an `improvised` flag
-is provenance only: keep the item, attributed ("the ghost said …"), never as unattributed world
-fact unless the DM settles it, and never name anyone the DM has marked unnamed. (2) Anything the
-brief marks open or awaiting audio, or that depends on an open queue entry, stays out of the
-visible recap until the DM rules. A character's guess at a duration stays attributed as a guess.
-(3) Gaps come from the DM's notes, not the brief; do not fill a gap from the brief without
-confirmation. (4) Table talk, rules chatter, table-address names (nicknames, DM-name mishearings, the
-recording bot) and `present` lists stay out of the visible recap. Anything said or done in the
-session, including in the opening recap, is never left out for secrecy. The table's shorthand
-"Collin's sister" for Alexandra goes in attributed as shorthand, never as a claim that they
-are siblings.
-(5) No quotes, dialogue or close paraphrase of transcript text: facts in your own words. Ask
-the DM only plain, self-contained questions, one decision each: say what the item is, why you
-are asking, and what happens by default. No internal jargon and no bare line ids; describe the
-moment in words.
+Cross-check every proper noun against the vault for its exact established spelling. Build a
+bulleted timeline of what happened, in order. Write nothing and draft no prose yet.
 
-Return Stage 1 as ONE grouped message. First list what is included automatically: every BOTH
-item, and every NOTES-ONLY item (marked). Then ask only about BRIEF-ONLY items, CONFLICTS, and
-names the vault and the known-names list cannot identify. Each is its own plain question with a
-default, following the rule on questions above. Do not ask about anything already decided.
+Sort every item and decide what needs the DM:
+- **Take the default, no question:** anything in both the DM's notes and the brief; anything
+  only in the DM's notes; a spelling that matches the vault; a name settled in `table_names.tsv`
+  (use its `resolves_to`); an identity or relationship stated in `Current State.md`.
+- **Ask:** items only in the brief that would change the story as recorded (a new fact, name,
+  amount, promise or reveal); CONFLICTS between sources; names neither the vault nor the name
+  table can identify; whether the party learned something, when that is unclear.
+- Items only in the brief that are incidental colour (a gesture, a remark, scene dressing)
+  are taken by default and listed under Assumed.
 
-Known names: read `table_names.tsv` from the brief folder (columns: heard, kind, resolves_to, note). A name listed there is settled: use its `resolves_to` and never ask about it. Only names not listed get a vault check and, if still unidentified, a question.
+Handling rules: (1) An `improvised` flag is provenance only: keep the item, attributed ("the
+ghost said …"), never as unattributed world fact unless the DM settles it, and never name
+anyone the DM has marked unnamed. (2) Anything the brief marks open or awaiting audio stays out
+of the visible recap until the DM rules. A character's guess stays attributed as a guess.
+(3) Gaps are filled from the DM's notes, not from the brief. (4) Table talk, rules chatter,
+table-address names and `present` lists stay out. (5) Nothing said or done in the session,
+including in the opening recap, is left out for secrecy. (6) Table shorthand for a relationship
+goes in as shorthand unless `Current State.md` confirms the relationship as fact.
 
-Opening recap: every session opens with a player's recap, from when the DM asks who wants to
-give the session summary until he thanks them for the wonderful session summary and grants
-Inspiration. Compare it against the previous session's Session Notes page and list anything
-said in the recap that the page lacks, described in plain words. List anything the recap
-contradicts as a question for the DM, not as an error. Do not edit the page; any edit needs
-the DM's direct approval.
+Opening recap: every session opens with a player's recap of the previous one. Compare it with
+the previous session's `Session Notes/` page. List what the recap says that the page lacks, and
+anything it contradicts as a question, not an error. Do not edit that page.
 
-Working notes: `brief.md` is long and Read truncates at about 25,000 tokens, so read it in
-pages (offset and limit). `lines.json` is large: read only the cited lines with a short python
-script, never the whole file. When searching the vault, exclude `Private Notes/Session Prep`.
-When editing wrapped text, match by content across line breaks.
+Return Stage 1 as one message in four parts:
+1. **Assumed** — one line each: the defaults you took that the DM might want to veto. Leave out
+   the unremarkable ones.
+2. **Questions** — numbered, each plain and self-contained, one decision, saying what the item
+   is, why you ask, and the default. Describe the moment in words; no line ids or internal labels.
+3. **Timeline** — the bullets, in order.
+4. **Opening recap** — additions and contradictions for the previous session's page, if any.
 
-**Stage 2 — draft.** After the DM's corrections, draft the recap in EXACTLY the structure
-below. Voice: third person, past tense, narrative chronicle. Keep story beats; leave out turns,
-distances, check types, spell names and inventory counts. Who did what may stay (for example,
-"Cletus made himself and the bag invisible"). Ground every detail in the notes
-or canon — invent nothing. Return the draft; do not write it yet.
+Working notes: `brief.md` is long; read it in pages (offset and limit). `lines.json` is large;
+read only cited lines with a short python script. Exclude `Private Notes/Session Prep` from
+vault searches.
 
-Before returning the draft, spot-check it: (1) search for quotation marks (only the
-frontmatter title may have them; quote nothing from the transcript); (2) search for numbers and
-mechanics words (turns, feet, rolls, checks, saves, slots, DC, hit points) and remove them or
-put them in plain language; (3) verify 3 to 5 claims that have no support in the DM's notes
-against the cited lines. Note anything you changed.
+**Stage 2 — draft.** After the DM's answers, draft the recap in EXACTLY this structure. Voice:
+third person, past tense, narrative chronicle. Keep story beats; leave out turns, distances,
+check types, spell names and inventory counts. Who did what may stay ("Cletus made himself and
+the bag invisible"). Ground every detail in the notes, the brief or canon; invent nothing. No
+quotes, dialogue or close paraphrase of transcript text. Return the draft; do not write it yet.
 
 ```
 ---
@@ -127,27 +116,32 @@ tags:
 
 %%
 ### DM Secrets & Context
-* [Lore only the DM tracks, for example who an unnamed figure really is, or what an NPC
-  secretly did. Never resource tracking (spell slots, expended or lost items, unstated
-  durations): those appear as a story beat in the prose if they matter, or are dropped.
-  Quartz strips this block from the published site.]
+* [Lore only the DM tracks, sourced from the DM: who an unnamed figure really is, what an NPC
+  secretly did. Never resource tracking. Quartz strips this block from the published site.]
 %%
 ```
 
-Omit any Additions line with nothing to list, and omit the whole Additions heading if all
-three are empty. Do not list single-scene NPCs, sub-areas, or "None".
+Omit any Additions line with nothing to list, and the whole heading if all three are empty.
+The visible sections hold what was said and done at the table. A private aside between the DM
+and one player goes in the `%%` block and in `Threads.md` with who knows. Leave the title blank
+after the colon; never write or suggest one.
 
-The visible sections (Summary, Additions) hold what was said and done at the table, including
-the opening recap; nothing said or done in a session is secret, so nothing from it is left out
-to keep a secret. Lore only the DM tracks goes in the `%%` block, never the visible body. Leave the title blank
-after the colon (`title: "Session NN:"`) — players name their own sessions; never write or
-suggest one.
+Before returning the draft, check it yourself: search for quotation marks (only the frontmatter
+title may have them); search for numbers and mechanics words and remove them or put them in
+plain language; verify 3 to 5 claims that have no support in the DM's notes against their cited
+lines. Say what you changed.
 
-**Stage 3 — write.** Only after the DM approves: write to `Session Notes/Session NN Notes.md`
-(the vault convention — NOT `Session NN - Title.md`) and update `Private Notes/Planning/Threads.md`
-(State, Status, Knows and Touched for every row the session moved; new rows at the next free ID;
-resolved rows to the archive) and bump NPC last-seen. The `%%` block holds only secrets and
-offscreen lore the DM tracks; threads, hooks and clocks live in `Threads.md`. A private aside
-between the DM and one player is recorded in both. No
-resource tracking (spell slots, expended or lost items, unstated durations) and no XP, loot or
-level logging goes in it. Report the exact path written. Do not commit or push.
+**Stage 3 — write and write-back.** On the DM's approval of the recap:
+1. Write `Session Notes/Session NN Notes.md`.
+2. Update `Private Notes/Planning/Threads.md` and `Private Notes/Planning/Current State.md`, and
+   append the scorecard line to the active adventure charter's log, as your own instructions
+   describe. These are DM-only: write them directly.
+3. Run the lint script on the files written.
+4. Return: the paths written; a short summary of what changed in the trackers (rows moved,
+   added, resolved; who-knows changes); and the **stale pages** list: every canon page the
+   session overtook, each with a proposed chronicle-voice edit as a diff. Do not write those
+   yet; they publish, so the DM approves them, in chunks of 3 to 5.
+
+**Stage 4 — stale pages.** Write the page edits the DM approved, exactly as approved. For each
+one declined, note "page stale: <what>" on the matching Threads row. Run the lint script and
+report the paths. No XP, loot or level logging. Do not commit or push.

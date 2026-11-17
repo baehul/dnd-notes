@@ -1,57 +1,44 @@
 ---
 name: lore
 description: Create or update campaign lore pages and keep related pages cross-linked. Use when I want to write a page for a new major NPC, location, organization, religion, or piece of history, or fold new lore into existing articles. Triggers on "make a page for," "write up this NPC/location," "add this lore," "update the pages about."
-allowed-tools: Agent, SendMessage
+allowed-tools: Read, Glob, Grep, Agent, SendMessage
 ---
-You build and maintain the campaign's lore wiki by ROUTING the team — you do NOT read the vault
-or draft pages yourself. Grounding lives in the Loremaster, drafting in the Worldsmith, the
-adversarial check in the Continuity Auditor, and the write in the Steward. Your job is to gather
-intent from me, relay between the agents (resuming a maker via SendMessage so it keeps its
-context), and bring drafts to me for approval. Never invent facts; if something isn't
-established and I haven't told you, ASK me before dispatching.
+You build and maintain the campaign's lore wiki with me. Size the process to the job. Never
+invent facts: for anything permanent, if it isn't established and I haven't told you, ask me.
+`.claude/rules/vault-writing.md` governs every word that reaches the vault.
 
-## Mode A — Create a new page
-1. Gather essentials from me: who/what it is, what they want, how it connects to existing
-   factions/places/people, and whether the players already know about it. If key facts are
-   missing, ASK — don't fill gaps, and don't dispatch until you have them.
-2. Spawn the **Loremaster** with my essentials. Ask for a cited brief: the established canon
-   this connects to (facts + file paths + exact spellings), which related pages already exist
-   (so we link only real ones), and a recommended placement (closest existing page + its
-   folder). Placement guide to include in the brief:
-   - A person → `Characters/` under their faction/house subfolder (e.g.
-     `Characters/The Crusade/House Aurum`, `Characters/The Resistance/Blood Horde`).
-   - A place → `Locations/` (Resistance-tied → `Locations/Resistance/<Faction>`).
-   - An organization / institution / a House itself → `Organizations/` (Crusade →
-     `Organizations/The Crusade`, Resistance → `Organizations/The Resistance`).
-   - A deity, faith, or practice → `Religion/<tradition>` (Blood Gods, Old Path, Solari Faith,
-     Way of Night).
-   - An event or era → `History/`.
-3. Spawn the **Worldsmith** with my essentials + the Loremaster brief. It drafts the page in the
-   established voice, links only pages the Loremaster confirmed exist, and recommends the target
-   path. Relay the draft to me; on my revisions, SendMessage them to the same Worldsmith.
-4. For anything nontrivial (a major NPC, location, faction, religion, or anything touching
-   multiple canon threads), spawn the **Continuity Auditor** on the draft as a GATE:
-   contradictions with canon, wasted/undeveloped canon, naming consistency, broken references,
-   and player/DM leaks. Relay its findings; loop fixes back to the Worldsmith via SendMessage.
-5. I decide. On my approval, spawn the **Steward** to write to the agreed path with the correct
-   flag — `draft: true` if the players don't know it yet, `draft: false` if they do. Report the
-   exact path the Steward wrote.
+## First: how big is this?
+- **Small** — a line or a paragraph on an existing page, a relationship, a correction. Do it
+  yourself: read `Private Notes/Planning/Current State.md` and the pages involved, draft the
+  edit, run the propagation steps from the conventions file to find every other page that
+  states the same fact, and show me the diffs (3 to 5 at a time). Write on my approval.
+- **Substantial** — a new page for a major NPC, location, faction, religion or piece of
+  history, or lore that touches several threads. Use the team, below.
 
-## Mode B — Update / weave in new lore
-1. Spawn the **Loremaster**: find every existing page the new lore touches (across the canon
-   folders) and report each one's current relevant content and exact spellings.
-2. Spawn the **Worldsmith** with that brief: propose specific per-page edits (what to add or
-   change, and where) plus reciprocal [[wikilinks]] so related pages point at each other (a new
-   NPC's page links their House; the House page mentions them). Relay to me.
-3. Nontrivial → **Continuity Auditor** gate, as in Mode A step 4.
-4. On my approval, spawn the **Steward** to apply the edits. Keep player-facing pages free of
-   DM-only detail — anything secret goes in a `%% ... %%` block or a `draft: true` page.
+## Substantial: new page
+1. Gather the essentials from me in one batch: who or what it is, what it wants, how it connects
+   to existing factions, places and people, and whether the players already know it. Don't
+   launch anything until I've answered.
+2. **Loremaster**: a cited brief of the canon this connects to, which related pages exist (so
+   we link only real ones), the current state of everyone involved, and the closest existing
+   page for placement and format.
+3. **Worldsmith**, with my essentials and the brief: the draft (DM layer and player-facing
+   layer), the target path, and the list of existing pages that need a line pointing back.
+   Relay it; send my revisions to the same Worldsmith.
+4. **Continuity Auditor**, once, on the draft I've accepted: Significant findings come to me;
+   Minor ones are fixed and listed in one line. If I resolve a Significant conflict in a way
+   that reaches other pages, send the resolution back to the Auditor for its integration list.
+5. On my approval, launch the **Steward** to write the page and every reciprocal edit, with
+   `draft: false` if the players know it and `draft: true` if they don't. Report the paths.
+
+## Substantial: weaving new lore into existing pages
+1. **Loremaster**: every page the new lore touches, with each one's current relevant text.
+2. Draft the per-page edits yourself from that brief (or hand it to the **Worldsmith** if it
+   needs real authorship), in chronicle voice, with reciprocal wikilinks.
+3. Auditor once if it touches several threads. Then my approval, then the **Steward** applies.
 
 ## Always
-- You never Read/Grep/Glob or draft yourself — that context belongs to the Loremaster and
-  Worldsmith and is kept out of yours. You spawn, relay, and bring drafts to me.
-- `Session Notes/` and the lore folders are canon; `Private Notes/Session Prep/` is NOT —
-  instruct the Loremaster to ignore it.
-- Match established spellings exactly; never link a wikilink target that doesn't exist (the
-  Loremaster confirms what exists). If a target should exist but doesn't, tell me and offer to
-  create it (Mode A).
+- Anything secret goes inside a `%%` block or on a `draft: true` page, never in visible text.
+- Never link a name that isn't established; if a page should exist but doesn't, tell me.
+- After a lore change, update the affected lines of `Current State.md` and `Threads.md`.
+- `Private Notes/Session Prep/` is not a source.

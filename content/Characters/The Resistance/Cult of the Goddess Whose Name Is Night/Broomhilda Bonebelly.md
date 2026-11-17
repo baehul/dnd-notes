@@ -32,3 +32,4 @@ Broomhilda follows a strict code of bioethics: "The Creator is the First Subject
 %%
 # Role in The Resistance
 While she publicly argues for retreat, Broomhilda is loyal to a fault. She will not abandon [[Cult of the Goddess Whose Name Is Night|The Cult]] as long as they remain. She is also the person who provides the contact for [[Captain Arabella Montclaire-Smythe|Captain Arabella]] since she sources things from her on occasion. 
+%%

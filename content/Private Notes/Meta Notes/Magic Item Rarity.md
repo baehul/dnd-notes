@@ -30,8 +30,8 @@ Counts toward the distribution below. Status: Held (in party hands), Used (consu
 | Sean | Cletus | Armor of Acid Resistance | F | — | Recipe, ready (Ooze Core in hand; armor still plain studded leather) |
 | Sean | Cletus | Pearl of Power | F | — | Recipe; hard component: Resonance Crystal sand from Sylas's shell (I-011) |
 | Dugan | Vase | Instrument of the Bards (Doss Lute) | F | — | Recipe; planned for Vase; hard component: ettercap web, Jade Fragment (I-009) |
-| Trey | Collin | Marionette's Fang | B | — | Recipe, ready (tooth in hand) |
-| Rahul | Vaxen | the restless blade (Auntie Dorian's service) | F (G on release) | — | Planned (I-001, I-008) |
+| Trey | Collin | Marionette's Fang | B | S31 | Held (crafted S31) |
+| Rahul | Vaxen | the restless blade (Auntie Dorian's service) | F (G on release) | S29 | Held (given by Auntie Dorian, S29; I-008) |
 
 ### Infusions (not counted)
 Cletus's Artificer infusions do not count toward the distribution:
@@ -47,6 +47,18 @@ Cletus's Artificer infusions do not count toward the distribution:
 - Residue flakes (the vial of unidentified golden magical residue, S25)
 - The self-mending desk (I-003; now Self-Mending Desk recipe)
 - Keystone Lens (Harmony Engine augment)
+
+## Rulings and reference (DM, 2026-10-03)
+- The Bag of Holding (Cletus's, originally Lancaster's bag of potions from Session 5) does not count as a magic item; the table uses it as a handwave for party inventory.
+- Cletus's Artificer infusions do not count toward the distribution (listed above).
+- The All-Purpose Tool is a DM-given item (Category F, Cletus), not an infusion.
+- The Pearl of Power recipe is for Cletus.
+- The Scroll of Imprisonment was not used in Session 28; Twilight holds it.
+- The Fish Suit (S25) and the Potion of Greater Invisibility (S14) count as given, even though they are not on a D&D Beyond sheet.
+- Players: Trey (Collin), Armaan (Twilight), Sean (Cletus), Dugan (Vase), Jonny (Otis; "JTran" in older notes), Rahul (Vaxen).
+- The restless blade: the service never fails (it is a long-term quest); Remove Curse works normally and angers the spirits; the item takes the spirit's name once it is revealed in play. Detail in `Private Notes/Planning/the restless blade - DM notes.md`.
+- Distribution targets at Level 7 (6 PCs): the full 1 to 4 band plus about half of the 5 to 10 band. At the 2026-10-03 audit the party was behind in Category A and Category G; Vase and Vaxen held no major item. Recount before relying on this.
+- D&D Beyond: campaign https://www.dndbeyond.com/campaigns/7197102 (needs the DM's login, through Chrome). Party gold and shared items are on each sheet under Inventory, Party Inventory, not on the personal sheets. Character IDs: Cletus 158504265, Collin 157936891, Otis 156087005, Twilight 158506206, Vase 150317904, Vaxen 158690388.
 
 ## Distribution
 This is for a distribution for a party of 6 PC's

@@ -20,5 +20,5 @@ Make a working layout tool for one or more fights. It answers what has to be on 
 
 ## Rules
 - These maps are DM-only prep. Never save them under `Images/`, which publishes regardless of draft state, and don't write them into `Session Notes/`.
-- A layout is not canon. If it needs a new permanent place, flag it for the Worldsmith.
-- If we settle a map size or layout that differs from the prep doc, offer the change as a diff for the Steward.
+- A layout is not canon. If it needs a new permanent place, flag it to me for the `lore` skill.
+- If we settle a map size or layout that differs from the prep doc, update the prep file (it is DM-only, so write it directly) and tell me what changed.

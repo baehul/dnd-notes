@@ -31,7 +31,7 @@ He is rarely seen fully; usually, he winds his massive body through the thick ba
 
 # The Jade Fragment
 
-Luwei’s domain is a medium-sized [[Tectonic Islands|Tectonic Island]] known as **The Jade Fragment**. It is a humid, suffocating expanse of marshland and towering bamboo forests, perpetually covered in thick, magical fog.
+Luwei’s domain is a [[Tectonic Islands|Tectonic Island]] about the size of the [[Monastery of Night]], known as **The Jade Fragment**. It is a humid, suffocating expanse of marshland and towering bamboo forests, perpetually covered in thick, magical fog.
 
 %%
 The island is covered in a unique flora known as Whisper Reeds. These plants share a hive-mind connection with Luwei who can hear every word spoken within the reeds anywhere on the island.
@@ -55,7 +55,7 @@ While [[The Resistance]] views this as a doomsday scenario, Luwei views it with 
 %%
 # Minions and Servants
 
-The Jade Fragment is tended by a fanatic hierarchy of servants made up of green dragonborn/kobolds and grung who revere Luwei as a god-emperor.
+The Jade Fragment is tended by a fanatic hierarchy of servants made up of green dragonborn/kobolds and grung, with drakes kept among them, who revere Luwei as a god-emperor.
 
 - **The Tenders:** These servants are responsible for tedning to Luwei and the maintenance of the bamboo groves.
 - **The Ambushers:** Servants who patrol the perimeter of the swamp. They utilize the shifting paths created by Luwei to strike intruders from the mist before vanishing.

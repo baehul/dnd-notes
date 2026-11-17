@@ -1,14 +1,24 @@
 {
   "autoMemoryEnabled": false,
   "permissions": {
+    "additionalDirectories": [
+      "C:\\Users\\mehul\\DND\\DesignLibrary\\Export",
+      "C:\\Users\\mehul\\DND\\dnd-audio-transcription\\state\\briefs"
+    ],
     "allow": [
       "Read",
       "Grep",
-      "Glob"
-    ],
-    "ask": [
-      "Write",
-      "Edit"
+      "Glob",
+      "Edit(/Private Notes/**)",
+      "Skill(cycle)",
+      "Skill(session-summary)",
+      "Skill(prep)",
+      "Skill(lore)",
+      "Skill(magic-item)",
+      "Skill(statblock)",
+      "Skill(proto-map)",
+      "Skill(glossary)",
+      "Bash(python .claude/scripts/vault_lint.py *)"
     ],
     "deny": [
       "Bash(rm -rf:*)",
@@ -17,5 +27,18 @@
       "Bash(git push:*)"
     ],
     "defaultMode": "default"
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python \"${CLAUDE_PROJECT_DIR}/.claude/scripts/vault_lint.py\" --hook"
+          }
+        ]
+      }
+    ]
   }
 }
